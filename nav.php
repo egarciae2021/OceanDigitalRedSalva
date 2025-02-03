@@ -7,15 +7,15 @@ $menuItems = array(
 		'Endocrinología' => '/especialidades/endocrinologia',
 		'Gastroenterología' => '/especialidades/gastroenterologia',
 		'Ginecología' => '/especialidades/ginecologia',
-		'Medicina General' => '/especialidades/mastologia-y-cancer-de-piel',
-		'Medicina Interna' => '/especialidades/mastologia-y-cancer-de-piel',
-		'Medicina Física y Rehabilitación' => '/especialidades/mastologia-y-cancer-de-piel',
+		'Medicina General' => '/especialidades/medicina-general',
+		'Medicina Interna' => '/especialidades/medicina-interna',
+		'Medicina Física y Rehabilitación' => '/especialidades/medicina-fisica-rehabilitacion',
 		'Neumología' => '/especialidades/neumologia',
 		'Neurología' => '/especialidades/neurologia',
 		'Oftalmología' => '/especialidades/oftalmologia',
 		'Pediatría' => '/especialidades/pediatria',
-		'Reumatología' => '/especialidades/traumatologia',
-		'Urología' => '/especialidades/traumatologia'
+		'Reumatología' => '/especialidades/reumatologia',
+		'Urología' => '/especialidades/urologia'
 	),
 	'Staff médico' => '/staff-medico',
 	'Servicios' => array(
@@ -99,7 +99,7 @@ $menuItems = array(
 							<!-- <a target="_blank" class="btn btn-naranja d-none d-lg-inline-block rounded-pill" href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."><span>Reservar cita</span></a> -->
 						<li class="nav-item">
 							<a target="_blank"
-								href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."
+								 
 								class="">
 								<img src="/images/icon.svg" alt="WhatsApp Icon" style="width:30px !important;heigth:30px !important">
 								<span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span>

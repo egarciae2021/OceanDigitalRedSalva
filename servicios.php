@@ -1,5 +1,5 @@
 <div class="overflow-hidden content-space-b-lg-2">
-	<div class="container content-space-2 content-space-b-lg-3">
+	<div class="container content-space-1 content-space-b-lg-3">
 		<div class="row align-items-lg-center">
 			<div class="col-lg-7 mb-10 mb-lg-0">
 				<div class="position-relative">
@@ -36,7 +36,7 @@
 				<div class="row border-bottom pb-3 mb-3">
 
 					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/neuomologia">Neumología</a>
+						<a class="link link-secondary link-pointer" href="/especialidades/neumologia">Neumología</a>
 					</div>
 					<div class="col-6">
 						<a class="link link-secondary link-pointer" href="/especialidades/cardiologia">Cardiología</a>

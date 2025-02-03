@@ -1,4 +1,5 @@
 <style>
+
 .swiper-slide {
     background-size: cover;
     background-position: center;
@@ -13,9 +14,24 @@
     transition: background-image 0.3s ease-in-out; /* Transición suave */
 }
 
+.swiper-wrapper {
+    width: 80%;
+    height: 100%;
+}
+
+.swiper-slide {
+    width: 90% ;
+    height: 100% !important; /* Opcional: Ajusta a la altura de la ventana */
+    background-size: 90% 120% !important;
+    background-position: center;
+    background-repeat: no-repeat;
+	overflow-y: none; 
+}
+
+
 </style>
 
-<div class="position-relative" style="margin-top:3% !important ;" >
+<div class="position-relative" style="margin-top:3% !important; height:600px !important;background color:" >
 	<div class="js-swiper-blog-modern-hero swiper swiper-equal-height"   >
 		<div class="swiper-wrapper" > 
 			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner1.png">

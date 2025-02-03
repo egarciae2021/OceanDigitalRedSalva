@@ -13,7 +13,8 @@
 	</div>
 </section>
 <img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
-<section class="fondo-azul content-space-3 d-none d-md-block">
+<section class="fondo-azul content-space-3 d-none d-md-block" style=" background: rgb(4,147,167) !important;
+background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)  !important;">
 	<div class="container pt-3 mb-n5">
 		<div class="row position-relative">
 			<div class="position-md-absolute top-0 col-md-7 offset-md-5 h-100">

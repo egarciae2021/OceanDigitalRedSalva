@@ -6,8 +6,7 @@
 			</div>
 			<div class="mb-0">
 				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i class="fa fa-arrow-left small me-1"></i> Especialidades</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/especialidades/cardiologia"><i class="fa fa-arrow-left small me-1"></i> Cardiología</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i class="fa fa-arrow-left small me-1"></i> Servicios</a>
 			</div>
 		</div>
 	</div>
@@ -29,8 +28,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 					</div>
 					<div class="mb-5">
 						<a class="link color-azul color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-						<a class="link color-azul color-naranja-hover ms-3" href="/especialidades"><i class="fa fa-arrow-left small me-1"></i> Especialidades</a>
-						<a class="link color-azul color-naranja-hover ms-3" href="/especialidades/cardiologia"><i class="fa fa-arrow-left small me-1"></i> Cardiología</a>
+						<a class="link color-azul color-naranja-hover ms-3" href="/servicios"><i class="fa fa-arrow-left small me-1"></i> Servicios</a>
 					</div>
 				</div>
 			</div>
@@ -43,9 +41,8 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Las patologías del sistema circulatorio abarcan una amplia gama de enfermedades que afectan el sistema vascular, incluyendo arterias, venas y capilares. Estas condiciones pueden incluir enfermedades arteriales periféricas, venas varicosas y trombosis venosa profunda, entre otras. Los síntomas pueden variar desde dolor y hinchazón en las extremidades hasta complicaciones más graves como úlceras y embolias.</p>
-				<p>En la Clinica Red Salva, nos dedicamos a diagnosticar y tratar una variedad de patologías del sistema circulatorio. Empleamos tecnologías avanzadas como ultrasonidos Doppler y angiografías para una evaluación precisa. Los tratamientos pueden ir desde terapias no invasivas, como la compresión y los cambios en el estilo de vida, hasta intervenciones más invasivas como la angioplastia y la cirugía vascular. Nuestro objetivo es proporcionar un tratamiento eficaz que mejore la circulación y la salud vascular de nuestros pacientes.</p>
-				<?php require_once('links-cardiologia.php');?>
+				<p>El servicio de Neonatología de la Clinica Red Salva es reconocido a nivel nacional y está preparado para resolver todos los problemas que pueda presentar un niño al nacer. Contamos con la Unidad de Cuidados Intensivos Neonatal (UCIN) y Cuidados Intermedios (UTI).</p>
+				<p>Asimismo, tenemos el respaldo de un equipo humano multidisciplinario altamente calificado, entrenado y especializado en la atención del recién nacido sano y críticamente enfermo las 24 horas del día, permitiéndonos lograr resultados exitosos.</p>
 			</div>
 		</div>
 	</div>

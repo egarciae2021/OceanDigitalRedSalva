@@ -52,7 +52,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 					contamos con la mejor tecnología de diagnóstico no invasivo: Electrocardiograma de reposo y de
 					ritmo, Electrocardiograma Holter de 24 Horas, Monitoreo Ambulatorio de Presión Arterial de 24 horas,
 					Ecocardiografía Doppler Color y Ecografía Doppler vascular.</p>
-				<?php require_once('links-cardiologia.php'); ?>
+					<?php require_once('links-cardiologia.php'); ?>
 			</div>
 		</div>
 	</div>

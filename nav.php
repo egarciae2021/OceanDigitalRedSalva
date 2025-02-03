@@ -1,6 +1,6 @@
 <?php
 	$menuItems = array(
-		'Especialidades' => array(
+		'Especialidadess' => array(
 			'__enlace__' => '/especialidades', 
 			'Cardiología' => '/especialidades/cardiologia', 
 			'Dermatologia' => '/especialidades/dermatologia',

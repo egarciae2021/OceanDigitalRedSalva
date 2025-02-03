@@ -18,7 +18,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 		<div class="row position-relative">
 			<div class="position-md-absolute top-0 col-md-7 offset-md-5 h-100">
 				<div class="bg-img-center card-img">
-					<img class="img-fluid rounded-3" style="height:400px !important" src="/images/especialidades/Pediatria.jpg">
+					<img class="img-fluid rounded-3" style="height:400px !important" src="/images/Especialidades/Pediatria.jpg">
 				</div>
 			</div>
 			<div class="col-10 col-md-7 col-lg-6 offset-1 offset-md-0 content-space-md-1">

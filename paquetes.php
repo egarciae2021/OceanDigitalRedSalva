@@ -14,7 +14,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/dulce-espera">
+				<a class="card card-transition" href="/servicios/centro-de-vacunacion">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Centro de vacunación.svg" alt="Image Description">
 					</div>
@@ -29,7 +29,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/nacimientos-montesur">
+				<a class="card card-transition" href="/servicios/topico">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Tópico.svg" alt="Image Description">
 					</div>
@@ -44,7 +44,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/programa-pediatrico">
+				<a class="card card-transition" href="/servicios/imagenes">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Centro de Imágenes.svg" alt="Image Description">
 					</div>
@@ -60,7 +60,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/paquete-colelap">
+				<a class="card card-transition" href="/servicios/consultas-externas">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Consulta Externa.svg" alt="Image Description">
 					</div>
@@ -75,7 +75,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/paquete-hernioplastia">
+				<a class="card card-transition" href="/servicios/farmacia">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Farmacia.svg" alt="Image Description">
 					</div>
@@ -90,7 +90,7 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/programas/paquete-catarata">
+				<a class="card card-transition" href="/servicios/laboratorio-clinico">
 					<div class="card-pinned">
 						<img class="card-img-top" src="/images/Servicios/Laboratorio.svg" alt="Image Description">
 					</div>

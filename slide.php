@@ -18,7 +18,7 @@
 <div class="position-relative" style="margin-top:3% !important ;" >
 	<div class="js-swiper-blog-modern-hero swiper swiper-equal-height"   >
 		<div class="swiper-wrapper" > 
-			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner_1.svg">
+			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner1.png">
 				<div class="container content-space-b-sm-2 content-space-t-sm-2">
 					<div class="row">
 						<div class="col-md-12">
@@ -31,7 +31,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner_2.svg">
+			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner2.png">
 				<div class="container content-space-b-sm-2 content-space-t-sm-2">
 					<div class="row">
 						<div class="col-md-12">
@@ -45,7 +45,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner_3.svg">
+			<div class="swiper-slide lazyload bg-img-start content-space-4 content-space-t-lg-3 content-space-t-sm-4 content-space-b-sm-4" data-bg="/images/banner3.png">
 				<div class="container content-space-b-sm-2 content-space-t-sm-2">
 					<div class="row">
 						<div class="col-md-12">

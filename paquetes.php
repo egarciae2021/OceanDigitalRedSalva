@@ -16,7 +16,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/dulce-espera">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Centro de vacunación.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/dulce-espera.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Centro de vacunación</h5>
@@ -31,7 +35,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/nacimientos-montesur">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Tópico.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/nacimientos-montesur.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Tópico Red Salva</h5>
@@ -46,7 +54,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/programa-pediatrico">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Centro de Imágenes.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/programa-pediatrico.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Centro de Imágen</h5>
@@ -62,7 +74,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/paquete-colelap">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Consulta Externa.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/paquete-colelap.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Consultas Externas</h5>
@@ -77,7 +93,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/paquete-hernioplastia">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Farmacia.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/paquete-hernioplastia.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Farmacia</h5>
@@ -92,7 +112,11 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/programas/paquete-catarata">
 					<div class="card-pinned">
+<<<<<<< HEAD
 						<img class="card-img-top" src="/images/Servicios/Laboratorio.svg" alt="Image Description">
+=======
+						<img class="card-img-top" src="/images/paquete-catarata.webp" alt="Image Description">
+>>>>>>> a0d337b0e766873b058c093786a560f5d944cdce
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">Laboratorio Clínico</h5>

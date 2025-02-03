@@ -10,12 +10,12 @@ background: linear-gradient(90deg, rgba(41,83,160,1) 17%, rgba(4,147,167,1) 100%
 					mereces.</h5>
 			</div>
 			<div class="col-md-auto">
-				<div class="d-grid d-sm-flex gap-3">
+				<div class="d-grid d-sm-flex gap-3"  >
 					<a class="btn btn-naranja d-md-block"
 						href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."
 						style="background: rgb(41,83,160) !important;
 background: linear-gradient(90deg, rgba(41,83,160,1) 17%, rgba(4,147,167,1) 100%) !important"><i
-							class="fa fa-whatsapp"></i> RESERVA AHORA.</a>
+							class="fa fa-whatsapp"></i> RESERVA AHORA</a>
 				</div>
 			</div>
 		</div>

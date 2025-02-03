@@ -25,7 +25,7 @@ $menuItems = array(
 		'Laboratorio clínico' => '/servicios/laboratorio-clinico',
 		'Centro de vacunación' => '/servicios/centro-de-vacunacion',
 		'Centro de Imágen' => '/servicios/imagenes',
-		'Tópico Red Salva' => '/servicios/topico', 
+		'Tópico Red Salva' => '/servicios/topico',
 	),
 	'Paquetes' => array(
 		'__enlace__' => '/servicios',
@@ -53,7 +53,7 @@ $menuItems = array(
 	data-hs-header-options='{
 	"fixMoment": 0,
 	"fixEffect": "slide"
-}'>
+}' style>
 	<div class="container">
 		<nav class="js-mega-menu navbar-nav-wrap">
 			<a class="navbar-brand" href="/" aria-label="Clinica Red Salva" style="margin-top:-10px !important">
@@ -99,10 +99,11 @@ $menuItems = array(
 							<!-- <a target="_blank" class="btn btn-naranja d-none d-lg-inline-block rounded-pill" href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."><span>Reservar cita</span></a> -->
 						<li class="nav-item">
 							<a target="_blank"
-								 
+								href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."
 								class="">
-								<img src="/images/icon.svg" alt="WhatsApp Icon" style="width:30px !important;heigth:30px !important">
-								<span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span>
+								<img src="/images/boton_reserva.png" alt="WhatsApp Icon"
+									style="width:150px !important;heigth:250px !important">
+								<!-- <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span> -->
 							</a>
 						</li>
 

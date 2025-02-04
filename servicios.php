@@ -3,7 +3,9 @@
 		<div class="row align-items-lg-center">
 			<div class="col-lg-7 mb-10 mb-lg-0">
 				<div class="position-relative">
-					<img class="img-fluid w-75 rounded-3" src="/images/especialidades-001.webp"
+					<img class="img-fluid w-75 rounded-3" src="/images/conoce-nuestas-especialidades.svg"
+						alt="Nuestras especialidades">
+					<!-- <img class="img-fluid w-75 rounded-3" src="/images/especialidades-001.webp"
 						alt="Nuestras especialidades">
 
 					<div class="position-absolute bottom-0 end-0 mb-n10 me-5">
@@ -11,7 +13,7 @@
 							<img class="img-fluid w-65 shadow rounded-3" src="/images/doctoreshome.webp"
 								alt="Image Description">
 						</div>
-					</div>
+					</div> -->
 					<figure class="position-absolute bottom-0 start-0 zi-n1 mb-n7 ms-n7" style="width: 10rem;">
 						<img class="img-fluid" src="/images/dots.svg" alt="Image Description">
 					</figure>
@@ -48,8 +50,7 @@
 					</div>
 
 					<div class="col-6">
-						<a class="link link-secondary link-pointer"
-							href="/especialidades/oftalmologia">Oftalmología</a>
+						<a class="link link-secondary link-pointer" href="/especialidades/oftalmologia">Oftalmología</a>
 					</div>
 				</div>
 				<div class="mt-5">

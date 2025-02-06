@@ -993,10 +993,10 @@ $pageSpecificMetadata = [
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],
-    '/servicios/consultas-externas' => [
+    '/servicios/consultas-externa' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/consultas-externas.webp',
-        'title' => 'Consultas externas | Red salva',
-        'h1' => 'Consultas externas',
+        'title' => 'Consultas externa | Red salva',
+        'h1' => 'Consultas externa',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],

@@ -65,7 +65,7 @@
 						<img class="card-img-top" src="/images/Servicios/Consulta Externa.svg" alt="Image Description">
 					</div>
 					<div class="card-body">
-						<h5 class="card-title color-naranja">Consultas Externas</h5>
+						<h5 class="card-title color-naranja">Consulta Externa</h5>
 						<p>Brindamos atención médica especializada con la comodidad y calidad que necesitas, sin
 							necesidad de internamiento.</p>
 					</div>

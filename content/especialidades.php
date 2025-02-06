@@ -11,16 +11,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p>Nuestra atención cuenta con altos niveles de calidad por parte del cuerpo médico, asistencial y
-					administrativo. Así como también en la infraestructura física y equipos médicos de tecnología de
-					punta, los cuales nos han posicionado entre el público y usuarios en general, como un referente a
-					nivel nacional e internacional de salud privada. Tenemos una amplia experiencia en la atención de la
-					mujer y recién nacidos, manteniendo lo más altos estándares de calidad en todos nuestros servicios.
-					En esta nueva fase buscamos englobar el cuidado integral de la mujer y su familia durante todas las
-					etapas de su vida. Además, contamos con equipos biomédicos de última generación, un staff de
-					profesionales altamente calificado y la seguridad de contar con la mejor atención personalizada en
-					todo momento. Le ofrecemos la mayor comodidad en un ambiente adecuado para su total restablecimiento
-					en habitaciones individuales y suites enteramente equipadas para brindarle el más cálido servicio.
+				<p>La atención se distingue por su alta calidad, brindada por un equipo médico, asistencial y
+					administrativo experto.
+
+					Nuestra infraestructura y equipos médicos de vanguardia nos posicionan como líderes en salud
+					privada, con amplia experiencia en el cuidado integral de la mujer y su familia.
+
+					Contamos con profesionales calificados, tecnología biomédica de punta y atención personalizada,
+					ofreciendo comodidad en instalaciones equipadas para una óptima recuperación.
 				</p>
 
 				<div class="row border-bottom pb-3 mb-3">

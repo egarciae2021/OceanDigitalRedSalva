@@ -101,9 +101,9 @@ $menuItems = array(
 							<a target="_blank"
 								href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20servicios."
 								class="">
-								<img src="/images/boton_reserva.png" alt="WhatsApp Icon"
-									style="width:150px !important;heigth:250px !important">
-								<!-- <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span> -->
+								<!-- <img src="/images/boton_reserva.png" alt="WhatsApp Icon"
+									style="width:150px !important;heigth:250px !important"> -->
+								<span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span>
 							</a>
 						</li>
 

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El tamizaje auditivo mediante emisiones otoacústicas es una prueba que detecta la capacidad del oído interno (cóclea) para producir sonidos en respuesta a estímulos auditivos. Este examen es rápido, no invasivo y se utiliza comúnmente en recién nacidos para detectar pérdida auditiva congénita. El tamizaje auditivo temprano es fundamental para el desarrollo del habla y el lenguaje, permitiendo una intervención oportuna si se detecta alguna anormalidad.</p>
-				<p>En la Clinica Red Salva, ofrecemos tamizajes auditivos con emisiones otoacústicas para asegurar un desarrollo auditivo saludable en los niños. Nuestros especialistas en audiología utilizan esta prueba como una herramienta clave en la prevención y detección temprana de trastornos auditivos, asegurando un tratamiento efectivo y oportuno.</p>
+				<p>En la Red salva, ofrecemos tamizajes auditivos con emisiones otoacústicas para asegurar un desarrollo auditivo saludable en los niños. Nuestros especialistas en audiología utilizan esta prueba como una herramienta clave en la prevención y detección temprana de trastornos auditivos, asegurando un tratamiento efectivo y oportuno.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

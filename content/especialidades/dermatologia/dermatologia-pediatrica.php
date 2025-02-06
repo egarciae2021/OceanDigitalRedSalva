@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La dermatología pediátrica se especializa en el diagnóstico y tratamiento de enfermedades de la piel en niños, desde recién nacidos hasta adolescentes. Esta área aborda condiciones comunes como eczema, dermatitis, infecciones cutáneas y problemas congénitos de la piel.</p>
-				<p>En la Clinica Red Salva, nuestro equipo de dermatólogos pediátricos ofrece una atención compasiva y especializada para los más pequeños. Utilizamos técnicas y tratamientos adecuados para la piel sensible de los niños, asegurando que reciban el mejor cuidado posible en un entorno seguro y cómodo.</p>
+				<p>En la Red salva, nuestro equipo de dermatólogos pediátricos ofrece una atención compasiva y especializada para los más pequeños. Utilizamos técnicas y tratamientos adecuados para la piel sensible de los niños, asegurando que reciban el mejor cuidado posible en un entorno seguro y cómodo.</p>
 				<?php require_once('links-dermatologia.php');?>
 			</div>
 		</div>

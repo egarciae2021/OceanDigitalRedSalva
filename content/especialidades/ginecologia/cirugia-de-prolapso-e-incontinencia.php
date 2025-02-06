@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía de prolapso e incontinencia se realiza para corregir el desplazamiento de órganos pélvicos y tratar la incontinencia urinaria. Estos problemas pueden afectar significativamente la calidad de vida de las mujeres, causando molestias y problemas funcionales.</p>
-				<p>En la Clinica Red Salva, ofrecemos tratamientos quirúrgicos avanzados para el prolapso y la incontinencia. Nuestros ginecólogos utilizan técnicas innovadoras para asegurar una corrección efectiva y una recuperación rápida, proporcionando un seguimiento integral para mejorar la salud y el bienestar de nuestras pacientes.</p>
+				<p>En la Red salva, ofrecemos tratamientos quirúrgicos avanzados para el prolapso y la incontinencia. Nuestros ginecólogos utilizan técnicas innovadoras para asegurar una corrección efectiva y una recuperación rápida, proporcionando un seguimiento integral para mejorar la salud y el bienestar de nuestras pacientes.</p>
 				<?php require_once('links-ginecologia.php');?>
 			</div>
 		</div>

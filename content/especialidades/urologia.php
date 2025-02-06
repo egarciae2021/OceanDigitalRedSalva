@@ -44,7 +44,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 				<p>La atención médica se realiza en nuestros consultorios externos, en dónde los padres participan de los logros de sus hijos en crecimiento y desarrollo tanto físico como cognitivo, en el diagnóstico de enfermedades, inmunizaciones, orientación dietética; además de todo lo que el bebé o niño requiera.</p>
 				<p>Las consultas para controles médicos son; previa cita. Las consultas de bebés o niños enfermos no requieren previa cita y serán atendidos según el grado de urgencia.</p>
 				<p>Nuestros pediatras le dedican al bebé o niño y a sus padres, todo el tiempo necesario para realizar un examen completo, absolver todas sus dudas y brindarles toda la tranquilidad y seguridad que requieren.</p>
-				<p>Las vacunas que ofrecemos en la Clinica Red Salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de la recomendada por su pediatra.</p>
+				<p>Las vacunas que ofrecemos en la Red salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de la recomendada por su pediatra.</p>
 			</div>
 		</div>
 	</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La rinoplastia, o cirugía de la nariz, se realiza para mejorar la apariencia y función de la nariz. Este procedimiento puede corregir deformidades, mejorar la proporción facial y corregir problemas respiratorios. La rinoplastia es una de las cirugías estéticas más comunes y puede tener un gran impacto en la apariencia y confianza del paciente.</p>
-				<p>En la Clinica Red Salva, nuestros cirujanos especializados en rinoplastia utilizan técnicas avanzadas para lograr resultados precisos y naturales. Nos aseguramos de que cada paciente reciba una atención personalizada, desde la evaluación inicial hasta el seguimiento postoperatorio, para garantizar su satisfacción y seguridad.</p>
+				<p>En la Red salva, nuestros cirujanos especializados en rinoplastia utilizan técnicas avanzadas para lograr resultados precisos y naturales. Nos aseguramos de que cada paciente reciba una atención personalizada, desde la evaluación inicial hasta el seguimiento postoperatorio, para garantizar su satisfacción y seguridad.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

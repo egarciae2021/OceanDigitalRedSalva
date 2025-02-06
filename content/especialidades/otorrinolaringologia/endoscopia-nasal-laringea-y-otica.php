@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La endoscopia nasal, laríngea y ótica es un procedimiento diagnóstico que utiliza endoscopios para examinar las cavidades nasales, la laringe y los oídos. Esta técnica permite a los médicos visualizar directamente estas áreas, facilitando la detección de problemas como sinusitis, pólipos nasales, infecciones del oído y alteraciones en las cuerdas vocales. El procedimiento es rápido, seguro y se realiza con anestesia local, proporcionando una experiencia cómoda para el paciente.</p>
-				<p>En la Clinica Red Salva, ofrecemos endoscopias nasales, laríngeas y óticas con equipos de última generación y personal médico especializado. Nos esforzamos por proporcionar diagnósticos precisos y tratamientos eficaces, mejorando la salud y el bienestar de nuestros pacientes a través de un enfoque integral y personalizado.</p>
+				<p>En la Red salva, ofrecemos endoscopias nasales, laríngeas y óticas con equipos de última generación y personal médico especializado. Nos esforzamos por proporcionar diagnósticos precisos y tratamientos eficaces, mejorando la salud y el bienestar de nuestros pacientes a través de un enfoque integral y personalizado.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La acromegalia es un trastorno hormonal que se produce cuando la glándula pituitaria produce demasiada hormona de crecimiento, lo que causa el crecimiento excesivo de los huesos y tejidos. Los síntomas incluyen manos y pies agrandados, cambios faciales y problemas de salud asociados.</p>
-				<p>En la Clinica Red Salva, ofrecemos un diagnóstico y tratamiento especializado para la acromegalia. Utilizamos un enfoque multidisciplinario que incluye terapias médicas y, en algunos casos, cirugía, para controlar la producción de hormonas y mitigar los síntomas, mejorando la calidad de vida de nuestros pacientes.</p>
+				<p>En la Red salva, ofrecemos un diagnóstico y tratamiento especializado para la acromegalia. Utilizamos un enfoque multidisciplinario que incluye terapias médicas y, en algunos casos, cirugía, para controlar la producción de hormonas y mitigar los síntomas, mejorando la calidad de vida de nuestros pacientes.</p>
 				<?php require_once('links-endocrinologia.php');?>
 			</div>
 		</div>

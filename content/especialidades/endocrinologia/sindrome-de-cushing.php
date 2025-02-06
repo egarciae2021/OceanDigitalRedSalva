@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El síndrome de Cushing es una condición causada por niveles elevados de cortisol en el cuerpo, lo que puede resultar en aumento de peso, debilidad muscular y otros problemas de salud. Este síndrome puede ser consecuencia del uso prolongado de corticosteroides o de tumores que producen cortisol.</p>
-				<p>En la Clinica Red Salva, nuestros endocrinólogos están capacitados para diagnosticar y tratar el síndrome de Cushing. Utilizamos un enfoque multidisciplinario para manejar los niveles de cortisol y tratar las causas subyacentes, proporcionando un cuidado integral para mejorar la salud y el bienestar de nuestros pacientes.</p>
+				<p>En la Red salva, nuestros endocrinólogos están capacitados para diagnosticar y tratar el síndrome de Cushing. Utilizamos un enfoque multidisciplinario para manejar los niveles de cortisol y tratar las causas subyacentes, proporcionando un cuidado integral para mejorar la salud y el bienestar de nuestros pacientes.</p>
 				<?php require_once('links-endocrinologia.php');?>
 			</div>
 		</div>

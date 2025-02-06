@@ -42,7 +42,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>uestro equipo de profesionales médicos y de enfermería actualizan sus conocimientos constantemente de acuerdo a los estándares aceptados internacionalmente. De esta manera, te brindamos una labor asistencial confiable e integral.</p>
-				<p>En Clinica Red Salva, estudiamos cada caso en particular, haciendo un seguimiento de la paciente y procurando ofrecer soluciones rápidas y eficaces para su tranquilidad.</p>
+				<p>En Red salva, estudiamos cada caso en particular, haciendo un seguimiento de la paciente y procurando ofrecer soluciones rápidas y eficaces para su tranquilidad.</p>
 				<p>Realizamos revisiones ginecológicas periódicas y preventivas, además de diversos procedimientos como colposcopia, ecografía, histeroscopia y laparoscopia.</p>
 				<p>Además, ofrecemos atención y control del embarazo mes a mes, reduciendo de esta manera el riesgo de posibles complicaciones que perjudiquen su desarrollo.</p>
 				<p>No hay una edad concreta para la primera visita al ginecólogo, pero se recomienda en adolescentes en edad temprana o con algún problema ginecológico.</p>

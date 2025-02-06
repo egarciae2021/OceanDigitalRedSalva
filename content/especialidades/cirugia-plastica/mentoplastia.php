@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La mentoplastia es una cirugía que se realiza para mejorar la forma y el tamaño del mentón, lo cual puede equilibrar las proporciones faciales y mejorar el perfil del paciente. Este procedimiento puede implicar el uso de implantes o la reducción del hueso del mentón para alcanzar los resultados deseados.</p>
-				<p>En la Clinica Red Salva, nuestros cirujanos plásticos tienen experiencia en realizar mentoplastias con resultados estéticamente agradables y naturales. Ofrecemos un enfoque personalizado para cada paciente, asegurando una evaluación detallada y un seguimiento postoperatorio completo para garantizar la satisfacción y seguridad del paciente.</p>
+				<p>En la Red salva, nuestros cirujanos plásticos tienen experiencia en realizar mentoplastias con resultados estéticamente agradables y naturales. Ofrecemos un enfoque personalizado para cada paciente, asegurando una evaluación detallada y un seguimiento postoperatorio completo para garantizar la satisfacción y seguridad del paciente.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

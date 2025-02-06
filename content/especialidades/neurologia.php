@@ -41,7 +41,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva cuenta con especialistas en neurología con muchos años de experiencia ofreciendo atención especializada en el diagnóstico, tratamiento y seguimiento de trastornos del sistema nervioso central y periférico. Nuestro equipo de neurólogos altamente capacitados se dedica a proporcionar cuidados personalizados a pacientes de todas las edades con una amplia gama de afecciones neurológicas. Realizamos evaluaciones exhaustivas para diagnosticar trastornos neurológicos, utilizando tecnologías avanzadas, pruebas neuropsicológicas y otros estudios especializados</p>
+				<p>Red salva cuenta con especialistas en neurología con muchos años de experiencia ofreciendo atención especializada en el diagnóstico, tratamiento y seguimiento de trastornos del sistema nervioso central y periférico. Nuestro equipo de neurólogos altamente capacitados se dedica a proporcionar cuidados personalizados a pacientes de todas las edades con una amplia gama de afecciones neurológicas. Realizamos evaluaciones exhaustivas para diagnosticar trastornos neurológicos, utilizando tecnologías avanzadas, pruebas neuropsicológicas y otros estudios especializados</p>
 				<?php require_once('links-neurologia.php');?>
 			</div>
 		</div>

@@ -42,7 +42,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva, cuenta con especialistas en Cirugía Plástica con muchos años de experiencia y amplia trayectoria. Aplicamos las técnicas más modernas en la corrección de todo proceso congénito, adquirido, tumoral entre otros; que requieran reparación, reposición, o que afecte la forma o función corporal. Nuestros procesos son menos traumáticos e invasivos con menor riesgo en comparación a las técnicas convencionales. Esto le permitirá retornar a sus actividades en pocos días.</p>
+				<p>Red salva, cuenta con especialistas en Cirugía Plástica con muchos años de experiencia y amplia trayectoria. Aplicamos las técnicas más modernas en la corrección de todo proceso congénito, adquirido, tumoral entre otros; que requieran reparación, reposición, o que afecte la forma o función corporal. Nuestros procesos son menos traumáticos e invasivos con menor riesgo en comparación a las técnicas convencionales. Esto le permitirá retornar a sus actividades en pocos días.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

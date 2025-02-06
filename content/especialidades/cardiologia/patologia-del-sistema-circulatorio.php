@@ -44,7 +44,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Las patologías del sistema circulatorio abarcan una amplia gama de enfermedades que afectan el sistema vascular, incluyendo arterias, venas y capilares. Estas condiciones pueden incluir enfermedades arteriales periféricas, venas varicosas y trombosis venosa profunda, entre otras. Los síntomas pueden variar desde dolor y hinchazón en las extremidades hasta complicaciones más graves como úlceras y embolias.</p>
-				<p>En la Clinica Red Salva, nos dedicamos a diagnosticar y tratar una variedad de patologías del sistema circulatorio. Empleamos tecnologías avanzadas como ultrasonidos Doppler y angiografías para una evaluación precisa. Los tratamientos pueden ir desde terapias no invasivas, como la compresión y los cambios en el estilo de vida, hasta intervenciones más invasivas como la angioplastia y la cirugía vascular. Nuestro objetivo es proporcionar un tratamiento eficaz que mejore la circulación y la salud vascular de nuestros pacientes.</p>
+				<p>En la Red salva, nos dedicamos a diagnosticar y tratar una variedad de patologías del sistema circulatorio. Empleamos tecnologías avanzadas como ultrasonidos Doppler y angiografías para una evaluación precisa. Los tratamientos pueden ir desde terapias no invasivas, como la compresión y los cambios en el estilo de vida, hasta intervenciones más invasivas como la angioplastia y la cirugía vascular. Nuestro objetivo es proporcionar un tratamiento eficaz que mejore la circulación y la salud vascular de nuestros pacientes.</p>
 				<?php require_once('links-cardiologia.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La retinopatía diabética es una complicación de la diabetes que afecta los vasos sanguíneos de la retina, causando pérdida de visión. El tratamiento puede incluir medicamentos, terapia con láser y cirugía.</p>
-				<p>En la Clinica Red Salva, ofrecemos un enfoque integral para el tratamiento de la retinopatía diabética. Nuestros oftalmólogos utilizan técnicas avanzadas para diagnosticar y tratar esta condición, proporcionando un seguimiento continuo para asegurar la mejor salud ocular posible para nuestros pacientes.</p>
+				<p>En la Red salva, ofrecemos un enfoque integral para el tratamiento de la retinopatía diabética. Nuestros oftalmólogos utilizan técnicas avanzadas para diagnosticar y tratar esta condición, proporcionando un seguimiento continuo para asegurar la mejor salud ocular posible para nuestros pacientes.</p>
 				<?php require_once('links-oftalmologia.php');?>
 			</div>
 		</div>

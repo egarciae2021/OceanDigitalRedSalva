@@ -28,7 +28,7 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-12">
-			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">L</span>as vacunas que ofrecemos en Clinica Red Salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de las recomendadas por su pediatra.</p>
+			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">L</span>as vacunas que ofrecemos en Red salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de las recomendadas por su pediatra.</p>
 			<p>Contamos con las siguientes vacunas:</p> 
 						<div class="row">
 							<div class="col-md-3">

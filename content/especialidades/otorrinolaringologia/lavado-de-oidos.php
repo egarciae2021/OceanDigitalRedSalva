@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El lavado de oídos es un procedimiento que se utiliza para limpiar el conducto auditivo externo de cerumen acumulado u otras obstrucciones. Utilizando una solución salina tibia, se introduce suavemente en el oído para aflojar y eliminar el cerumen. Este método es seguro, efectivo y ayuda a prevenir infecciones, además de mejorar la audición en casos de obstrucción significativa.</p>
-				<p>En la Clinica Red Salva, nuestros otorrinolaringólogos realizan lavados de oídos con técnicas seguras y efectivas, asegurando una limpieza adecuada y el alivio de los síntomas asociados con la acumulación de cerumen. Nos enfocamos en proporcionar una atención de calidad, permitiendo a nuestros pacientes disfrutar de una mejor salud auditiva.</p>
+				<p>En la Red salva, nuestros otorrinolaringólogos realizan lavados de oídos con técnicas seguras y efectivas, asegurando una limpieza adecuada y el alivio de los síntomas asociados con la acumulación de cerumen. Nos enfocamos en proporcionar una atención de calidad, permitiendo a nuestros pacientes disfrutar de una mejor salud auditiva.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

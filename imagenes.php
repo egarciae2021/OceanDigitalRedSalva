@@ -28,7 +28,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/densitometria">
-							<img class="img-fluid u-shadow-v2" src="/img/densitometria.jpg" width="100%" alt="Densitometría | Imágenes | Clinica Red Salva" title="Densitometría | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/densitometria.jpg" width="100%" alt="Densitometría | Imágenes | Red salva" title="Densitometría | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/densitometria">Densitometría</a>
@@ -38,7 +38,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/ecografia">
-							<img class="img-fluid u-shadow-v2" src="/img/ecografia.jpg" width="100%" alt="Ecografía | Imágenes | Clinica Red Salva" title="Ecografía | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/ecografia.jpg" width="100%" alt="Ecografía | Imágenes | Red salva" title="Ecografía | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/ecografia">Ecografía</a>
@@ -48,7 +48,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/mamografia">
-							<img class="img-fluid u-shadow-v2" src="/img/mamografia.jpg" width="100%" alt="Mamografía | Imágenes | Clinica Red Salva" title="Mamografía | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/mamografia.jpg" width="100%" alt="Mamografía | Imágenes | Red salva" title="Mamografía | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/mamografia">Mamografía</a>
@@ -58,7 +58,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/radiologia">
-							<img class="img-fluid u-shadow-v2" src="/img/radiologia.jpg" width="100%" alt="Radiología | Imágenes | Clinica Red Salva" title="Radiología | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/radiologia.jpg" width="100%" alt="Radiología | Imágenes | Red salva" title="Radiología | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/radiologia">Radiología</a>
@@ -68,7 +68,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/biopsia-percutanea-de-la-mama-por-aspiracion-al-vacio-guiada-por-estereotaxia">
-							<img class="img-fluid u-shadow-v2" src="/img/biopsia-por-estereotaxia.jpg" width="100%" alt="Biopsia percutánea de la mama por aspiración al vacío, guiada por estereotaxia | Imágenes | Clinica Red Salva" title="Biopsia percutánea de la mama por aspiración al vacío, guiada por estereotaxia | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/biopsia-por-estereotaxia.jpg" width="100%" alt="Biopsia percutánea de la mama por aspiración al vacío, guiada por estereotaxia | Imágenes | Red salva" title="Biopsia percutánea de la mama por aspiración al vacío, guiada por estereotaxia | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/biopsia-percutanea-de-la-mama-por-aspiracion-al-vacio-guiada-por-estereotaxia">Biopsia percutánea de la mama por aspiración al vacío, guiada por estereotaxia</a>
@@ -78,7 +78,7 @@
 				<div class="col-lg-3 g-mb-30">
 					<div class="text-center u-block-hover">
 						<a href="/imagenes/biopsia-percutanea-de-la-mama-guiada-por-ultrasonido">
-							<img class="img-fluid u-shadow-v2" src="/img/biopsia-por-ultrasonido.jpg" width="100%" alt="Biopsia percutánea de la mama guiada por ultrasonido | Imágenes | Clinica Red Salva" title="Biopsia percutánea de la mama guiada por ultrasonido | Imágenes | Clinica Red Salva">
+							<img class="img-fluid u-shadow-v2" src="/img/biopsia-por-ultrasonido.jpg" width="100%" alt="Biopsia percutánea de la mama guiada por ultrasonido | Imágenes | Red salva" title="Biopsia percutánea de la mama guiada por ultrasonido | Imágenes | Red salva">
 						</a>
 						<h3 class="h6 g-color-black g-font-weight-600 g-font-size-15 text-uppercase g-mt-10">
 							<a class="u-link-v5 g-color-black g-color-primary--hover" href="/imagenes/biopsia-percutanea-de-la-mama-guiada-por-ultrasonido">Biopsia percutánea de la mama guiada por ultrasonido</a>

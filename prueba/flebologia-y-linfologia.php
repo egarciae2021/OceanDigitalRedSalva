@@ -65,7 +65,7 @@
 				<li>Uso de cremas hidratantes  </li>
 				<li>Uso de flebotonicos</li>
 			</ul>
-			<p>En Clinica Red Salva contamos con las técnicas más avanzadas para el tratamiento de varices, desde la cirugía en todas sus variantes hasta las técnicas más novedosas y mínimamente invasivas.</p>
+			<p>En Red salva contamos con las técnicas más avanzadas para el tratamiento de varices, desde la cirugía en todas sus variantes hasta las técnicas más novedosas y mínimamente invasivas.</p>
 			<p>Separe su cita con nuestros especialistas, comunicándose al 317 – 4000.</p>
 		</div>
 		<div class="col-lg-5 g-mb-30">

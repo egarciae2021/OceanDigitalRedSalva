@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía anal y perianal abarca una variedad de procedimientos destinados a tratar afecciones del ano y el área perianal, como fisuras anales, abscesos y fístulas. Estos problemas pueden causar dolor significativo y afectar la calidad de vida del paciente. La cirugía puede variar desde procedimientos menores hasta intervenciones más complejas, dependiendo de la condición específica.</p>
-				<p>En la Clinica Red Salva, ofrecemos un enfoque especializado y compasivo para la cirugía anal y perianal. Nuestros cirujanos están altamente capacitados para diagnosticar y tratar una amplia gama de trastornos anales y perianales, utilizando técnicas avanzadas para minimizar el dolor y acelerar la recuperación. Nos comprometemos a proporcionar un cuidado personalizado y atento, asegurando que cada paciente reciba el tratamiento más adecuado para su condición específica.</p>
+				<p>En la Red salva, ofrecemos un enfoque especializado y compasivo para la cirugía anal y perianal. Nuestros cirujanos están altamente capacitados para diagnosticar y tratar una amplia gama de trastornos anales y perianales, utilizando técnicas avanzadas para minimizar el dolor y acelerar la recuperación. Nos comprometemos a proporcionar un cuidado personalizado y atento, asegurando que cada paciente reciba el tratamiento más adecuado para su condición específica.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

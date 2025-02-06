@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La timpanometría es una prueba que evalúa la función del oído medio, midiendo la movilidad del tímpano en respuesta a cambios de presión en el canal auditivo. Este procedimiento ayuda a detectar problemas como infecciones del oído medio, acumulación de líquido, perforaciones del tímpano y disfunción de la trompa de Eustaquio. Es una prueba rápida, no invasiva y proporciona información valiosa sobre la salud del oído medio.</p>
-				<p>En la Clinica Red Salva, nuestros especialistas en otorrinolaringología realizan timpanometrías utilizando tecnología avanzada para asegurar resultados precisos y confiables. Esta prueba es fundamental para el diagnóstico y tratamiento adecuado de diversas afecciones del oído medio, mejorando así la salud auditiva de nuestros pacientes.</p>
+				<p>En la Red salva, nuestros especialistas en otorrinolaringología realizan timpanometrías utilizando tecnología avanzada para asegurar resultados precisos y confiables. Esta prueba es fundamental para el diagnóstico y tratamiento adecuado de diversas afecciones del oído medio, mejorando así la salud auditiva de nuestros pacientes.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva, cuenta con especialistas en Endocrinología con muchos años de experiencia y amplia trayectoria. Esta especialidad estudia las glándulas endocrinas y las enfermedades provocadas por un funcionamiento inadecuado de las mismas. El endocrinólogo es un médico especializado en las enfermedades de las hormonas, del metabolismo y los problemas nutricionales.</p>
+				<p>Red salva, cuenta con especialistas en Endocrinología con muchos años de experiencia y amplia trayectoria. Esta especialidad estudia las glándulas endocrinas y las enfermedades provocadas por un funcionamiento inadecuado de las mismas. El endocrinólogo es un médico especializado en las enfermedades de las hormonas, del metabolismo y los problemas nutricionales.</p>
 				<p>Si cuenta con antecedentes familiares o factores de riesgo puede realizarse un tamizaje para Diabetes Mellitus, Dislipidemias, Trastornos de la función de la tiroides dentro de las patologías endocrinológicas más frecuentes. De acuerdo a la evaluación por su médico y especialista se solicitarán estudios adicionales durante los siguientes controles si hay sospecha de otras patologías.</p>
 				<p>Los endocrinólogos han sido entrenados para diagnosticar y tratar diferentes problemas, entre ellos:</p>
 				<?php require_once('links-endocrinologia.php');?>

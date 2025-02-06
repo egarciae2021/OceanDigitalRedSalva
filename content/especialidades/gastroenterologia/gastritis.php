@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La gastritis es la inflamación del revestimiento del estómago, que puede ser aguda o crónica, y puede causar síntomas como dolor abdominal, náuseas y vómitos. Las causas incluyen infecciones, uso de medicamentos y consumo excesivo de alcohol.</p>
-				<p>En la Clinica Red Salva, ofrecemos un diagnóstico preciso y tratamiento efectivo para la gastritis. Nuestros gastroenterólogos trabajan en estrecha colaboración con los pacientes para identificar las causas subyacentes y proporcionar un plan de tratamiento personalizado que incluya cambios en la dieta, medicamentos y seguimiento continuo.</p>
+				<p>En la Red salva, ofrecemos un diagnóstico preciso y tratamiento efectivo para la gastritis. Nuestros gastroenterólogos trabajan en estrecha colaboración con los pacientes para identificar las causas subyacentes y proporcionar un plan de tratamiento personalizado que incluya cambios en la dieta, medicamentos y seguimiento continuo.</p>
 				<?php require_once('links-gastroenterologia.php');?>
 			</div>
 		</div>

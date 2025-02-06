@@ -41,7 +41,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>El servicio de Neonatología de la Clinica Red Salva es reconocido a nivel nacional y está preparado para resolver todos los problemas que pueda presentar un niño al nacer. Contamos con la Unidad de Cuidados Intensivos Neonatal (UCIN) y Cuidados Intermedios (UTI).</p>
+				<p>El servicio de Neonatología de la Red salva es reconocido a nivel nacional y está preparado para resolver todos los problemas que pueda presentar un niño al nacer. Contamos con la Unidad de Cuidados Intensivos Neonatal (UCIN) y Cuidados Intermedios (UTI).</p>
 				<p>Asimismo, tenemos el respaldo de un equipo humano multidisciplinario altamente calificado, entrenado y especializado en la atención del recién nacido sano y críticamente enfermo las 24 horas del día, permitiéndonos lograr resultados exitosos.</p>
 			</div>
 		</div>

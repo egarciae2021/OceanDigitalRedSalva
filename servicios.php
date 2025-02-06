@@ -23,7 +23,7 @@
 				<div class="mb-5">
 					<h2 class="text-primary">Conoce nuestras<span class="color-celeste"
 							style="color:#0493A7 !important"> ESPECIALIDADES</span></h2>
-					<p>En <span class="fw-bold color-naranja">Clinica Red Salva</span> contamos con más de 10
+					<p>En <span class="fw-bold color-naranja">Red salva</span> contamos con más de 10
 						especialidades.</p>
 				</div>
 				<div class="row border-bottom pb-3 mb-3">

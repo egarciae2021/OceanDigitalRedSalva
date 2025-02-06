@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La abdominoplastia, o cirugía de abdomen, es un procedimiento que se realiza para remover el exceso de piel y grasa en el área abdominal y, en muchos casos, restaurar los músculos debilitados o separados creando un perfil abdominal más suave y firme. Esta cirugía es comúnmente elegida por personas que han experimentado pérdida de peso significativa o mujeres que han pasado por varios embarazos.</p>
-				<p>En la Clinica Red Salva, nuestros cirujanos especializados en abdominoplastia utilizan técnicas avanzadas para asegurar resultados seguros y satisfactorios. El proceso incluye una evaluación preoperatoria exhaustiva y un seguimiento postoperatorio detallado para asegurar una recuperación óptima y la máxima satisfacción del paciente.</p>
+				<p>En la Red salva, nuestros cirujanos especializados en abdominoplastia utilizan técnicas avanzadas para asegurar resultados seguros y satisfactorios. El proceso incluye una evaluación preoperatoria exhaustiva y un seguimiento postoperatorio detallado para asegurar una recuperación óptima y la máxima satisfacción del paciente.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

@@ -2,10 +2,10 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-9">
-			<img class="img-fluid u-shadow-v2 g-mb-30" src="/img/promociones/conoce-a-tu-bebe.jpg" width="100%" alt="Campaña Conoce a tu bebé | Promociones | Clinica Red Salva" title="Campaña Conoce a tu bebé  | Promociones | Clinica Red Salva">
+			<img class="img-fluid u-shadow-v2 g-mb-30" src="/img/promociones/conoce-a-tu-bebe.jpg" width="100%" alt="Campaña Conoce a tu bebé | Promociones | Red salva" title="Campaña Conoce a tu bebé  | Promociones | Red salva">
 			<h1 class="g-color-topbar-montesur">APROVECHA nuestras promociones para gestantes</h1>
 			<p>Con una ecografía obstétrica los médicos, además de observar algunas características físicas del bebé, también pueden evaluar la cantidad de líquido amniótico y las condiciones de la placenta, entre otros problemas.</p>
-			<p>En Clinica Red Salva realizamos ecografías con imágenes de óptima calidad y exactitud diagnóstica. Consulta ¡AHORA!</p>
+			<p>En Red salva realizamos ecografías con imágenes de óptima calidad y exactitud diagnóstica. Consulta ¡AHORA!</p>
 			<ul>
 				<li>Ecografía morfológia: s/.260</li>
 				<li>Ecografía 4D emocional: s/.320</li>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Las demencias son trastornos neurológicos que afectan la memoria, el pensamiento y el comportamiento. La enfermedad de Alzheimer, la demencia frontotemporal y la demencia vascular son algunos de los tipos más comunes.</p>
-				<p>En la Clinica Red Salva, ofrecemos un enfoque integral para el diagnóstico y manejo de las demencias. Nuestros neurólogos trabajan en estrecha colaboración con los pacientes y sus familias para desarrollar planes de tratamiento personalizados que incluyen medicamentos, terapias y apoyo emocional, asegurando la mejor calidad de vida posible para nuestros pacientes.</p>
+				<p>En la Red salva, ofrecemos un enfoque integral para el diagnóstico y manejo de las demencias. Nuestros neurólogos trabajan en estrecha colaboración con los pacientes y sus familias para desarrollar planes de tratamiento personalizados que incluyen medicamentos, terapias y apoyo emocional, asegurando la mejor calidad de vida posible para nuestros pacientes.</p>
 				<?php require_once('links-neurologia.php');?>
 			</div>
 		</div>

@@ -44,7 +44,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La hipertensión arterial, conocida comúnmente como presión arterial alta, es una condición crónica en la que la fuerza de la sangre contra las paredes de las arterias es demasiado alta. Esto puede llevar a problemas graves como enfermedades del corazón, accidentes cerebrovasculares y daño renal. La hipertensión a menudo no presenta síntomas claros, lo que la hace particularmente peligrosa ya que puede pasar desapercibida durante años.</p>
-				<p>En la Clinica Red Salva, abordamos la hipertensión arterial con un enfoque integral. Realizamos evaluaciones exhaustivas para identificar las causas subyacentes y diseñar planes de tratamiento personalizados. Estos planes pueden incluir cambios en la dieta, aumento de la actividad física, manejo del estrés y, cuando es necesario, medicamentos antihipertensivos. Nuestro equipo de profesionales está comprometido en ayudar a los pacientes a controlar su presión arterial y reducir el riesgo de complicaciones a largo plazo.</p>
+				<p>En la Red salva, abordamos la hipertensión arterial con un enfoque integral. Realizamos evaluaciones exhaustivas para identificar las causas subyacentes y diseñar planes de tratamiento personalizados. Estos planes pueden incluir cambios en la dieta, aumento de la actividad física, manejo del estrés y, cuando es necesario, medicamentos antihipertensivos. Nuestro equipo de profesionales está comprometido en ayudar a los pacientes a controlar su presión arterial y reducir el riesgo de complicaciones a largo plazo.</p>
 				<?php require_once('links-cardiologia.php');?>
 			</div>
 		</div>

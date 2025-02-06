@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La bichectomía es un procedimiento quirúrgico que consiste en la extracción de las bolas de Bichat, unas estructuras grasas ubicadas en las mejillas. Este procedimiento está diseñado para reducir el volumen de las mejillas, logrando un contorno facial más delgado y definido. Es una cirugía que se realiza de manera ambulatoria, con anestesia local o general, y tiene una recuperación relativamente rápida.</p>
-				<p>En la Clinica Red Salva, contamos con cirujanos plásticos especializados en bichectomía, quienes utilizan técnicas avanzadas para garantizar resultados naturales y armoniosos. Durante la consulta inicial, evaluamos cada caso de manera individualizada para determinar si el paciente es un buen candidato para la cirugía y para explicar detalladamente el proceso, los cuidados postoperatorios y las expectativas realistas del procedimiento. Nuestro objetivo es proporcionar una atención segura y personalizada, asegurando la satisfacción y el bienestar de nuestros pacientes.</p>
+				<p>En la Red salva, contamos con cirujanos plásticos especializados en bichectomía, quienes utilizan técnicas avanzadas para garantizar resultados naturales y armoniosos. Durante la consulta inicial, evaluamos cada caso de manera individualizada para determinar si el paciente es un buen candidato para la cirugía y para explicar detalladamente el proceso, los cuidados postoperatorios y las expectativas realistas del procedimiento. Nuestro objetivo es proporcionar una atención segura y personalizada, asegurando la satisfacción y el bienestar de nuestros pacientes.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

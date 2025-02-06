@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El sobrepeso y la obesidad son condiciones que resultan del exceso de grasa corporal y pueden llevar a problemas de salud graves como diabetes, enfermedades cardíacas y presión arterial alta. El manejo de estas condiciones implica cambios en el estilo de vida, dieta y, en algunos casos, intervenciones médicas.</p>
-				<p>En la Clinica Red Salva, nuestros endocrinólogos ofrecen programas personalizados para ayudar a los pacientes a alcanzar y mantener un peso saludable. Utilizamos un enfoque multidisciplinario que incluye asesoramiento nutricional, apoyo psicológico y, cuando es necesario, tratamientos médicos, para asegurar un manejo efectivo del peso y la mejora de la salud general.</p>
+				<p>En la Red salva, nuestros endocrinólogos ofrecen programas personalizados para ayudar a los pacientes a alcanzar y mantener un peso saludable. Utilizamos un enfoque multidisciplinario que incluye asesoramiento nutricional, apoyo psicológico y, cuando es necesario, tratamientos médicos, para asegurar un manejo efectivo del peso y la mejora de la salud general.</p>
 				<?php require_once('links-endocrinologia.php');?>
 			</div>
 		</div>

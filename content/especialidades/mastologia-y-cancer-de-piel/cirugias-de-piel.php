@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Las cirugías de piel son procedimientos destinados a tratar diversas afecciones, incluyendo cáncer de piel, lesiones benignas y condiciones cosméticas. Estas cirugías pueden implicar resección local, reconstrucción y biopsia de ganglio centinela.</p>
-				<p>En la Clinica Red Salva, ofrecemos cirugías de piel con un enfoque detallado y personalizado. Nuestros dermatólogos y cirujanos plásticos utilizan técnicas avanzadas para asegurar resultados precisos y estéticamente agradables, proporcionando un cuidado integral y seguimiento continuo para asegurar la salud y bienestar de nuestros pacientes.</p>
+				<p>En la Red salva, ofrecemos cirugías de piel con un enfoque detallado y personalizado. Nuestros dermatólogos y cirujanos plásticos utilizan técnicas avanzadas para asegurar resultados precisos y estéticamente agradables, proporcionando un cuidado integral y seguimiento continuo para asegurar la salud y bienestar de nuestros pacientes.</p>
 				<?php require_once('links-mastologia-y-cancer-de-piel.php');?>
 			</div>
 		</div>

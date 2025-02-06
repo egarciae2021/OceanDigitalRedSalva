@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La recanalización de trompas es una cirugía que se realiza para revertir la ligadura de trompas y restaurar la fertilidad. Este procedimiento implica la reconexión de las trompas de Falopio para permitir el paso de los óvulos y el esperma.</p>
-				<p>En la Clinica Red Salva, nuestros ginecólogos especializados en cirugía de recanalización utilizan técnicas avanzadas para maximizar las posibilidades de éxito. Proporcionamos una evaluación integral y un seguimiento cercano para asegurar que nuestras pacientes reciban el mejor cuidado y apoyo en su camino hacia la fertilidad.</p>
+				<p>En la Red salva, nuestros ginecólogos especializados en cirugía de recanalización utilizan técnicas avanzadas para maximizar las posibilidades de éxito. Proporcionamos una evaluación integral y un seguimiento cercano para asegurar que nuestras pacientes reciban el mejor cuidado y apoyo en su camino hacia la fertilidad.</p>
 				<?php require_once('links-ginecologia.php');?>
 			</div>
 		</div>

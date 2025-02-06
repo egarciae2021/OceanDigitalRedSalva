@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La apendicectomía laparoscópica es una cirugía mínimamente invasiva para remover el apéndice inflamado, una condición conocida como apendicitis. Utilizando pequeños cortes y una cámara especial llamada laparoscopio, los cirujanos pueden extraer el apéndice con mayor precisión y menor trauma para el paciente. Este método suele resultar en una recuperación más rápida y menos dolor postoperatorio comparado con la cirugía abierta tradicional.</p>
-				<p>En la Clinica Red Salva, la apendicectomía laparoscópica se realiza con equipos de última generación y bajo estrictos protocolos de seguridad. Nuestro equipo de cirujanos altamente calificados garantiza un manejo eficaz de la apendicitis, minimizando los riesgos de complicaciones y acelerando el proceso de recuperación. Los pacientes reciben una atención integral, desde el diagnóstico hasta el seguimiento postoperatorio, asegurando un tratamiento completo y eficaz.</p>
+				<p>En la Red salva, la apendicectomía laparoscópica se realiza con equipos de última generación y bajo estrictos protocolos de seguridad. Nuestro equipo de cirujanos altamente calificados garantiza un manejo eficaz de la apendicitis, minimizando los riesgos de complicaciones y acelerando el proceso de recuperación. Los pacientes reciben una atención integral, desde el diagnóstico hasta el seguimiento postoperatorio, asegurando un tratamiento completo y eficaz.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La extirpación de tumores de piel y partes blandas es un procedimiento quirúrgico para remover crecimientos anormales, que pueden ser benignos o malignos. Este tratamiento es crucial para prevenir la propagación del cáncer y eliminar masas que puedan causar molestias o problemas funcionales. La cirugía se adapta al tipo y localización del tumor para asegurar la remoción completa y minimizar el impacto estético.</p>
-				<p>En la Clinica Red Salva, llevamos a cabo la extirpación de tumores con precisión y cuidado. Utilizamos técnicas avanzadas para asegurar una remoción segura y eficaz, y proporcionamos un seguimiento postoperatorio para monitorizar la recuperación y prevenir recurrencias. Nuestro equipo de dermatólogos y cirujanos trabaja en conjunto para ofrecer una atención personalizada y de alta calidad, garantizando el bienestar del paciente.</p>
+				<p>En la Red salva, llevamos a cabo la extirpación de tumores con precisión y cuidado. Utilizamos técnicas avanzadas para asegurar una remoción segura y eficaz, y proporcionamos un seguimiento postoperatorio para monitorizar la recuperación y prevenir recurrencias. Nuestro equipo de dermatólogos y cirujanos trabaja en conjunto para ofrecer una atención personalizada y de alta calidad, garantizando el bienestar del paciente.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

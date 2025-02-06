@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cauterización nasal es un procedimiento utilizado para detener el sangrado nasal crónico o recurrente. Se realiza aplicando calor o una sustancia química para sellar los vasos sanguíneos dentro de la nariz. Este tratamiento es efectivo para controlar las hemorragias nasales y se lleva a cabo de manera ambulatoria con anestesia local, lo que minimiza el dolor y las molestias para el paciente.</p>
-				<p>En la Clinica Red Salva, contamos con especialistas en otorrinolaringología que realizan cauterizaciones nasales de manera segura y eficiente. Nuestro objetivo es proporcionar alivio duradero a los pacientes que sufren de epistaxis frecuente, mejorando significativamente su calidad de vida a través de tratamientos adecuados y personalizados.</p>
+				<p>En la Red salva, contamos con especialistas en otorrinolaringología que realizan cauterizaciones nasales de manera segura y eficiente. Nuestro objetivo es proporcionar alivio duradero a los pacientes que sufren de epistaxis frecuente, mejorando significativamente su calidad de vida a través de tratamientos adecuados y personalizados.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

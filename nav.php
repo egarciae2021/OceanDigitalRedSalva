@@ -56,8 +56,8 @@ $menuItems = array(
 }' style>
 	<div class="container">
 		<nav class="js-mega-menu navbar-nav-wrap">
-			<a class="navbar-brand" href="/" aria-label="Clinica Red Salva" style="margin-top:-10px !important">
-				<img class="navbar-brand-logo" src="/images/logo.svg" alt="Clinica Red Salva">
+			<a class="navbar-brand" href="/" aria-label="Red salva" style="margin-top:-10px !important">
+				<img class="navbar-brand-logo" src="/images/logo.svg" alt="Red salva">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
 				aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

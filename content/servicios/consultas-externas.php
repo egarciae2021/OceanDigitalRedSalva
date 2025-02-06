@@ -43,7 +43,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 			<div class="col-md-10 offset-lg-1">
 				<p>Nuestros consultorios están debidamente equipados con un moderno ecógrafo y colposcopio, que nos permiten brindar una atención integral y personalizada a las pacientes en todas las etapas de su vida. Las atenciones son brindadas por médicos especialistas.</p>
 				<p>Tenemos convenios para la atención en todos los servicios que brindamos a través de seguros particulares y seguros EPS (Rímac Seguros, Pacífico Seguros, Mapfre y La Positiva), además de seguros internacionales.</p>
-				<p>Para concertar una cita, comuníquese a la central de consultas de la Clinica Red Salva, llamando al (01) 905 4534 Anexos 110 -120</p>
+				<p>Para concertar una cita, comuníquese a la central de consultas de la Red salva, llamando al (01) 905 4534 Anexos 110 -120</p>
 				<p>Nuestro horario de atención es de lunes a viernes en el horario de 8:00 a.m. a 8:00 p.m. y los sábados de 9:00 a.m. a 1:00 p.m. – Previa Cita.</p>
 			</div>
 		</div>

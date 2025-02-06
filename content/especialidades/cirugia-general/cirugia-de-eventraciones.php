@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Las eventraciones, o hernias incisionales, son protrusiones de órganos internos a través de una cicatriz quirúrgica previa en el abdomen. La cirugía de eventraciones implica reparar la pared abdominal debilitada, generalmente mediante el uso de mallas quirúrgicas para reforzar el área afectada y prevenir recurrencias. Este procedimiento es crucial para aliviar el dolor y evitar complicaciones graves como la estrangulación de órganos.</p>
-				<p>En la Clinica Red Salva, tratamos las eventraciones con un enfoque personalizado y basado en las necesidades específicas de cada paciente. Utilizamos técnicas quirúrgicas avanzadas y materiales de alta calidad para asegurar una reparación efectiva. Nuestro equipo de profesionales trabaja de cerca con cada paciente para garantizar una recuperación segura y rápida, ofreciendo seguimiento continuo para mantener su bienestar a largo plazo.</p>
+				<p>En la Red salva, tratamos las eventraciones con un enfoque personalizado y basado en las necesidades específicas de cada paciente. Utilizamos técnicas quirúrgicas avanzadas y materiales de alta calidad para asegurar una reparación efectiva. Nuestro equipo de profesionales trabaja de cerca con cada paciente para garantizar una recuperación segura y rápida, ofreciendo seguimiento continuo para mantener su bienestar a largo plazo.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

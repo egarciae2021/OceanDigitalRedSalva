@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La colonoscopia es un procedimiento diagnóstico que permite examinar el interior del colon y el recto utilizando un colonoscopio. Este examen es crucial para la detección temprana de cáncer de colon, pólipos y otras afecciones intestinales. Durante la colonoscopia, se pueden tomar biopsias y eliminar pólipos para su análisis.</p>
-				<p>En la Clinica Red Salva, realizamos colonoscopias con tecnología avanzada y en un entorno seguro y confortable. Nuestro equipo de gastroenterólogos se asegura de que cada paciente reciba una atención detallada y personalizada, desde la preparación previa hasta el seguimiento postprocedimiento, garantizando una experiencia tranquila y resultados precisos.</p>
+				<p>En la Red salva, realizamos colonoscopias con tecnología avanzada y en un entorno seguro y confortable. Nuestro equipo de gastroenterólogos se asegura de que cada paciente reciba una atención detallada y personalizada, desde la preparación previa hasta el seguimiento postprocedimiento, garantizando una experiencia tranquila y resultados precisos.</p>
 				<?php require_once('links-gastroenterologia.php');?>
 			</div>
 		</div>

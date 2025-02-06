@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Los potenciales evocados auditivos son pruebas que miden la respuesta del nervio auditivo y las vías auditivas del cerebro a los sonidos. Esta prueba es crucial para evaluar la audición y detectar problemas en el nervio auditivo o en las vías auditivas centrales. Es especialmente útil en recién nacidos y niños pequeños, así como en pacientes que no pueden cooperar con las pruebas auditivas convencionales.</p>
-				<p>En la Clinica Red Salva, realizamos potenciales evocados auditivos con tecnología avanzada para ofrecer diagnósticos precisos y confiables. Nuestros especialistas en audiología utilizan esta prueba para identificar condiciones auditivas ocultas y planificar tratamientos personalizados que mejoren la calidad de vida de nuestros pacientes.</p>
+				<p>En la Red salva, realizamos potenciales evocados auditivos con tecnología avanzada para ofrecer diagnósticos precisos y confiables. Nuestros especialistas en audiología utilizan esta prueba para identificar condiciones auditivas ocultas y planificar tratamientos personalizados que mejoren la calidad de vida de nuestros pacientes.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

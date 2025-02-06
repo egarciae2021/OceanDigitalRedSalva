@@ -46,7 +46,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva, cuenta con especialistas en Cardiología con muchos años de experiencia y amplia
+				<p>Red salva, cuenta con especialistas en Cardiología con muchos años de experiencia y amplia
 					trayectoria. Este servicio se enfoca en el diagnóstico y tratamiento individualizado de diversas
 					patologías del sistema cardio-circulatorio; además, con el fin de brindar la mejor atención médica,
 					contamos con la mejor tecnología de diagnóstico no invasivo: Electrocardiograma de reposo y de

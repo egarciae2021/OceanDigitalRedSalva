@@ -42,7 +42,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva, cuenta con especialistas en Cirugía General con muchos años de experiencia y amplia trayectoria. Nuestro Staff se ocupa del diagnóstico y tratamiento de patologías que requieren intervención quirúrgica ya sea programada o de urgencia, principalmente de abdomen, tórax, miembros superiores e inferiores. Clinica Red Salva cuenta, con quirófanos completamente equipados cumpliendo la normativa nacional e internacional con capacidad para atender cirugías de nivel II, III y IV de complejidad cumpliendo los estándares de calidad y los parámetros de seguridad que se requieren para la atención a los pacientes.</p>
+				<p>Red salva, cuenta con especialistas en Cirugía General con muchos años de experiencia y amplia trayectoria. Nuestro Staff se ocupa del diagnóstico y tratamiento de patologías que requieren intervención quirúrgica ya sea programada o de urgencia, principalmente de abdomen, tórax, miembros superiores e inferiores. Red salva cuenta, con quirófanos completamente equipados cumpliendo la normativa nacional e internacional con capacidad para atender cirugías de nivel II, III y IV de complejidad cumpliendo los estándares de calidad y los parámetros de seguridad que se requieren para la atención a los pacientes.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

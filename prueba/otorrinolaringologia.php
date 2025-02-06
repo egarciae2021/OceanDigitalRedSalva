@@ -52,7 +52,7 @@
 				<li>Logo audiometría </li>
 				<li>Tamizaje auditivo (emisiones otacústicas)</li>
 			</ul>
-			<p><strong>Ofrecemos una evaluación integral médico quirúrgico con una sala de operaciones equipada con la mejor tecnología y seguridad para nuestros pacientes. En Clinica Red Salva realizamos cirugías de alta complejidad como:</strong></p>
+			<p><strong>Ofrecemos una evaluación integral médico quirúrgico con una sala de operaciones equipada con la mejor tecnología y seguridad para nuestros pacientes. En Red salva realizamos cirugías de alta complejidad como:</strong></p>
 			<ul>
 				<li>Implante coclear y de conducción ósea.</li>
 				<li>De oído: timpanoplastía, mastoidectomía, colocación de tubos de ventilación, entre otros.</li>

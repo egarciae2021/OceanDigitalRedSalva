@@ -5,7 +5,7 @@
 				<div class="mt-md-10 mb-5">
 					<h2 class="text-center">Conoce nuestros<br><span class="color-naranja"> programas y paquetes</span>
 					</h2>
-					<p>Descubre los variados paquetes y programas de Clinica Red Salva diseñados para tu bienestar.
+					<p>Descubre los variados paquetes y programas de Red salva diseñados para tu bienestar.
 						Desde chequeos preventivos hasta programas de maternidad y atención pediátrica, garantizamos un
 						cuidado integral y personalizado para cada etapa de tu vida. ¡Visítanos y conoce cómo podemos
 						ayudarte a mantener tu salud en óptimas condiciones!</p>

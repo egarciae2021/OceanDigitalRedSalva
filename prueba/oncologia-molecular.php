@@ -29,7 +29,7 @@
 	<div class="row">
 		<div class="col-lg-7">
 			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">L</span>a Unidad de Oncología ofrece una medicina personalizada a los pacientes con diagnostico de cáncer desde un punto de vista multidisciplinario y con un alto nivel académico.</p>
-			<p>La Clinica Red Salva se encuentra ampliando sus servicios teniendo en relación la demanda de otras especialidades médicas. Considerando el proceso de la enfermedad, desde un punto de vista integral, es por eso que aperturamos el Servicio de Oncología, siendo pioneros en la oncología en nuestro país.</p>
+			<p>La Red salva se encuentra ampliando sus servicios teniendo en relación la demanda de otras especialidades médicas. Considerando el proceso de la enfermedad, desde un punto de vista integral, es por eso que aperturamos el Servicio de Oncología, siendo pioneros en la oncología en nuestro país.</p>
 			<p>Dentro de las actividades que realizamos se encuentra:</p>
 			<ul>
 				<li>Terapia Oncológica y target</li>

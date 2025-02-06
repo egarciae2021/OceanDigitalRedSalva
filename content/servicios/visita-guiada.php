@@ -41,7 +41,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Clinica Red Salva, líder y especialista en atención Gineco-Obstétrica con más de 30 años de experiencia en el país, cuenta con tecnología de punta y staff médico altamente calificado en diversas especialidades enfocados al cuidado integral de la mujer y su familia.</p>
+				<p>Red salva, líder y especialista en atención Gineco-Obstétrica con más de 30 años de experiencia en el país, cuenta con tecnología de punta y staff médico altamente calificado en diversas especialidades enfocados al cuidado integral de la mujer y su familia.</p>
 				<p>Los invitamos a conocer nuestro Servicio de Maternidad a través de una VISITA GUIADA donde podrá conocer nuestras instalaciones de: Sala de bebés, Centro Obstétrico, Centro Quirúrgico, Consultorio de Pediatría, Sala de Psicoprofilaxis, Servicio de Hospitalización: habitaciones ejecutivas y suites; durante este recorrido usted podrá conversar con los profesionales de dichas áreas y tener conocimiento de las actividades que ahí se realizan, promoviendo siempre el Parto o Nacimiento Respetado y la Atención Centrada en la Familia</p>
 				<p>Así mismo, de solicitarlo, le podemos facilitar un presupuesto de atención.</p>
 				<p>Horario de Visita Guiada:</p>

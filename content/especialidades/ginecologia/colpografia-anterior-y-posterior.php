@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La colpografía anterior y posterior es una cirugía que se realiza para reparar el prolapso de la vejiga (cistocele) y el recto (rectocele). Estos procedimientos ayudan a restaurar la estructura y función normal del suelo pélvico.</p>
-				<p>En la Clinica Red Salva, ofrecemos colpografías con un enfoque cuidadoso y detallado. Nuestros ginecólogos utilizan técnicas avanzadas para asegurar una reparación efectiva, proporcionando un seguimiento cercano para garantizar una recuperación completa y mejorar la calidad de vida de nuestras pacientes.</p>
+				<p>En la Red salva, ofrecemos colpografías con un enfoque cuidadoso y detallado. Nuestros ginecólogos utilizan técnicas avanzadas para asegurar una reparación efectiva, proporcionando un seguimiento cercano para garantizar una recuperación completa y mejorar la calidad de vida de nuestras pacientes.</p>
 				<?php require_once('links-ginecologia.php');?>
 			</div>
 		</div>

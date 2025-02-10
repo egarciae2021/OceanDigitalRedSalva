@@ -43,44 +43,46 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 			</div>
 		</div>
 </section> -->
-<section class="fondo-azul content-space-1 d-none d-md-block" 
-    style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; height: 600px !important; position: relative;">
-    
-    <div class="container pt-3 mb-n5 h-100 position-relative" style="margin-left: 15% !important;">
-        <div class="row h-100">
-            
-            <!-- Imagen centrada y más grande -->
-            <div class="col-md-7 offset-md-3 d-flex justify-content-center align-items-center"  >
-                <div class="bg-img-center card-img text-center">
-                    <img class="img-fluid rounded-3" 
-                        style="max-width: 210%; height: 500px !important; object-fit: cover;" 
-                        src="/images/Servicios/Centro de vacunación.png">
-                </div>
-            </div>
 
-            <!-- Contenedor con texto y enlaces (pegado a la izquierda de la imagen) -->
-            <div class="col-md-5 position-absolute top-50 start-0 translate-middle-y ms-5" style="z-index: 10;">
-                <div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-center text-center"
-                    style="width: 320px !important; height: 80px !important;">
 
-                    <div class="mb-0">
-                        <h1 class="h4 color-azul"><?php echo $h1; ?></h1>
-                    </div>
-                    <div class="mt-2">
-                        <a class="link color-azul color-naranja-hover" href="/">
-                            <i class="fa fa-arrow-left small me-1"></i> Inicio
-                        </a>
-                        <a class="link color-azul color-naranja-hover ms-3" href="/servicios">
-                            <i class="fa fa-arrow-left small me-1"></i> Servicios
-                        </a>
-                    </div>
-                </div>
-            </div>
 
-        </div>
-    </div>
+<section class="fondo-azul content-space-1 d-none d-md-block"
+	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
+
+	<div class="container pt-3 mb-n5 h-100 position-relative d-flex">
+		<div class="row h-100 w-100">
+
+			<div class="col-md-7 d-flex justify-content-center align-items-center">
+				<div class="bg-img-center card-img text-center"
+					style="position: relative; left: 60%; transform: translateX(-25%);">
+					<img class="img-fluid rounded-3"
+						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
+						src="/images/Servicios/Centro de vacunación.png">
+				</div>
+			</div>
+
+			<div class="col-md-5 d-flex align-items-center ps-5"
+				style="position: relative; left: 60%; transform: translateX(-270%);">
+				<div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-start"
+					style="width: auto; height: auto; max-width: 320px;">
+
+					<div class="mb-0">
+						<h1 class="h4 color-azul"><?php echo $h1; ?></h1>
+					</div>
+					<div class="mt-2">
+						<a class="link color-azul color-naranja-hover" href="/">
+							<i class="fa fa-arrow-left small me-1"></i> Inicio
+						</a>
+						<a class="link color-azul color-naranja-hover ms-3" href="/servicios">
+							<i class="fa fa-arrow-left small me-1"></i> Servicios
+						</a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
 </section>
-
 
 
 <section class="py-5">

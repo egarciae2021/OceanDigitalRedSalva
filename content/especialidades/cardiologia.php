@@ -53,42 +53,45 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 					contamos con la mejor tecnología de diagnóstico no invasivo: Electrocardiograma de reposo y de
 					ritmo, Electrocardiograma Holter de 24 Horas, Monitoreo Ambulatorio de Presión Arterial de 24 horas,
 					Ecocardiografía Doppler Color y Ecografía Doppler vascular.</p>
+
+				<div>
+					<div style="margin:0px 0px !important">
+						<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE CARDIOLOGÍA</b></p> 
+						<div>
+							<div class="container">
+								<div class="row">
+									<div class="col-md-4">
+										<div class="bard_item">Procedimientos</div>
+										<div class="bard_item">Riesgo Quirúrgico</div>
+										<div class="bard_item">Prueba de Esfuerzo</div>
+										<div class="bard_item">Estudio de Mapa (24 Horas)</div>
+									</div>
+									<div class="col-md-4">
+										<div class="bard_item">Estudio de Holter (24 Horas)</div>
+										<div class="bard_item">Electrocardiograma</div>
+										<div class="bard_item">Ecocardiograma Doppler</div>
+									</div>
+									<div class="col-md-4">
+										<div class="bard_item">Eco Doppler Venoso MMII</div>
+										<div class="bard_item">Eco Doppler Arterial MMII</div>
+										<div class="bard_item">Eco Doppler Carotideo y Vertebral</div>
+										<div class="bard_item">Levantamiento de Observaciones</div>
+										<div class="bard_item">Informe Médico</div>
+										<div class="bard_item">Descanso Médico</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 				<?php require_once('links-cardiologia.php'); ?>
 			</div>
 		</div>
 	</div>
 </section>
 
-<div class="bard_container">
-	<div class="bard_bottom_bar" style="margin:00px 0px !important">
-		<p style="margin: 20px 480px !important">Le brindamos los siguientes <b>procedimientos de Cardiología</b></p>
-		<div class="bard_bottom_bar_content" style="padding:10px">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="bard_item">Procedimientos</div>
-						<div class="bard_item">Riesgo Quirúrgico</div>
-						<div class="bard_item">Prueba de Esfuerzo</div>
-						<div class="bard_item">Estudio de Mapa (24 Horas)</div>
-					</div>
-					<div class="col-md-4">
-						<div class="bard_item">Estudio de Holter (24 Horas)</div>
-						<div class="bard_item">Electrocardiograma</div>
-						<div class="bard_item">Ecocardiograma Doppler</div>
-					</div>
-					<div class="col-md-4">
-						<div class="bard_item">Eco Doppler Venoso MMII</div>
-						<div class="bard_item">Eco Doppler Arterial MMII</div>
-						<div class="bard_item">Eco Doppler Carotideo y Vertebral</div>
-						<div class="bard_item">Levantamiento de Observaciones</div>
-						<div class="bard_item">Informe Médico</div>
-						<div class="bard_item">Descanso Médico</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+
+
 
 
 <?php require_once('formulario.php'); ?>

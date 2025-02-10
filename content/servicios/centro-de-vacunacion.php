@@ -54,7 +54,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 
 			<div class="col-md-7 d-flex justify-content-center align-items-center">
 				<div class="bg-img-center card-img text-center"
-					style="position: relative; left: 60%; transform: translateX(-25%);">
+					style="position: relative; left: 50%; transform: translateX(-30%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
 						src="/images/Servicios/Centro de vacunación.png">

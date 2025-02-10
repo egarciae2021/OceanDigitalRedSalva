@@ -79,7 +79,7 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>Contamos con un grupo de médicos sub-especialistas en oftalmología y Oncología para el manejo multidisciplinario de nuestros pacientes.</p>
 				<p>Nuestro servicio de Oftalmología liderado por el reconocido Dr. Solón Serpa Frías, ofrece sus servicios de atención Oncológica, Orbitaria y de Plástica Ocular, de alta calidad con estándares internacionales.</p>
 				
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE OFTALMOLOGIA</b></p>
 					<div class="container">
 						<div class="row">

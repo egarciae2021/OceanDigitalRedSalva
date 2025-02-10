@@ -210,7 +210,7 @@ $json_procedimientos = json_encode($procedimientos);
 					integral, combinando tecnología avanzada con un enfoque humano y personalizado para garantizar la
 					salud y el bienestar de nuestros pacientes.</p>
 
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA INTERNA</b></p>
 					<div class="container">
 						<div class="row">

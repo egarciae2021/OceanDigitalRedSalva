@@ -186,7 +186,7 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>Nos comprometemos a mejorar la calidad de vida de nuestros pacientes a través de una atención comprensiva y compasiva. Desde el manejo del asma y el EPOC hasta el tratamiento de infecciones pulmonares y trastornos del sueño, en la Red salva estamos dedicados a proporcionar un cuidado respiratorio de excelencia, asegurando que nuestros pacientes reciban la mejor atención posible en cada etapa de su tratamiento.</p>
 				
 					
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE NEUMOLOGIA</b></p>
 					<div class="container">
 						<div class="row">

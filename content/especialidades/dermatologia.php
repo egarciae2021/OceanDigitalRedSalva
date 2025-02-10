@@ -183,7 +183,7 @@ $json_procedimientos = json_encode($procedimientos);
             <p>La dermatología es la especialidad médica dedicada al diagnóstico y tratamiento de las enfermedades de la piel, cabello y uñas. Esta rama de la medicina abarca una amplia variedad de condiciones, desde el acné y la dermatitis hasta enfermedades más complejas como la psoriasis y el cáncer de piel. Además de tratar enfermedades, los dermatólogos también se especializan en procedimientos estéticos para mejorar la apariencia de la piel, como los rellenos dérmicos, el Botox y el rejuvenecimiento con láser.</p>
             <p>En la Red salva, ofrecemos un enfoque integral para el cuidado dermatológico, atendiendo tanto a adultos como a niños y mujeres embarazadas. Nuestro equipo de dermatólogos altamente calificados utiliza tecnologías de última generación y tratamientos personalizados para abordar cada caso de manera efectiva y segura. Ya sea que se trate de una consulta de rutina, un procedimiento estético o el tratamiento de una condición dermatológica compleja, nos comprometemos a proporcionar la mejor atención posible, enfocándonos en la salud y el bienestar de nuestros pacientes.</p>
             
-            <div style="margin:20px 20px !important">
+            <div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE DERMATOLOGIA</b></p>
 					<div class="container">
 						<div class="row">

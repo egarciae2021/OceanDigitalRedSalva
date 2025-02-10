@@ -119,7 +119,7 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>Además, ofrecemos atención y control del embarazo mes a mes, reduciendo de esta manera el riesgo de posibles complicaciones que perjudiquen su desarrollo.</p>
 				<p>No hay una edad concreta para la primera visita al ginecólogo, pero se recomienda en adolescentes en edad temprana o con algún problema ginecológico.</p>
 			
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA FISICA Y REHABILITACION</b></p>
 					<div class="container">
 						<div class="row">

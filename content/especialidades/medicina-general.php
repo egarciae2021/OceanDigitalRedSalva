@@ -189,7 +189,7 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>Nuestra clínica proporciona una atención integral y personalizada para el cáncer de piel, enfocándose en la detección temprana y el tratamiento eficaz. Ofrecemos desde despistajes de cáncer de piel hasta resecciones locales amplias y reconstrucción, siempre asegurando un seguimiento continuo para obtener los mejores resultados posibles.</p>
 				<p>En conjunto, nuestras especialidades en mastología y dermatología trabajan para ofrecer una atención integral, combinando tecnología avanzada con un enfoque humano y personalizado para garantizar la salud y el bienestar de nuestros pacientes.</p>
 				
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA GENERAL</b></p>
 					<div class="container">
 						<div class="row">

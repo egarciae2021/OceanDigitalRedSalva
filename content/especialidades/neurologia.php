@@ -116,7 +116,7 @@ $json_procedimientos = json_encode($procedimientos);
 					utilizando tecnologías avanzadas, pruebas neuropsicológicas y otros estudios especializados</p>
 
 
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE NEUROLOGIA</b></p>
 					<div class="container">
 						<div class="row">

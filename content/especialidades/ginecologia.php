@@ -186,7 +186,7 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>No hay una edad concreta para la primera visita al ginecólogo, pero se recomienda en adolescentes en edad temprana o con algún problema ginecológico.</p>
 				
 				
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE GINECOLOGIA</b></p>
 					<div class="container">
 						<div class="row">

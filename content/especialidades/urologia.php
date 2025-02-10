@@ -199,7 +199,7 @@ $json_procedimientos = json_encode($procedimientos);
 					Organización Mundial de la Salud, además de la recomendada por su pediatra.</p>
 
 
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE UROLOGIA</b></p>
 					<div class="container">
 						<div class="row">

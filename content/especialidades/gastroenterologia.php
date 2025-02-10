@@ -153,7 +153,7 @@ $json_procedimientos = json_encode($procedimientos);
 				</p>
 
 
-				<div style="margin:20px 20px !important">
+				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE GASTROENTEOROLOGIA</b></p>
 					<div class="container">
 						<div class="row">

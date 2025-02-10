@@ -61,7 +61,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
             <!-- Contenedor con texto y enlaces (pegado a la izquierda de la imagen) -->
             <div class="col-md-5 position-absolute top-50 start-0 translate-middle-y ms-5" style="z-index: 10;">
                 <div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-center text-center"
-                    style="width: 320px !important; height: 150px !important;">
+                    style="width: 320px !important; height: 80px !important;">
 
                     <div class="mb-0">
                         <h1 class="h4 color-azul"><?php echo $h1; ?></h1>

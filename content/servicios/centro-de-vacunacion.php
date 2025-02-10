@@ -46,14 +46,14 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 <section class="fondo-azul content-space-1 d-none d-md-block" 
     style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; height: 600px !important; position: relative;">
     
-    <div class="container pt-3 mb-n5 h-100 position-relative">
+    <div class="container pt-3 mb-n5 h-100 position-relative" style="margin-left: 15% !important;">
         <div class="row h-100">
             
             <!-- Imagen centrada y más grande -->
-            <div class="col-md-7 offset-md-3 d-flex justify-content-center align-items-center">
+            <div class="col-md-7 offset-md-3 d-flex justify-content-center align-items-center"  >
                 <div class="bg-img-center card-img text-center">
                     <img class="img-fluid rounded-3" 
-                        style="max-width: 200%; height: 500px !important; object-fit: cover;" 
+                        style="max-width: 210%; height: 500px !important; object-fit: cover;" 
                         src="/images/Servicios/Centro de vacunación.png">
                 </div>
             </div>

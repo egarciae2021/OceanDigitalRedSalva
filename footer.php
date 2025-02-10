@@ -140,7 +140,7 @@ background: linear-gradient(90deg, rgba(41,83,160,1) 17%, rgba(4,147,167,1) 100%
 
 <!-- JS Unify -->
 <script src="/assets/js/theme.min.js"></script>
-<script src="/assets/js/hs.core.js"></script>
+<!-- <script src="/assets/js/hs.core.js"></script> -->
 <script src="/assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
 <script src="/assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
 <script src="/assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>

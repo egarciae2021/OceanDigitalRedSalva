@@ -2,7 +2,6 @@
 // require_once($_SERVER['DOCUMENT_ROOT'] . '/blog/wp-load.php'); 
 ?>
 <!DOCTYPE html>
-//<html lang="es_PE">
 <html>
 <head>
 	<!-- Required Meta Tags Always Come First -->

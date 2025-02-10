@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="/assets/vendor/swiper/swiper-bundle.css">
 <script src="https://kit.fontawesome.com/907c82b908.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="/assets/css/font-awesome.css">
+ 
 
 <!-- CSS Implementing Plugins -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -25,7 +26,7 @@
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsparallaxer.css">
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
- 
+  
 <!-- #region -->
 </head>
 <!--<?php require_once('cookies.php'); ?>-->

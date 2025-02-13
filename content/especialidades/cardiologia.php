@@ -62,8 +62,7 @@ $json_procedimientos = json_encode($procedimientos);
 </section>
 <img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
 
-
-<p><?php echo $h1; ?></p>
+ 
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
@@ -107,7 +106,7 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p> Red salva, cuenta con especialistas en Cardiología con muchos años de experiencia y amplia
+				<p><p><?php echo $page; ?></p> Red salva, cuenta con especialistas en Cardiología con muchos años de experiencia y amplia
 					trayectoria. Este servicio se enfoca en el diagnóstico y tratamiento individualizado de diversas
 					patologías del sistema cardio-circulatorio; además, con el fin de brindar la mejor atención médica,
 					contamos con la mejor tecnología de diagnóstico no invasivo: Electrocardiograma de reposo y de

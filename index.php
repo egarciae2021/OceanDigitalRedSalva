@@ -3,7 +3,8 @@
 $commonMetadata = [
     'title' => 'Red salva',
     'keywords' => '', // Tus palabras clave comunes
-    'description' => ''
+    'description' => '',
+    'h1' => '',
 ];
 
 // Definir las variables específicas de cada página
@@ -1078,11 +1079,50 @@ $pageSpecificMetadata = [
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],
+
+    '/especialidades/urologia' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Urologia | Red salva',
+        'h1' => 'Urología',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    '/especialidades/reumatologia' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Reumatología | Red salva',
+        'h1' => 'Reumatología',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ], 
+    '/especialidades/medicina-general' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Medicina General | Red salva',
+        'h1' => 'Medicina General',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    '/especialidades/medicina-interna' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Medicina Interna | Red salva',
+        'h1' => 'Medicina Interna',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    '/especialidades/medicina-fisica-rehabilitacion' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Medicina Fiscia | Red salva',
+        'h1' => 'Medicina Fisica',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+
+    
     // Agrega las páginas específicas restantes aquí
 ];
 
 // Obtener el nombre de la página actual
-$page = isset($_REQUEST['page']) ? $_REQUEST['page'] : 'index';
+// $page = isset($_REQUEST['page']) ? $_REQUEST['page'] : 'index';
+$page = $_SERVER['REQUEST_URI'];
 
 // Verificar si la página actual tiene metadatos específicos, de lo contrario, usar los comunes
 $metadata = $commonMetadata;

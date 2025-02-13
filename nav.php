@@ -75,7 +75,7 @@ $menuItems = array(
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
 								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-2"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%;">';
+								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 140%;">';
 								echo '<div class="row">';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {

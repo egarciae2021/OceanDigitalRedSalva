@@ -126,7 +126,7 @@ $json_procedimientos = json_encode($procedimientos);
 										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
 										<div class="accordion-item">
 											<h2 class="accordion-header">
-												<button class="accordion-button collapsed" type="button"
+												<button class="accordion-button collapsed" style="padding: 15px 32px !important" type="button"
 													data-bs-toggle="collapse"
 													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
 													aria-expanded="false"
@@ -137,7 +137,7 @@ $json_procedimientos = json_encode($procedimientos);
 											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
 												class="accordion-collapse collapse"
 												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body">
+												<div class="accordion-body" style="padding-top:5px !important">
 													<?= $procedimiento["contenido"] ?>
 												</div>
 											</div>

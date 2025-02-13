@@ -43,8 +43,7 @@ $menuItems = array(
 		'Tamizaje neonatal' => '/servicios/tamizaje-neonatal',
 		'Visita guiada' => '/servicios/visita-guiada'
 	),
-
-	// 'Blog' => '/blog'
+	'Blog' => '/blog'
 );
 ?>
 
@@ -75,13 +74,13 @@ $menuItems = array(
 						foreach ($menuItems as $label => $link) {
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
-								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false">' . $label . ' <i class="fa fa-angle-down ps-2"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-100" aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%;">';
+								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-2"></i></a>';
+								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%;">';
 								echo '<div class="row">';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {
 										echo '<div class="col-md-3 py-2">';
-										echo '<a class="dropdown-item" href="' . $subLink . '">';
+										echo '<a class="dropdown-item"  style="font-size:140% !important" href="' . $subLink . '">';
 										echo $subLabel;
 										echo '</a>';
 										echo '</div>';

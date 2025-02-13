@@ -19,7 +19,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
             <div class="position-md-absolute top-0 col-md-7 offset-md-5 h-100">
                 <div class="bg-img-center card-img">
                     <!-- <img class="img-fluid rounded-3" src="<?php echo $page_image; ?>" alt="<?php echo $h1; ?>"> -->
-                    <img class="img-fluid rounded-3" style="height:400px !important"   src="/images/staff.png">
+                    <img class="img-fluid rounded-3" style="height:400px !important" src="/images/staff.png">
                 </div>
             </div>
             <div class="col-10 col-md-7 col-lg-6 offset-1 offset-md-0 content-space-md-1">
@@ -143,8 +143,8 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
                                                         target="_blank">
                                                         <i class="fab fa-whatsapp"></i> Solicitar cita
                                                     </a>
-                                                    <a href="<?php echo $url; ?>"
-                                                        class="btn btn-primary d-none d-lg-inline-block rounded-pill">
+                                                    <a href="#" class="btn btn-primary d-none d-lg-inline-block rounded-pill"
+                                                        data-bs-toggle="modal" data-bs-target="#infoModal">
                                                         Ver más
                                                     </a>
                                                 </div>
@@ -177,6 +177,20 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="infoModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-xl modal-dialog-centered">
+                            <div class="modal-content custom-modal">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="infoModalLabel">Información Adicional</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                        aria-label="Cerrar"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Información de la trayectoria del doctor</p>
                                 </div>
                             </div>
                         </div>
@@ -278,3 +292,23 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
         filtrarYPaginar();
     </script>
 </section>
+
+<style>
+  .modal.show {
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .custom-modal {
+    width: 50vw;
+    height: 100vh;
+    border-radius: 0;
+    margin: 0;
+  }
+
+  .modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+  }
+</style>

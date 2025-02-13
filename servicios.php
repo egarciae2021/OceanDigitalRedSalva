@@ -1,63 +1,25 @@
-<div class="overflow-hidden content-space-b-lg-2">
-	<div class="container content-space-1 content-space-b-lg-3">
-		<div class="row align-items-lg-center">
-			<div class="col-lg-7 mb-10 mb-lg-0">
-				<div class="position-relative">
-					<img class="img-fluid w-75 rounded-3" src="/images/conoce-nuestas-especialidades.svg"
-						alt="Nuestras especialidades">
-					<!-- <img class="img-fluid w-75 rounded-3" src="/images/especialidades-001.webp"
-						alt="Nuestras especialidades">
+<div class="shortcode-html">
+	<section class="g-brd-top g-brd-bottom g-brd-gray-light-v4 g-py-20">
+		<div class="container">
+			<div class="d-sm-flex text-center">
+				<div class="align-self-center">
+					<h2 class="h3 g-font-weight-300 w-100 g-mb-10 g-mb-0--md">Especialidades</h2>
+				</div>
 
-					<div class="position-absolute bottom-0 end-0 mb-n10 me-5">
-						<div class="d-flex justify-content-end">
-							<img class="img-fluid w-65 shadow rounded-3" src="/images/doctoreshome.webp"
-								alt="Image Description">
-						</div>
-					</div> -->
-					<figure class="position-absolute bottom-0 start-0 zi-n1 mb-n7 ms-n7" style="width: 10rem;">
-						<img class="img-fluid" src="/images/dots.svg" alt="Image Description">
-					</figure>
-				</div>
-			</div>
-			<div class="col-lg-5 mt-7 mt-sm-10 mt-lg-0">
-				<div class="mb-5">
-					<h2 class="text-primary">Conoce nuestras<span class="color-celeste"
-							style="color:#0493A7 !important"> ESPECIALIDADES</span></h2>
-					<p>En <span class="fw-bold color-naranja">Red salva</span> contamos con más de 10
-						especialidades.</p>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/ginecologia">Ginecología</a>
-					</div>
-
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/pediatria">Pediatría</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/neumologia">Neumología</a>
-					</div>
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/cardiologia">Cardiología</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/neurologia">Neurología</a>
-					</div>
-
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/oftalmologia">Oftalmología</a>
-					</div>
-				</div>
-				<div class="mt-5">
-					<a class="btn btn-naranja d-md-block" href="/especialidades"><span>Ver todas las
-							especialidades</span></a>
+				<div class="align-self-center ml-auto">
+					<ul class="u-list-inline">
+						<li class="list-inline-item g-mr-5">
+							<a class="u-link-v5 g-color-main" href="/">Inicio</a>
+							<i class="g-color-gray-light-v2 g-ml-5">/</i>
+						</li>
+						<li class="list-inline-item g-color-primary">
+							<span>Especialidades</span>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</div>
-	</div>
+	</section>
 </div>
+<?php require_once('./content/especialidades.php'); ?>
+<?php require_once('contact.php'); ?>

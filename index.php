@@ -1122,7 +1122,8 @@ $pageSpecificMetadata = [
 
 // Obtener el nombre de la página actual
 // $page = isset($_REQUEST['page']) ? $_REQUEST['page'] : 'index';
-$page = $_SERVER['REQUEST_URI'];
+
+$page = $_SERVER['REQUEST_URI'] === '/' ? 'index' : $_SERVER['REQUEST_URI'];
 
 // Verificar si la página actual tiene metadatos específicos, de lo contrario, usar los comunes
 $metadata = $commonMetadata;

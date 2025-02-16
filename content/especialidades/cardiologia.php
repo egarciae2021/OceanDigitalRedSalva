@@ -112,6 +112,7 @@ $json_procedimientos = json_encode($procedimientos);
 					cardíaca, arritmias, enfermedades coronarias y problemas de las válvulas cardíacas.</p>
 				<p>Además, se especializan en la realización de pruebas diagnósticas, como electrocardiogramas,
 					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p>
+					
 				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
 							<?php echo strtoupper($h1); ?>
@@ -149,10 +150,6 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-
-
-
-
 				<?php require_once('links-cardiologia.php'); ?>
 			</div>
 		</div>

@@ -190,7 +190,8 @@ $json_procedimientos = json_encode($procedimientos);
 
 
                 <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE GINECOLOGIA</b></p>
+                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
+                            <?php echo strtoupper($h1); ?></b></p>
                     <div class="container">
                         <div class="row">
 

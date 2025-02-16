@@ -62,6 +62,7 @@
 					autoinmunes, buscando aliviar el dolor, mejorar la movilidad y prevenir daños a largo plazo en los
 					pacientes.</p>
 			</div>
+			<?php require_once('links-reumatologia.php'); ?>
 
 		</div>
 	</div>

@@ -1,13 +1,13 @@
 <?php
 $procedimientos = [
-    [
-        "nombre" => "Bioempedancia x 1 sesión",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Bioempedancia x 3 sesión",
-        "contenido" => ""
-    ] 
+	[
+		"nombre" => "Bioempedancia x 1 sesión",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Bioempedancia x 3 sesión",
+		"contenido" => ""
+	]
 ];
 
 // Convertir a JSON (opcional)
@@ -19,17 +19,19 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container pt-3 mb-n5">
 		<div class="row">
 			<div class="col-12 mt-2">
-				<h1 class="h4 color-naranja"><?php echo $h1;?></h1>
+				<h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
 			</div>
 			<div class="mb-0">
-				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i class="fa fa-arrow-left small me-1"></i> Especialidades</a>
+				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+					Inicio</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i
+						class="fa fa-arrow-left small me-1"></i> Especialidades</a>
 			</div>
 		</div>
 	</div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
- 
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
+
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 
@@ -71,11 +73,13 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Red salva, cuenta con especialistas en Endocrinología con muchos años de experiencia y amplia trayectoria. Esta especialidad estudia las glándulas endocrinas y las enfermedades provocadas por un funcionamiento inadecuado de las mismas. El endocrinólogo es un médico especializado en las enfermedades de las hormonas, del metabolismo y los problemas nutricionales.</p>
-				<p>Si cuenta con antecedentes familiares o factores de riesgo puede realizarse un tamizaje para Diabetes Mellitus, Dislipidemias, Trastornos de la función de la tiroides dentro de las patologías endocrinológicas más frecuentes. De acuerdo a la evaluación por su médico y especialista se solicitarán estudios adicionales durante los siguientes controles si hay sospecha de otras patologías.</p>
-				<p>Los endocrinólogos han sido entrenados para diagnosticar y tratar diferentes problemas, entre ellos:</p>
-				
-						
+				<p>La Endocrinología es la especialidad médica que se enfoca en el diagnóstico y tratamiento de
+					enfermedades relacionadas con las glándulas endocrinas y las hormonas, como la diabetes, trastornos
+					tiroideos, obesidad y problemas de crecimiento.</p>
+				<p>Los endocrinólogos gestionan condiciones que afectan el metabolismo, la energía y la función hormonal
+					del cuerpo.</p>
+
+
 				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE ENDOCRINOLOGIA</b></p>
 					<div class="container">
@@ -110,10 +114,10 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-				
-				<?php require_once('links-endocrinologia.php');?>
+
+				<?php require_once('links-endocrinologia.php'); ?>
 			</div>
 		</div>
 	</div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

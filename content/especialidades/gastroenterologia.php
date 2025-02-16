@@ -95,7 +95,7 @@ $json_procedimientos = json_encode($procedimientos);
 	</div>
 </section>
 <img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
- 
+
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
@@ -138,23 +138,21 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>La gastroenterología es la especialidad médica que se ocupa del diagnóstico y tratamiento de las
-					enfermedades del sistema digestivo, incluyendo el esófago, estómago, intestinos, hígado, páncreas y
-					vesícula biliar. Los gastroenterólogos tratan una amplia variedad de condiciones, como la enfermedad
-					por reflujo gastroesofágico, úlceras pépticas, enfermedades inflamatorias intestinales (como la
-					enfermedad de Crohn y la colitis ulcerosa), así como trastornos hepáticos y pancreáticos.</p>
-				<p>En la Red salva, ofrecemos un enfoque integral y personalizado para el cuidado de la salud digestiva.
-					Contamos con un equipo de gastroenterólogos altamente capacitados y tecnología de última generación
-					para realizar procedimientos diagnósticos como la colonoscopia, endoscopia y el descarte de
-					helicobacter pylori. Nos especializamos en el tratamiento de enfermedades comunes y complejas del
-					sistema digestivo, garantizando una atención de alta calidad y un seguimiento continuo para mejorar
-					la calidad de vida de nuestros pacientes. Desde la detección temprana de cánceres digestivos hasta
-					el manejo de trastornos crónicos, nuestro objetivo es proporcionar un cuidado efectivo y compasivo.
-				</p>
+				<p>La Gastroenterología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y
+					prevención de enfermedades del sistema digestivo, que incluye el esófago, estómago, intestinos,
+					hígado, páncreas y vesícula biliar.</p>
+				<p>Los gastroenterólogos tratan una amplia variedad de afecciones, como gastritis, úlceras, reflujo
+					gastroesofágico, enfermedades hepáticas (como la hepatitis o cirrosis), trastornos intestinales
+					(como el síndrome del intestino irritable o la enfermedad inflamatoria intestinal) y problemas
+					relacionados con la digestión.</p>
+				<p>Además, realizan procedimientos diagnósticos, como endoscopias, para evaluar y tratar estas
+					condiciones.</p>
+
 
 
 				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE GASTROENTEOROLOGIA</b></p>
+					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE GASTROENTEOROLOGIA</b>
+					</p>
 					<div class="container">
 						<div class="row">
 
@@ -187,7 +185,7 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-				
+
 
 
 				<?php require_once('links-gastroenterologia.php'); ?>

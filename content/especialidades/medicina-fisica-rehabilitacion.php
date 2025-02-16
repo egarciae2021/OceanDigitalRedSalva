@@ -1,53 +1,53 @@
 <?php
 $procedimientos = [
-    [
-        "nombre" => "Terapia física x 1 sesión",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física x 3 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física x 6 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física x 10 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física doble sesión adulto x 1",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física doble sesión adulto x 5",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física neurológica x 1 sesión",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia física neurológica x 10 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia pediátrica x 1 sesión",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia pediátrica x 6 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Terapia pediátrica x 12 sesiones",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Magnetoterapia",
-        "contenido" => ""
-    ]
+	[
+		"nombre" => "Terapia física x 1 sesión",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física x 3 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física x 6 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física x 10 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física doble sesión adulto x 1",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física doble sesión adulto x 5",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física neurológica x 1 sesión",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia física neurológica x 10 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia pediátrica x 1 sesión",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia pediátrica x 6 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia pediátrica x 12 sesiones",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Magnetoterapia",
+		"contenido" => ""
+	]
 ];
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);
@@ -59,17 +59,19 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container pt-3 mb-n5">
 		<div class="row">
 			<div class="col-12 mt-2">
-				<h1 class="h4 color-naranja"><?php echo $h1;?></h1>
+				<h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
 			</div>
 			<div class="mb-0">
-				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i class="fa fa-arrow-left small me-1"></i> Especialidades</a>
+				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+					Inicio</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i
+						class="fa fa-arrow-left small me-1"></i> Especialidades</a>
 			</div>
 		</div>
 	</div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
- 
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
+
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
@@ -113,14 +115,16 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>uestro equipo de profesionales médicos y de enfermería actualizan sus conocimientos constantemente de acuerdo a los estándares aceptados internacionalmente. De esta manera, te brindamos una labor asistencial confiable e integral.</p>
-				<p>En Red salva, estudiamos cada caso en particular, haciendo un seguimiento de la paciente y procurando ofrecer soluciones rápidas y eficaces para su tranquilidad.</p>
-				<p>Realizamos revisiones ginecológicas periódicas y preventivas, además de diversos procedimientos como colposcopia, ecografía, histeroscopia y laparoscopia.</p>
-				<p>Además, ofrecemos atención y control del embarazo mes a mes, reduciendo de esta manera el riesgo de posibles complicaciones que perjudiquen su desarrollo.</p>
-				<p>No hay una edad concreta para la primera visita al ginecólogo, pero se recomienda en adolescentes en edad temprana o con algún problema ginecológico.</p>
-			
+				<p>La Medicina Física y Rehabilitación se especializa en el diagnóstico, tratamiento y prevención de
+					discapacidades físicas causadas por enfermedades o lesiones.</p>
+				<p>Los médicos en esta área utilizan terapias como fisioterapia, ejercicios terapéuticos y manejo del
+					dolor para mejorar la movilidad, la independencia y la calidad de vida de los pacientes.</p>
+				<p>Su objetivo es recuperar o mejorar la función física, ayudando a los pacientes a reintegrarse a sus
+					actividades diarias y prevenir complicaciones.</p>
+
 				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA FISICA Y REHABILITACION</b></p>
+					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA FISICA Y
+							REHABILITACION</b></p>
 					<div class="container">
 						<div class="row">
 
@@ -153,11 +157,11 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-				
-			
-				<?php require_once('links-ginecologia.php');?>
+
+
+				<?php require_once('links-ginecologia.php'); ?>
 			</div>
 		</div>
 	</div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

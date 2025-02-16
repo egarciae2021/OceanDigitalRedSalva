@@ -108,12 +108,13 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Red salva cuenta con especialistas en neurología con muchos años de experiencia ofreciendo atención
-					especializada en el diagnóstico, tratamiento y seguimiento de trastornos del sistema nervioso
-					central y periférico. Nuestro equipo de neurólogos altamente capacitados se dedica a proporcionar
-					cuidados personalizados a pacientes de todas las edades con una amplia gama de afecciones
-					neurológicas. Realizamos evaluaciones exhaustivas para diagnosticar trastornos neurológicos,
-					utilizando tecnologías avanzadas, pruebas neuropsicológicas y otros estudios especializados</p>
+				<p>La Neurología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y prevención de
+					enfermedades del sistema nervioso, que incluye el cerebro, la médula espinal, los nervios y los
+					músculos.</p>
+				<p>Los neurólogos tratan una amplia variedad de trastornos, como accidentes cerebrovasculares,
+					epilepsia, enfermedades neurodegenerativas (como el Alzheimer y el Parkinson), esclerosis múltiple,
+					migrañas y neuropatías. Además, utilizan pruebas diagnósticas, como resonancias magnéticas y
+					electroencefalogramas, para evaluar el funcionamiento del sistema nervioso.</p>
 
 
 				<div style="margin:20px 0px !important">

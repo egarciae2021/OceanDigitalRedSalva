@@ -115,6 +115,46 @@ $procedimientos = [
 	[
 		"nombre" => "Monitoreo ovulatorio",
 		"contenido" => ""
+	],
+	[
+		"nombre" => "Electroencefalograma digital",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electroenfalograma prolongado 12 hrs.",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electroenfalograma prolongado 2 hrs.",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electroenfalograma prolongado 6 hrs.",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electroenfalograma prolongado 1 hrs.",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electromiografia y velocidad de conducción 4 extremidades",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electromiografia y velocidad de conducción MMII",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Electromiografía y velocidad de conducción MMSS",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Terapia del dolor",
+		"contenido" => ""
+	],
+	[
+		"nombre" => "Certificado de discapacidad mental",
+		"contenido" => ""
 	]
 ];
 
@@ -229,7 +269,7 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-				<?php require_once('links-urologia.php'); ?> 
+				<?php require_once('links-urologia.php'); ?>
 			</div>
 		</div>
 	</div>

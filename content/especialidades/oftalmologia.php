@@ -1,20 +1,4 @@
-<?php
-$procedimientos = [
-	[
-		"nombre" => "Bioempedancia x 1 sesión",
-		"contenido" => ""
-	],
-	[
-		"nombre" => "Bioempedancia x 3 sesión",
-		"contenido" => ""
-	]
-];
-
-// Convertir a JSON (opcional)
-$json_procedimientos = json_encode($procedimientos);
-
-?>
-
+ 
 
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
@@ -84,42 +68,7 @@ $json_procedimientos = json_encode($procedimientos);
 					la miopía y la hipermetropía.</p>
 				<p>Además, realizan procedimientos quirúrgicos, como la cirugía de cataratas o la corrección de
 					problemas de visión, y utilizan tecnologías avanzadas para examinar la salud ocular.</p>
-
-				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE OFTALMOLOGIA</b></p>
-					<div class="container">
-						<div class="row">
-
-							<?php foreach ($procedimientos as $procedimiento): ?>
-								<div class="col-md-6">
-									<div class="accordion"
-										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-										<div class="accordion-item">
-											<h2 class="accordion-header">
-												<button class="accordion-button collapsed" type="button"
-													data-bs-toggle="collapse"
-													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-													aria-expanded="false"
-													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-													<?= $procedimiento["nombre"] ?>
-												</button>
-											</h2>
-											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-												class="accordion-collapse collapse"
-												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body">
-													<?= $procedimiento["contenido"] ?>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							<?php endforeach; ?>
-
-						</div>
-					</div>
-				</div>
-
+ 
 
 				<?php require_once('links-oftalmologia.php'); ?>
 			</div>

@@ -154,7 +154,7 @@ $json_procedimientos = json_encode($procedimientos);
 					style="position: relative; left: 50%; transform: translateX(-25%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
-						src="/images/Especialidades/Urología.png">
+						src="/images/Especialidades/Imnunizaciones Pediátricas.png">
 				</div>
 			</div>
 

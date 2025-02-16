@@ -8,7 +8,7 @@
 			'href' => '/especialidades/reumatologia/lesiones-musculoesqueleticas'
 		],
 		[
-			'nombre' => 'Accidentes cerebrovasculares (ACV)',
+			'nombre' => 'Accidentes cerebrovasculares ACV',
 			'contenido' => 'Un ACV puede afectar el movimiento, el habla y la coordinación. En Red Salva, ofrecemos rehabilitación para recuperar habilidades motoras y funcionales a través de terapia física, ocupacional y del habla.',
 			'href' => '/especialidades/neurociencias/accidentes-cerebrovasculares'
 		],

@@ -13,7 +13,7 @@
 			'href' => '/especialidades/dermatologia/psoriasis'
 		],
 		[
-			'nombre' => 'Eczema (Dermatitis atópica)',
+			'nombre' => 'Eczema Dermatitis atópica',
 			'contenido' => 'Es una afección de la piel que provoca picazón, enrojecimiento y sequedad. En Red Salva, brindamos tratamientos para aliviar los síntomas y prevenir brotes, ayudando a mantener su piel saludable.',
 			'href' => '/especialidades/dermatologia/eczema'
 		],
@@ -28,7 +28,7 @@
 			'href' => '/especialidades/dermatologia/melasma'
 		],
 		[
-			'nombre' => 'Cáncer de piel (Melanoma y no melanoma)',
+			'nombre' => 'Cáncer de piel Melanoma y no melanoma',
 			'contenido' => 'Son tipos de cáncer que afectan la piel y pueden ser peligrosos si no se detectan a tiempo. En nuestra clínica, realizamos evaluaciones regulares y ofrecemos tratamientos para eliminar los cánceres de piel en sus primeras etapas.',
 			'href' => '/especialidades/dermatologia/cancer-de-piel'
 		],

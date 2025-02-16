@@ -13,7 +13,7 @@
 			'href' => '/especialidades/ginecologia/miomas-uterinos'
 		],
 		[
-			'nombre' => 'Síndrome de ovario poliquístico (SOP)',
+			'nombre' => 'Síndrome de ovario poliquístico SOP',
 			'contenido' => 'Es un trastorno hormonal que afecta la ovulación, causando ciclos menstruales irregulares, aumento de peso y acné. Ofrecemos tratamiento para regular los ciclos menstruales y mejorar los síntomas.',
 			'href' => '/especialidades/ginecologia/sindrome-de-ovario-poliquistico'
 		],

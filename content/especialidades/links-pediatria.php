@@ -23,7 +23,7 @@
 			'href' => '/especialidades/pediatria/meningitis'
 		],
 		[
-			'nombre' => 'Enfermedades infecciosas comunes (como varicela, paperas y sarampión)',
+			'nombre' => 'Enfermedades infecciosas comunes como varicela, paperas y sarampión',
 			'contenido' => 'Son enfermedades contagiosas que afectan principalmente a los niños. En nuestra clínica, ofrecemos vacunas preventivas y tratamiento para aliviar los síntomas en caso de infección.',
 			'href' => '/especialidades/pediatria/enfermedades-infecciosas-comunes'
 		],
@@ -43,7 +43,7 @@
 			'href' => '/especialidades/pediatria/obesidad-infantil'
 		],
 		[
-			'nombre' => 'Dermatitis atópica (eccema)',
+			'nombre' => 'Dermatitis atópica eccema',
 			'contenido' => 'Es una afección de la piel que causa enrojecimiento, picazón y sequedad. Ofrecemos tratamientos dermatológicos para aliviar los síntomas y mejorar la salud de la piel de su hijo.',
 			'href' => '/especialidades/pediatria/dermatitis-atopica'
 		],

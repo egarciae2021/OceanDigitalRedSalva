@@ -43,7 +43,7 @@
 			'href' => '/especialidades/endocrinologia/sindrome-de-cushing'
 		],
 		[
-			'nombre' => 'Síndrome de ovario poliquístico (SOP)',
+			'nombre' => 'Síndrome de ovario poliquístico SOP',
 			'contenido' => 'Es un trastorno hormonal que afecta a las mujeres en edad fértil, causando ciclos menstruales irregulares y la formación de quistes en los ovarios. Ofrecemos tratamiento para regular el ciclo menstrual, reducir los síntomas y mejorar la fertilidad.',
 			'href' => '/especialidades/endocrinologia/sindrome-de-ovario-poliquistico'
 		],

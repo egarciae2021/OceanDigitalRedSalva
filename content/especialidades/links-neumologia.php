@@ -18,7 +18,7 @@
 			'href' => '/especialidades/neumologia/cancer-de-pulmon'
 		],
 		[
-			'nombre' => 'Enfermedad Pulmonar Obstructiva Crónica (EPOC)',
+			'nombre' => 'Enfermedad Pulmonar Obstructiva Crónica EPOC',
 			'contenido' => 'La EPOC es una afección progresiva que dificulta la respiración, generalmente causada por el tabaquismo. En nuestra clínica, trabajamos en el manejo de los síntomas para mejorar la función pulmonar y la calidad de vida a largo plazo.',
 			'href' => '/especialidades/neumologia/enfermedad-pulmonar-obstructiva-cronica'
 		]

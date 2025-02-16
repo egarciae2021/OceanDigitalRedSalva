@@ -13,7 +13,7 @@
 			'href' => '/especialidades/cardiologia/enfermedades-cardiovasculares'
 		],
 		[
-			'nombre' => 'Enfermedad pulmonar obstructiva crónica (EPOC)',
+			'nombre' => 'Enfermedad pulmonar obstructiva crónica EPOC',
 			'contenido' => 'Es una enfermedad progresiva que afecta los pulmones y dificulta la respiración, generalmente causada por el tabaquismo. Ofrecemos tratamientos para aliviar los síntomas y mejorar la calidad de vida.',
 			'href' => '/especialidades/neumologia/epoc'
 		],

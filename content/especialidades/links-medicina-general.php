@@ -3,12 +3,12 @@
 	<?php
 	$enfermedades = [
 		[
-			'nombre' => 'Gripe (Influenza)',
+			'nombre' => 'Gripe Influenza',
 			'contenido' => 'Es una infección viral que afecta las vías respiratorias y causa fiebre, dolor muscular, tos y cansancio. En Red Salva, tratamos los síntomas y ofrecemos medidas preventivas como la vacunación para proteger su salud.',
 			'href' => '/especialidades/general/gripe'
 		],
 		[
-			'nombre' => 'Hipertensión arterial (presión alta)',
+			'nombre' => 'Hipertensión arterial presión alta',
 			'contenido' => 'Esta condición ocurre cuando la presión en las arterias es consistentemente alta, lo que aumenta el riesgo de enfermedades del corazón. Ofrecemos diagnóstico y tratamiento personalizado para controlar su presión arterial y prevenir complicaciones graves.',
 			'href' => '/especialidades/cardiologia/hipertension-arterial'
 		],
@@ -18,12 +18,12 @@
 			'href' => '/especialidades/endocrinologia/diabetes-tipo-2'
 		],
 		[
-			'nombre' => 'Colesterol alto (hipercolesterolemia)',
+			'nombre' => 'Colesterol alto hipercolesterolemia',
 			'contenido' => 'Niveles elevados de colesterol en la sangre pueden aumentar el riesgo de enfermedades cardíacas. En nuestra clínica, evaluamos sus niveles de colesterol y ofrecemos estrategias de tratamiento, incluyendo cambios en la dieta y medicación.',
 			'href' => '/especialidades/cardiologia/colesterol-alto'
 		],
 		[
-			'nombre' => 'Infecciones del tracto urinario (ITU)',
+			'nombre' => 'Infecciones del tracto urinario ITU',
 			'contenido' => 'Las infecciones en las vías urinarias son comunes y causan dolor al orinar, urgencia y enrojecimiento. Tratamos estas infecciones con antibióticos adecuados para prevenir complicaciones.',
 			'href' => '/especialidades/urologia/infecciones-del-tracto-urinario'
 		],

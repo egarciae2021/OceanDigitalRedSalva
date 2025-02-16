@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE GASTROENTEOROLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de GASTROENTEOROLOGIA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

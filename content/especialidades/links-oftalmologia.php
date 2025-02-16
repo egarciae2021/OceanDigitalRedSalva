@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE OFTALMOLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de OFTALMOLOGIA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

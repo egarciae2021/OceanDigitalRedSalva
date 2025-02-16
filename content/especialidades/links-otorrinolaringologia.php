@@ -1,4 +1,4 @@
-<p class="color-azul h5">Procedimientos de Otorrinolaringología</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de Otorrinolaringología</p>
 <div class="row">
 	<div class="col-md-6">
 		<div class="list-group">

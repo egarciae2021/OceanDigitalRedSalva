@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE NEUROLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de NEUROLOGIA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

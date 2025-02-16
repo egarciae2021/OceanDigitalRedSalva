@@ -1,5 +1,5 @@
  
-<p class="color-azul h5">ENFERMEDADES DE CARDIOLOGÍA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de CARDIOLOGÍA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

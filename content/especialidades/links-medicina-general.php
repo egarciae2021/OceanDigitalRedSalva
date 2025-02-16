@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE MEDICINA GENERAL</p>
+<p class="color-azul h5"> Enfermedades que trata la especialidad de MEDICINA GENERAL</p>
 <div class="row">
 	<?php
 	$enfermedades = [

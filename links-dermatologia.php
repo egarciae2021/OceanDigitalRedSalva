@@ -1,4 +1,4 @@
-<p class="color-azul h5">Procedimientos de Dermatología</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de Dermatología</p>
 <div class="row">
 	<div class="col-md-6">
 		<div class="list-group">

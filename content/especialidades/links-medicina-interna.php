@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE MEDICINA INTERNA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de MEDICINA INTERNA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

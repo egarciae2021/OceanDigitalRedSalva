@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE ENDOCRINOLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de ENDOCRINOLOGIA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

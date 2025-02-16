@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE MEDICINA FISICA Y REHABILITACION</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de MEDICINA FISICA Y REHABILITACION</p>
 <div class="row">
 	<?php
 	$enfermedades = [

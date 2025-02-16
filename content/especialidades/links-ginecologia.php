@@ -55,11 +55,11 @@
 					<div id="collapse<?= str_replace(' ', '', $enfermedad['nombre']) ?>" class="accordion-collapse collapse"
 						data-bs-parent="#accordion<?= str_replace(' ', '', $enfermedad['nombre']) ?>">
 						<div class="accordion-body" style="padding-top:5px !important">
-							<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover <?php if ($page == $enfermedad['href']) {
+							<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover <?php if ($page == $enfermedad['href']) {
 								echo 'active';
 							} ?>" href="">
 								<?= $enfermedad['contenido'] ?>
-							</a>
+							</p>
 						</div>
 					</div>
 				</div>

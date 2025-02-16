@@ -10,11 +10,11 @@ $procedimientos = [
 		"contenido" => "La prueba de esfuerzo mide cómo responde su corazón al ejercicio, ayudándonos a detectar posibles problemas cardíacos. Durante la prueba, se monitorizan su ritmo cardíaco y otros signos mientras realiza ejercicio físico."
 	],
 	[
-		"nombre" => "Estudio de Mapa (24 horas)",
+		"nombre" => "Estudio de Mapa 24 horas",
 		"contenido" => "El estudio de mapa (24 horas) consiste en llevar un monitor portátil que registra su ritmo cardíaco durante todo un día. Esto nos ayuda a detectar irregularidades o problemas cardíacos que puedan ocurrir en su actividad diaria."
 	],
 	[
-		"nombre" => "Estudio de Holter (24 horas)",
+		"nombre" => "Estudio de Holter 24 horas",
 		"contenido" => "El estudio de Holter (24 horas) es un monitoreo continuo de su ritmo cardíaco durante un día completo, utilizando un pequeño dispositivo que se coloca en su pecho. Esto nos permite detectar irregularidades cardíacas mientras realiza sus actividades cotidianas."
 	],
 	[

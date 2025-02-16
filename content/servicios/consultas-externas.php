@@ -28,7 +28,7 @@
 					style="position: relative; left: 50%; transform: translateX(-30%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
-						src="/images/Servicios/Consulta Externa.png">
+						src="/images/Servicios/Consulta externa.png">
 				</div>
 			</div>
 

@@ -2,17 +2,19 @@
 	<div class="container pt-3 mb-n5">
 		<div class="row">
 			<div class="col-12 mt-2">
-				<h1 class="h4 color-naranja"><?php echo $h1;?></h1>
+				<h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
 			</div>
 			<div class="mb-0">
-				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i class="fa fa-arrow-left small me-1"></i> Servicios</a>
+				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+					Inicio</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i
+						class="fa fa-arrow-left small me-1"></i> Servicios</a>
 			</div>
 		</div>
 	</div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
- 
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
+
 
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
@@ -58,16 +60,18 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Ofrecemos modernas habitaciones individuales y suites (habitación + sala de visitas) completamente equipadas, con el más cálido servicio de atención al paciente, que nos permite llevar a cabo su recuperación con la mayor comodidad en un ambiente adecuado para la paciente y acompañante.</p>
-				<p class="color-azul h5">EJECUTIVA</p>
-				<p>Habitación individual con baño privado, teléfono, aire acondicionado, roller automático, friobar, cama de acompañante, TV LED con cable y caja fuerte.</p>
-				<p class="color-azul h5">SUITE EJECUTIVA</p>
-				<p>Habitación individual con baño privado, teléfono, aire acondicionado, roller automático, friobar, cómoda cama de acompañante, TV LED con cable, caja fuerte, sala de visita amoblada con TV LED con cable, teléfono, aire acondicionado, friobar y 1/2 baño privado.</p>
-				<p class="color-azul h5">SUITE EJECUTIVA PLUS</p>
-				<p>Habitación individual con baño privado, teléfono, aire acondicionado, roller automático, friobar, cama de acompañante, TV LED con cable, caja fuerte, amplia sala de visitas modernamente amoblada con TV LED con cable, teléfono, aire acondicionado, friobar y baño privado completo.</p>
-				<p>Además, todas las habitaciones cuentan con internet inalámbrico.</p>
+				<p>En el Centro de Imágenes Red Salva, nuestro propósito es ofrecer servicios de diagnóstico por
+					imágenes de alta calidad, fundamentales para la prevención, detección y seguimiento de diversas
+					condiciones de salud. Contamos con equipos de última tecnología y un equipo de profesionales
+					altamente capacitados, comprometidos con proporcionar resultados precisos y oportunos.</p>
+				<p>Este centro forma parte integral de la red de atención de nuestro policlínico, permitiendo que los
+					pacientes reciban diagnósticos rápidos y efectivos, los cuales son clave para un tratamiento
+					adecuado. Ya sea para estudios de rayos X, ecografías u otros exámenes, nuestro objetivo es
+					garantizar que los procedimientos sean realizados en un ambiente seguro y confortable, con la
+					confianza de que tu salud está en buenas manos.</p>
 			</div>
+
 		</div>
 	</div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

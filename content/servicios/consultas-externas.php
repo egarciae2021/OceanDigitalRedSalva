@@ -59,17 +59,18 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Nuestros consultorios están debidamente equipados con un moderno ecógrafo y colposcopio, que nos
-					permiten brindar una atención integral y personalizada a las pacientes en todas las etapas de su
-					vida. Las atenciones son brindadas por médicos especialistas.</p>
-				<p>Tenemos convenios para la atención en todos los servicios que brindamos a través de seguros
-					particulares y seguros EPS (Rímac Seguros, Pacífico Seguros, Mapfre y La Positiva), además de
-					seguros internacionales.</p>
-				<p>Para concertar una cita, comuníquese a la central de consultas de la Red salva, llamando al (01) 905
-					4534 Anexos 110 -120</p>
-				<p>Nuestro horario de atención es de lunes a viernes en el horario de 8:00 a.m. a 8:00 p.m. y los
-					sábados de 9:00 a.m. a 1:00 p.m. – Previa Cita.</p>
+				<p>En Consultas Externas Red Salva, nuestro propósito es brindarte atención médica especializada y
+					personalizada, sin necesidad de hospitalización. Ofrecemos una amplia gama de consultas en diversas
+					especialidades, con profesionales comprometidos en tu salud y bienestar. Nuestro objetivo es
+					proporcionar un servicio accesible, oportuno y de calidad, atendiendo tus necesidades de salud de
+					manera integral.</p>
+				<p>A través de nuestras consultas externas, podrás recibir diagnóstico, tratamiento y seguimiento para
+					diversas condiciones de salud, en un ambiente cómodo y cercano. En Red Salva, nos enfocamos en
+					promover tu salud y prevenir enfermedades, asegurando que cada consulta sea una oportunidad para
+					mejorar tu calidad de vida. Tu salud es nuestra prioridad, y estamos aquí para apoyarte en cada paso
+					de tu cuidado médico.</p>
 			</div>
+
 		</div>
 	</div>
 </section>

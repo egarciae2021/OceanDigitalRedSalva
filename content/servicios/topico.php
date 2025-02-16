@@ -2,18 +2,20 @@
 	<div class="container pt-3 mb-n5">
 		<div class="row">
 			<div class="col-12 mt-2">
-				<h1 class="h4 color-naranja"><?php echo $h1;?></h1>
+				<h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
 			</div>
 			<div class="mb-0">
-				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i class="fa fa-arrow-left small me-1"></i> Servicios</a>
+				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+					Inicio</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i
+						class="fa fa-arrow-left small me-1"></i> Servicios</a>
 			</div>
 		</div>
 	</div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
- 
- 
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
+
+
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 
@@ -57,10 +59,18 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>El servicio de Neonatología de la Red salva es reconocido a nivel nacional y está preparado para resolver todos los problemas que pueda presentar un niño al nacer. Contamos con la Unidad de Cuidados Intensivos Neonatal (UCIN) y Cuidados Intermedios (UTI).</p>
-				<p>Asimismo, tenemos el respaldo de un equipo humano multidisciplinario altamente calificado, entrenado y especializado en la atención del recién nacido sano y críticamente enfermo las 24 horas del día, permitiéndonos lograr resultados exitosos.</p>
+				<p>En Red Salva, nuestro propósito es ofrecer atención médica de calidad, cercana y accesible para toda
+					la comunidad. Nuestro tópico está diseñado para proporcionar primeros auxilios, atención de
+					urgencias menores y orientación en salud, de manera rápida y efectiva. Contamos con un equipo de
+					profesionales comprometidos en cuidar de tu bienestar, promoviendo la prevención de enfermedades y
+					hábitos saludables.</p>
+				<p>Ubicado dentro de nuestra red de atención, el tópico Red Salva asegura una atención oportuna,
+					conectando de manera eficiente con otros servicios del policlínico para garantizar un seguimiento
+					adecuado y la continuidad de tu atención médica. Estamos aquí para que tú y tu familia reciban el
+					cuidado que merecen, con la confianza y el respaldo de una red de salud confiable.</p>
+				<p>Tu salud es nuestra prioridad. ¡Visítanos y cuida lo que más importa!</p>
 			</div>
 		</div>
 	</div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

@@ -14,37 +14,6 @@
 	</div>
 </section>
 <img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
-<!-- <section class="fondo-azul content-space-1 d-none d-md-block" style=" background: rgb(4,147,167) !important;
-background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)  !important;height:480px !important">
-	<div class="container pt-3 mb-n5">
-		<div class="row position-relative">
-			<div class="position-md-absolute top-0 col-md-7 offset-md-5 h-100">
-				<div class="bg-img-center card-img">
-					<img class="img-fluid rounded-3" style="height:400px !important"
-						src="/images/Servicios/Centro de vacunación.png">
-				</div>
-			</div> 
-			<div class="col-6 col-md-7 col-lg-6 offset-1 offset-md-0 content-space-md-1">
-				<div class="position-relative fondo-celeste-bajo rounded-3 zi-1 p-6 mt-5 mb-5 pe-6 shadow-sm d-flex flex-column justify-content-center align-items-center text-center"
-					style="width:50% !important; height:100px !important">
-
-					<div class="mb-0 mt-0">
-						<h1 class="h4 color-azul"><?php echo $h1; ?></h1>
-					</div>
-					<div class="mb-2">
-						<a class="link color-azul color-naranja-hover" href="/">
-							<i class="fa fa-arrow-left small me-1"></i> Inicio
-						</a>
-						<a class="link color-azul color-naranja-hover ms-3" href="/servicios">
-							<i class="fa fa-arrow-left small me-1"></i> Servicios
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
-</section> -->
-
-
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
@@ -89,17 +58,36 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Nuestros consultorios están debidamente equipados con un moderno ecógrafo y colposcopio, que nos
-					permiten brindar una atención integral y personalizada a las pacientes en todas las etapas de su
-					vida. Las atenciones son brindadas por médicos especialistas.</p>
-				<p>Tenemos convenios para la atención en todos los servicios que brindamos a través de seguros
-					particulares y seguros EPS (Rímac Seguros, Pacífico Seguros, Mapfre y La Positiva), además de
-					seguros internacionales.</p>
-				<p>Para concertar una cita, comuníquese a la central de consultas de la Red salva, llamando al (01) 905
-					4534 Anexos 110 -120</p>
-				<p>Nuestro horario de atención es de lunes a viernes en el horario de 8:00 a.m. a 8:00 p.m. y los
-					sábados de 9:00 a.m. a 1:00 p.m. – Previa Cita.</p>
+				<p>El Centro de Vacunación del Policlínico Red Salva es un servicio integral dedicado a la prevención de
+					enfermedades infecciosas mediante la aplicación de vacunas a la población. Con un enfoque en la
+					salud pública y el bienestar de la comunidad, este centro proporciona un acceso rápido y seguro a
+					inmunizaciones de alta calidad para todas las edades.</p>
+				<p><strong>Características del servicio:</strong></p>
+				<ul>
+					<li><strong>Vacunación para todas las edades:</strong> El centro ofrece un amplio catálogo de
+						vacunas, tanto para niños como para adultos, que incluye las que forman parte del calendario
+						nacional de vacunación, así como otras opcionales, como la de la influenza, el tétanos, la
+						hepatitis B y la neumonía, entre otras.</li>
+					<li><strong>Atención profesional y personalizada:</strong> El personal altamente capacitado y
+						experimentado del Policlínico Red Salva, compuesto por médicos y enfermeras, brinda atención
+						profesional, realizando una evaluación previa para garantizar que las personas reciban las
+						vacunas más adecuadas según su edad, estado de salud y necesidades individuales.</li>
+					<li><strong>Espacio adecuado y seguro:</strong> El Centro de Vacunación está equipado con los
+						estándares más altos de seguridad e higiene, con refrigeración adecuada para mantener las
+						vacunas en las condiciones óptimas que garanticen su efectividad.</li>
+					<li><strong>Facilidad de acceso y horarios flexibles:</strong> La Policlínica Red Salva facilita el
+						acceso a la población mediante horarios extendidos, permitiendo que los pacientes reciban
+						atención sin mayores inconvenientes. Además, ofrece campañas de vacunación en diferentes épocas
+						del año, adaptándose a las necesidades de la comunidad.</li>
+					<li><strong>Control y registro de vacunas:</strong> Se lleva un registro detallado de las vacunas
+						administradas, lo que permite hacer un seguimiento adecuado y garantizar que los pacientes
+						completen su esquema de inmunización de manera oportuna.</li>
+				</ul>
+				<p>Este servicio del Centro de Vacunación de la Policlínica Red Salva juega un papel fundamental en la
+					mejora de la salud pública, contribuyendo a la prevención de brotes de enfermedades y fortaleciendo
+					la protección colectiva contra diversas infecciones.</p>
 			</div>
+
 		</div>
 	</div>
 </section>

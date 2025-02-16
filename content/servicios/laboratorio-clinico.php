@@ -2,18 +2,20 @@
 	<div class="container pt-3 mb-n5">
 		<div class="row">
 			<div class="col-12 mt-2">
-				<h1 class="h4 color-naranja"><?php echo $h1;?></h1>
+				<h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
 			</div>
 			<div class="mb-0">
-				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i class="fa fa-arrow-left small me-1"></i> Servicios</a>
+				<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+					Inicio</a>
+				<a class="link color-white color-naranja-hover ms-3" href="/servicios"><i
+						class="fa fa-arrow-left small me-1"></i> Servicios</a>
 			</div>
 		</div>
 	</div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
- 
- 
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
+
+
 <section class="fondo-azul content-space-1 d-none d-md-block"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 
@@ -57,13 +59,21 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Ahora, experiencia internacional al servicio de las familias peruanas.</p>
-				<p>Tecnología de punta, precisión de resultados y Banco de Sangre disponible las 24 horas del día.</p>
-				<p>Horario de atención de laboratorio:</p>
-				<p>Atención Ambulatoria: 7:00 a.m – 7:00 p.m</p>
-				<p>Atención de Emergencias: 24 horas</p>
+				<p>En Red Salva, nos especializamos en ofrecer diagnósticos confiables a través de pruebas de
+					laboratorio que respaldan el cuidado de tu salud. Contamos con equipos de última tecnología y un
+					equipo de profesionales altamente capacitados para realizar una amplia gama de análisis clínicos,
+					esenciales para la prevención, diagnóstico y monitoreo de diversas condiciones de salud.</p>
+				<p>Nos comprometemos a garantizar que cada prueba sea realizada con los más altos estándares de calidad,
+					brindando resultados oportunos y detallados que permiten a los médicos tomar decisiones informadas
+					sobre tu tratamiento. Además, trabajamos de manera coordinada con el resto de los servicios del
+					policlínico, como consultas externas y el centro de imágenes, para asegurar un enfoque integral en
+					tu atención médica.</p>
+				<p>En Red Salva, tu salud es nuestra prioridad. Nos aseguramos de ofrecerte un servicio accesible y
+					confiable, facilitando tu camino hacia una mejor salud con diagnósticos certeros que apoyen tu
+					bienestar.</p>
 			</div>
+
 		</div>
 	</div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

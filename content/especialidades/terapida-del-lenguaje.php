@@ -186,13 +186,35 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>La Urología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y prevención de
-					enfermedades del sistema urinario en ambos sexos y del sistema reproductivo masculino.</p>
-				<p>Los urólogos tratan afecciones como infecciones urinarias, cálculos renales, problemas de próstata,
-					disfunción eréctil, infertilidad masculina, y cánceres del tracto urinario, entre otros.</p>
-				<p>Además, realizan procedimientos quirúrgicos, como la extracción de cálculos renales o la cirugía de
-					próstata. Los urólogos también manejan trastornos del suelo pélvico y están involucrados en la
-					atención de problemas de incontinencia urinaria y alteraciones en la micción.</p>
+				<p>La Terapia del Lenguaje es una especialidad dedicada al diagnóstico, tratamiento y prevención de
+					trastornos relacionados con la comunicación, el lenguaje, el habla, la voz y la deglución. Esta
+					terapia es llevada a cabo por terapeutas del lenguaje que trabajan de manera individualizada con los
+					pacientes para ayudarles a mejorar sus habilidades comunicativas y a superar dificultades que puedan
+					estar afectando su desarrollo o funcionamiento diario.</p>
+
+				<p>Desde nuestra clínica, queremos explicarle de forma clara en qué consiste y cómo puede beneficiarlo:
+				</p>
+				<ol>
+					<li><strong>Diagnóstico de problemas del lenguaje y el habla:</strong> La terapia comienza con una
+						evaluación completa, en la que se analizan aspectos como la comprensión y expresión verbal, la
+						pronunciación, la fluidez al hablar, y la capacidad para articular palabras correctamente.</li>
+					<li><strong>Intervención personalizada:</strong> Una vez identificado el problema, se diseñan planes
+						de tratamiento adaptados a las necesidades específicas del paciente, ya sea en casos de retrasos
+						en el lenguaje, dislexia, tartamudez, dificultades de articulación, trastornos del espectro
+						autista, o problemas relacionados con la voz.</li>
+					<li><strong>Mejora de la comunicación:</strong> El objetivo principal de la terapia es que el
+						paciente recupere, mejore o desarrolle las habilidades necesarias para comunicarse de manera
+						efectiva. Esto puede incluir trabajar con sonidos y palabras, mejorar la fluidez verbal, o
+						incluso abordar la comunicación no verbal en pacientes con condiciones específicas.</li>
+					<li><strong>Asesoramiento a familiares y cuidadores:</strong> Además de trabajar directamente con el
+						paciente, proporcionamos orientación a los familiares y cuidadores para que puedan apoyar el
+						proceso terapéutico en el entorno familiar o escolar.</li>
+				</ol>
+
+				<p>En nuestra clínica, nos comprometemos a ofrecer una atención profesional y de calidad, orientada a
+					lograr que cada paciente alcance su máximo potencial comunicativo. Con la terapia del lenguaje
+					adecuada, podemos ayudarle a superar los obstáculos que puedan estar afectando su día a día y a
+					mejorar su bienestar general.</p>
 
 
 				<div style="margin:20px 0px !important">

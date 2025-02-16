@@ -124,104 +124,111 @@ $json_procedimientos = json_encode($procedimientos);
 ?>
 
 <section class="fondo-azul content-space-3  d-block d-md-none">
-   <div class="container pt-3 mb-n5">
-      <div class="row">
-         <div class="col-12 mt-2">
-            <h1 class="h4 color-naranja"><?php echo $h1;?></h1>
-         </div>
-         <div class="mb-0">
-            <a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i> Inicio</a>
-            <a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i class="fa fa-arrow-left small me-1"></i> Especialidades</a>
-         </div>
-      </div>
-   </div>
+    <div class="container pt-3 mb-n5">
+        <div class="row">
+            <div class="col-12 mt-2">
+                <h1 class="h4 color-naranja"><?php echo $h1; ?></h1>
+            </div>
+            <div class="mb-0">
+                <a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+                    Inicio</a>
+                <a class="link color-white color-naranja-hover ms-3" href="/especialidades"><i
+                        class="fa fa-arrow-left small me-1"></i> Especialidades</a>
+            </div>
+        </div>
+    </div>
 </section>
-<img src="<?php echo $page_image;?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1;?>">
+<img src="<?php echo $page_image; ?>" class="img-fluid mt-n5 d-block d-md-none" alt="<?php echo $h1; ?>">
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
-	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
+    style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 
-	<div class="container pt-3 mb-n5 h-100 position-relative d-flex">
-		<div class="row h-100 w-100">
+    <div class="container pt-3 mb-n5 h-100 position-relative d-flex">
+        <div class="row h-100 w-100">
 
-			<div class="col-md-7 d-flex justify-content-center align-items-center">
-				<div class="bg-img-center card-img text-center"
-					style="position: relative; left: 50%; transform: translateX(-25%);">
-					<img class="img-fluid rounded-3"
-						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
-						src="/images/Especialidades/Dermatología.png">
-				</div>
-			</div>
+            <div class="col-md-7 d-flex justify-content-center align-items-center">
+                <div class="bg-img-center card-img text-center"
+                    style="position: relative; left: 50%; transform: translateX(-25%);">
+                    <img class="img-fluid rounded-3"
+                        style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
+                        src="/images/Especialidades/Dermatología.png">
+                </div>
+            </div>
 
-			<div class="col-md-5 d-flex align-items-center ps-5"
-				style="position: relative; left: 60%; transform: translateX(-270%);">
-				<div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-start"
-					style="width: auto; height: auto; max-width: 320px;">
+            <div class="col-md-5 d-flex align-items-center ps-5"
+                style="position: relative; left: 60%; transform: translateX(-270%);">
+                <div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-start"
+                    style="width: auto; height: auto; max-width: 320px;">
 
-					<div class="mb-0">
-						<h1 class="h4 color-azul"><?php echo $h1; ?></h1>
-					</div>
-					<div class="mt-2">
-						<a class="link color-azul color-naranja-hover" href="/">
-							<i class="fa fa-arrow-left small me-1"></i> Inicio
-						</a>
-						<a class="link color-azul color-naranja-hover ms-3" href="/especialidades"><i
-								class="fa fa-arrow-left small me-1"></i> Especialidades</a>
-					</div>
-				</div>
-			</div>
+                    <div class="mb-0">
+                        <h1 class="h4 color-azul"><?php echo $h1; ?></h1>
+                    </div>
+                    <div class="mt-2">
+                        <a class="link color-azul color-naranja-hover" href="/">
+                            <i class="fa fa-arrow-left small me-1"></i> Inicio
+                        </a>
+                        <a class="link color-azul color-naranja-hover ms-3" href="/especialidades"><i
+                                class="fa fa-arrow-left small me-1"></i> Especialidades</a>
+                    </div>
+                </div>
+            </div>
 
-		</div>
-	</div>
+        </div>
+    </div>
 </section>
 
- 
+
 <section class="py-5">
-   <div class="container">
-      <div class="row">
-         <div class="col-md-10 offset-lg-1">
-            <p>La dermatología es la especialidad médica dedicada al diagnóstico y tratamiento de las enfermedades de la piel, cabello y uñas. Esta rama de la medicina abarca una amplia variedad de condiciones, desde el acné y la dermatitis hasta enfermedades más complejas como la psoriasis y el cáncer de piel. Además de tratar enfermedades, los dermatólogos también se especializan en procedimientos estéticos para mejorar la apariencia de la piel, como los rellenos dérmicos, el Botox y el rejuvenecimiento con láser.</p>
-            <p>En la Red salva, ofrecemos un enfoque integral para el cuidado dermatológico, atendiendo tanto a adultos como a niños y mujeres embarazadas. Nuestro equipo de dermatólogos altamente calificados utiliza tecnologías de última generación y tratamientos personalizados para abordar cada caso de manera efectiva y segura. Ya sea que se trate de una consulta de rutina, un procedimiento estético o el tratamiento de una condición dermatológica compleja, nos comprometemos a proporcionar la mejor atención posible, enfocándonos en la salud y el bienestar de nuestros pacientes.</p>
-            
-            <div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE DERMATOLOGIA</b></p>
-					<div class="container">
-						<div class="row">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-lg-1">
+                <p>La Dermatología es la especialidad médica que se dedica al diagnóstico, tratamiento y prevención de
+                    enfermedades de la piel, cabello y uñas. Los dermatólogos tratan una amplia gama de afecciones, como
+                    acné, eczema, psoriasis, infecciones cutáneas, dermatitis y cáncer de piel.</p>
+                <p>Además, realizan procedimientos como biopsias, cirugía dermatológica y tratamientos para
+                    rejuvenecimiento cutáneo.</p>
+                <p>La dermatología no solo aborda enfermedades visibles, sino también afecciones relacionadas con la
+                    salud general, ya que la piel es un reflejo importante del bienestar interno.</p>
 
-							<?php foreach ($procedimientos as $procedimiento): ?>
-								<div class="col-md-6">
-									<div class="accordion"
-										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-										<div class="accordion-item">
-											<h2 class="accordion-header">
-												<button class="accordion-button collapsed" type="button"
-													data-bs-toggle="collapse"
-													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-													aria-expanded="false"
-													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-													<?= $procedimiento["nombre"] ?>
-												</button>
-											</h2>
-											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-												class="accordion-collapse collapse"
-												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body">
-													<?= $procedimiento["contenido"] ?>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							<?php endforeach; ?>
+                <div style="margin:20px 0px !important">
+                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE DERMATOLOGIA</b></p>
+                    <div class="container">
+                        <div class="row">
 
-						</div>
-					</div>
-				</div>
+                            <?php foreach ($procedimientos as $procedimiento): ?>
+                                <div class="col-md-6">
+                                    <div class="accordion"
+                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                    aria-expanded="false"
+                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                    <?= $procedimiento["nombre"] ?>
+                                                </button>
+                                            </h2>
+                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                class="accordion-collapse collapse"
+                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                <div class="accordion-body">
+                                                    <?= $procedimiento["contenido"] ?>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
 
-            
-            <?php require_once('links-dermatologia.php');?>
-         </div>
-      </div>
-   </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <?php require_once('links-dermatologia.php'); ?>
+            </div>
+        </div>
+    </div>
 </section>
-<?php require_once('formulario.php');?>
+<?php require_once('formulario.php'); ?>

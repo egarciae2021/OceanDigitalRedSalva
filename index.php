@@ -977,8 +977,23 @@ $pageSpecificMetadata = [
         'description' => 'DESCRIBIR'
     ],
 
+    '/especialidades/terapida-del-lenguaje' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/traumatologia.webp',
+        'title' => 'Terapia del lenguaje | Red salva',
+        'h1' => 'Terapia del lenguaje',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
 
 
+    '/especialidades/inmunizaciones-pediatricas' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/traumatologia.webp',
+        'title' => 'Inmunizaciones pediatricas | Red salva',
+        'h1' => 'Inmunizaciones pediatricas',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    
 
     '/servicios/centro-obstetrico' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/centro-obstetrico.webp',
@@ -1071,7 +1086,7 @@ $pageSpecificMetadata = [
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],
- 
+
     '/programas/dulce-espera' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
         'title' => 'Dulce espera | Red salva',
@@ -1093,7 +1108,7 @@ $pageSpecificMetadata = [
         'h1' => 'Reumatología',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
-    ], 
+    ],
     '/especialidades/medicina-general' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
         'title' => 'Medicina General | Red salva',
@@ -1116,7 +1131,7 @@ $pageSpecificMetadata = [
         'description' => 'DESCRIBIR'
     ],
 
-    
+
     // Agrega las páginas específicas restantes aquí
 ];
 
@@ -1144,4 +1159,3 @@ require_once('content/' . $page . '.php');
 require_once('bloques.php');
 require_once('footer.php');
 ?>
-

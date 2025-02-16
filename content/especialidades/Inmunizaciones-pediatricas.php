@@ -186,14 +186,56 @@ $json_procedimientos = json_encode($procedimientos);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>La Urología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y prevención de
-					enfermedades del sistema urinario en ambos sexos y del sistema reproductivo masculino.</p>
-				<p>Los urólogos tratan afecciones como infecciones urinarias, cálculos renales, problemas de próstata,
-					disfunción eréctil, infertilidad masculina, y cánceres del tracto urinario, entre otros.</p>
-				<p>Además, realizan procedimientos quirúrgicos, como la extracción de cálculos renales o la cirugía de
-					próstata. Los urólogos también manejan trastornos del suelo pélvico y están involucrados en la
-					atención de problemas de incontinencia urinaria y alteraciones en la micción.</p>
+				<p>En Red Salva, la especialidad de Inmunizaciones Pediátricas se enfoca en la prevención de
+					enfermedades en los niños a través de un calendario de vacunación cuidadosamente diseñado para
+					proteger su salud desde el nacimiento hasta la adolescencia. Sabemos que la salud de su hijo es lo
+					más importante, y las vacunas son una de las maneras más efectivas de asegurarnos de que su niño
+					crezca protegido contra diversas enfermedades graves.</p>
 
+				<p>A continuación, le explicamos cómo funciona esta especialidad y por qué las inmunizaciones
+					pediátricas son fundamentales:</p>
+				<ol>
+					<li><strong>Protección temprana contra enfermedades graves:</strong> Las vacunas son fundamentales
+						para proteger a su hijo de enfermedades potencialmente peligrosas como el sarampión, la tos
+						ferina, la polio, la hepatitis, el rotavirus y la neumonía, entre muchas otras. Algunas de estas
+						enfermedades pueden tener complicaciones graves o incluso poner en peligro la vida de los niños,
+						por lo que inmunizarlos a tiempo es crucial.</li>
+					<li><strong>Calendario de vacunación pediátrico:</strong> Desde el nacimiento, su hijo recibirá una
+						serie de vacunas, que son parte de un calendario de vacunación diseñado para asegurar que se
+						administre cada dosis en el momento adecuado. Este calendario se ajusta de acuerdo con las
+						recomendaciones de las autoridades sanitarias internacionales y locales, como la Organización
+						Mundial de la Salud (OMS) y el Ministerio de Salud.</li>
+					<li><strong>Vacunas combinadas y seguras:</strong> Muchas veces, las vacunas se administran en
+						combinación, lo que significa que un solo pinchazo puede proteger a su hijo contra varias
+						enfermedades a la vez, minimizando el número de visitas al consultorio. Todas las vacunas
+						pediátricas que aplicamos son seguras, altamente efectivas y se encuentran aprobadas por las
+						principales instituciones de salud a nivel mundial.</li>
+					<li><strong>Refuerzos y seguimiento:</strong> Las inmunizaciones no se limitan a una sola dosis.
+						Algunas vacunas requieren refuerzos a lo largo de la infancia para mantener su efectividad a
+						largo plazo. En Red Salva, nos aseguramos de hacer un seguimiento constante para que su hijo
+						reciba las dosis de refuerzo en el momento adecuado.</li>
+					<li><strong>Vacunas para enfermedades prevenibles en la infancia:</strong> Algunas enfermedades que
+						pueden prevenirse mediante vacunas son el tétanos, la difteria, la tuberculosis, el sarampión,
+						la rubéola, la varicela y las infecciones respiratorias graves como la neumonía. Asegurarse de
+						que su hijo reciba estas vacunas a tiempo es clave para evitar complicaciones de salud en el
+						futuro.</li>
+					<li><strong>Educación y asesoramiento a los padres:</strong> En nuestra clínica, no solo nos
+						encargamos de la administración de las vacunas, sino también de proporcionarle a los padres toda
+						la información necesaria sobre el proceso. Respondemos todas sus dudas sobre las vacunas,
+						explicamos cualquier efecto secundario posible y brindamos orientación para que el proceso sea
+						lo más cómodo y seguro posible para su hijo.</li>
+					<li><strong>Compromiso con la salud infantil:</strong> Las inmunizaciones son una de las maneras más
+						efectivas de garantizar que su hijo crezca saludable, minimizando el riesgo de enfermedades
+						prevenibles. Al vacunarlo, también está ayudando a proteger a la comunidad en general, ya que
+						las tasas de vacunación altas contribuyen a evitar brotes de enfermedades.</li>
+				</ol>
+
+				<p>En resumen, las inmunizaciones pediátricas son un pilar esencial en el cuidado de la salud infantil.
+					En nuestra clínica, nos comprometemos a seguir un enfoque profesional y personalizado para asegurar
+					que su hijo reciba todas las vacunas necesarias en el momento adecuado, protegiéndolo de
+					enfermedades graves y asegurando un desarrollo saludable. Si tiene alguna pregunta o desea más
+					información sobre el calendario de vacunación de su hijo, no dude en contactarnos. ¡Estamos aquí
+					para ayudarle a cuidar su salud y la de su familia!</p>
 
 				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE UROLOGIA</b></p>

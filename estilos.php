@@ -26,7 +26,39 @@
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsparallaxer.css">
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
 <link rel="stylesheet" href="/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
-  
+  <style>
+/* Estilos para los botones con dropdown */
+.hs-mega-menu-invoker.nav-link.dropdown-toggle:focus,
+.hs-mega-menu-invoker.nav-link.dropdown-toggle:active,
+.hs-has-mega-menu.show > .hs-mega-menu-invoker {
+    background-color: rgba(4,147,167,1) !important; /* Color deseado */
+    color: white !important;
+    border-radius: 5px;
+}
+
+/* Estilos para los botones sin dropdown (ejemplo: Blog, Staff) */
+.nav-item:not(.hs-has-mega-menu) > .nav-link:focus,
+.nav-item:not(.hs-has-mega-menu) > .nav-link:active {
+    background-color: rgba(4,147,167,1) !important; /* Color deseado */
+    color: white !important;
+    border-radius: 5px;
+}
+
+/* Cambiar color cuando el usuario pasa el mouse */
+.hs-mega-menu-invoker.nav-link.dropdown-toggle:hover,
+.nav-item > .nav-link:hover {
+    background-color: rgba(4,147,167,1) !important;
+    color: white !important;
+}
+
+/* Quita el color cuando el menú se cierre */
+.hs-mega-menu-invoker {
+    transition: background-color 0.3s ease-in-out;
+}
+
+  </style>
 <!-- #region -->
 </head>
 <!--<?php require_once('cookies.php'); ?>-->
+
+ 

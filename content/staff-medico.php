@@ -130,9 +130,9 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
                                         <h5 class="card-title text-uppercase text-primary mb-2">
                                             <div class="row">
                                                 <div class="col-md-7">
-                                                    <a href="<?php echo $url; ?>" class="text-primary text-decoration-none">
+                                                    <p href="" class="text-primary text-decoration-none">
                                                         <?php echo "$titulo $nombre_completo"; ?>
-                                                    </a>
+                                                    </p>
                                                     <p class="text-muted mb-2 text-uppercase" style="font-size: 0.9rem;">
                                                         <?php echo $especialidad; ?>
                                                     </p>
@@ -294,21 +294,21 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 </section>
 
 <style>
-  .modal.show {
-    display: flex !important;
-    align-items: center;
-    justify-content: flex-end;
-  }
+    .modal.show {
+        display: flex !important;
+        align-items: center;
+        justify-content: flex-end;
+    }
 
-  .custom-modal {
-    width: 50vw;
-    height: 100vh;
-    border-radius: 0;
-    margin: 0;
-  }
+    .custom-modal {
+        width: 50vw;
+        height: 100vh;
+        border-radius: 0;
+        margin: 0;
+    }
 
-  .modal-backdrop {
-    background-color: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(5px);
-  }
+    .modal-backdrop {
+        background-color: rgba(0, 0, 0, 0.5);
+        backdrop-filter: blur(5px);
+    }
 </style>

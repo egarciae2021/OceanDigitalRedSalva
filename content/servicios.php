@@ -1,7 +1,7 @@
 <div class="fondo-azul"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 	<div class="container content-space-t-lg-4 content-space-b-1">
-		<h1 class="display-5 color-white">Especialidades</h1>
+		<h1 class="display-5 color-white">Servicios</h1>
 		<div class="mb-3">
 			<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
 				Inicio</a>
@@ -24,64 +24,28 @@
 
 				<div class="row border-bottom pb-3 mb-3">
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="./especialidades/cardiologia">Cardiología</a>
+						<a class="link link-secondary link-pointer" href="./servicios/centro-de-vacunacion">Centro de vacunación</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/dermatologia">Dermatologia</a>
+						<a class="link link-secondary link-pointer" href="./servicios/consultas-externas">Consultas externas</a>
 					</div>
 					<div class="col-4">
 						<a class="link link-secondary link-pointer"
-							href="/especialidades/endocrinologia">Endocrinología</a>
+							href="/servicios/farmacia">Farmacia</a>
 					</div>
 				</div>
 				<div class="row border-bottom pb-3 mb-3">
 					<div class="col-4">
 						<a class="link link-secondary link-pointer"
-							href="/especialidades/gastroenterologia">Gastroenterología</a>
+							href="/servicios/imagenes">Centro de Imagenes</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/ginecologia">Ginecología</a>
+						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-clinico">Laboratorio Clinico</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/ginecologia">Medicina
-							General</a>
+						<a class="link link-secondary link-pointer" href="/servicios/topico">Tópico</a>
 					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-4">
-						<a class="link link-secondary link-pointer"
-							href="/especialidades/mastologia-y-cancer-de-piel">Medicina Interna</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer"
-							href="/especialidades/mastologia-y-cancer-de-piel">Medicina Física y Rehabilitación</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/neumologia">Neumología</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/neurologia">Neurología</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/oftalmologia">Oftalmología</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/pediatria">Pediatría</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-
-					<div class="col-4">
-						<a class="link link-secondary link-pointer"
-							href="/especialidades/pediatria-vacunas">Reumatología</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/especialidades/traumatologia">Urología
-						</a>
-					</div>
-				</div>
+				</div> 
 				<div class="col-md-6">
 					<div class="card ">
 						<img class="card-img shadow-sm" src="/images/nosotros.jpg">

@@ -111,9 +111,11 @@ $json_procedimientos = json_encode($procedimientos);
 				<p>Los cardiólogos manejan una amplia variedad de condiciones, como hipertensión, insuficiencia
 					cardíaca, arritmias, enfermedades coronarias y problemas de las válvulas cardíacas.</p>
 				<p>Además, se especializan en la realización de pruebas diagnósticas, como electrocardiogramas,
-					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p> 
+					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p>
 				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE CARDIOLOGÍA</b></p>
+					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
+							<?php echo strtoupper($h1); ?>
+						</b></p>
 					<div class="container">
 						<div class="row">
 

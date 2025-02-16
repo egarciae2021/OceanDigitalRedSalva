@@ -45,7 +45,7 @@ $procedimientos = [
 		"contenido" => ""
 	],
 	[
-		"nombre" => "Ecografía Doppler útero + ovario",
+		"nombre" => "Ecografía Doppler útero  ovario",
 		"contenido" => ""
 	],
 	[
@@ -121,19 +121,19 @@ $procedimientos = [
 		"contenido" => ""
 	],
 	[
-		"nombre" => "Electroenfalograma prolongado 12 hrs.",
+		"nombre" => "Electroenfalograma prolongado 12 hrs",
 		"contenido" => ""
 	],
 	[
-		"nombre" => "Electroenfalograma prolongado 2 hrs.",
+		"nombre" => "Electroenfalograma prolongado 2 hrs",
 		"contenido" => ""
 	],
 	[
-		"nombre" => "Electroenfalograma prolongado 6 hrs.",
+		"nombre" => "Electroenfalograma prolongado 6 hrs",
 		"contenido" => ""
 	],
 	[
-		"nombre" => "Electroenfalograma prolongado 1 hrs.",
+		"nombre" => "Electroenfalograma prolongado 1 hrs",
 		"contenido" => ""
 	],
 	[

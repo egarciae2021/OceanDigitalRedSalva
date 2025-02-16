@@ -1,123 +1,56 @@
 <?php
+
 $procedimientos = [
     [
-        "nombre" => "Cauterización",
-        "contenido" => ""
+        "nombre" => "Extracción de lunares o verrugas",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Cauterización con nitrato",
-        "contenido" => ""
+        "nombre" => "Biopsias de piel",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía transvaginal",
-        "contenido" => ""
+        "nombre" => "Cirugía de Mohs",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Colocación de DIU",
-        "contenido" => ""
+        "nombre" => "Fototerapia",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Colposcopia",
-        "contenido" => ""
+        "nombre" => "Peeling Químico",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Cono LEEP",
-        "contenido" => ""
+        "nombre" => "Cirugía láser",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ameu",
-        "contenido" => ""
+        "nombre" => "Depilación láser",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Drenaje y curación de hematoma vulvar",
-        "contenido" => ""
+        "nombre" => "Crioterapia",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía Doppler 4d",
-        "contenido" => ""
+        "nombre" => "Infiltraciones",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía Doppler ovárica",
-        "contenido" => ""
+        "nombre" => "Eliminación de tatuajes",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía Doppler uterina",
-        "contenido" => ""
+        "nombre" => "Dermoabrasión",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía Doppler útero + ovario",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía de mama",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía morforfológica Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía pélvica",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía perfil biofísico",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía transvaginal Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía 4D gemelar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía genética",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica gemelar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Electro cauterización cervical",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de pólipo cervical",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de tumoración vulvar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de fibroadenoma de mama",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Histerosonografía",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Marsupializacion de Bartolino",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Monitoreo ovulatorio",
-        "contenido" => ""
+        "nombre" => "Onicectomía",
+        "contenido" => "En construcción"
     ]
 ];
-
+ 
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);
 
@@ -190,8 +123,11 @@ $json_procedimientos = json_encode($procedimientos);
                 <p>La dermatología no solo aborda enfermedades visibles, sino también afecciones relacionadas con la
                     salud general, ya que la piel es un reflejo importante del bienestar interno.</p>
 
+                <!-- PROCEDIMIENTOS -->
                 <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE DERMATOLOGIA</b></p>
+                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
+                            <?php echo strtoupper($h1); ?>
+                        </b></p>
                     <div class="container">
                         <div class="row">
 
@@ -201,7 +137,8 @@ $json_procedimientos = json_encode($procedimientos);
                                         id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
                                         <div class="accordion-item">
                                             <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed" type="button"
+                                                <button class="accordion-button collapsed"
+                                                    style="padding: 15px 32px !important" type="button"
                                                     data-bs-toggle="collapse"
                                                     data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
                                                     aria-expanded="false"
@@ -212,7 +149,7 @@ $json_procedimientos = json_encode($procedimientos);
                                             <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
                                                 class="accordion-collapse collapse"
                                                 data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                <div class="accordion-body">
+                                                <div class="accordion-body" style="padding-top:5px !important">
                                                     <?= $procedimiento["contenido"] ?>
                                                 </div>
                                             </div>
@@ -224,7 +161,7 @@ $json_procedimientos = json_encode($procedimientos);
                         </div>
                     </div>
                 </div>
-
+                <!-- FIN DE PROCEDIMIENTOS -->
 
                 <?php require_once('links-dermatologia.php'); ?>
             </div>

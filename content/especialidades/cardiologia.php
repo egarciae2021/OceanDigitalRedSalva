@@ -10,11 +10,11 @@ $procedimientos = [
 		"contenido" => "La prueba de esfuerzo mide cómo responde su corazón al ejercicio, ayudándonos a detectar posibles problemas cardíacos. Durante la prueba, se monitorizan su ritmo cardíaco y otros signos mientras realiza ejercicio físico."
 	],
 	[
-		"nombre" => "Estudio de Mapa",
+		"nombre" => "Estudio de Mapa (24 horas)",
 		"contenido" => "El estudio de mapa (24 horas) consiste en llevar un monitor portátil que registra su ritmo cardíaco durante todo un día. Esto nos ayuda a detectar irregularidades o problemas cardíacos que puedan ocurrir en su actividad diaria."
 	],
 	[
-		"nombre" => "Estudio de Holter",
+		"nombre" => "Estudio de Holter (24 horas)",
 		"contenido" => "El estudio de Holter (24 horas) es un monitoreo continuo de su ritmo cardíaco durante un día completo, utilizando un pequeño dispositivo que se coloca en su pecho. Esto nos permite detectar irregularidades cardíacas mientras realiza sus actividades cotidianas."
 	],
 	[
@@ -38,6 +38,7 @@ $procedimientos = [
 		"contenido" => "El Eco Doppler carotideo y vertebral es un examen no invasivo que usa ultrasonido para evaluar el flujo sanguíneo en las arterias del cuello y la cabeza. Nos ayuda a detectar posibles obstrucciones o problemas en el suministro de sangre al cerebro."
 	]
 ];
+
 
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);
@@ -112,7 +113,8 @@ $json_procedimientos = json_encode($procedimientos);
 					cardíaca, arritmias, enfermedades coronarias y problemas de las válvulas cardíacas.</p>
 				<p>Además, se especializan en la realización de pruebas diagnósticas, como electrocardiogramas,
 					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p>
-					
+
+				<!-- PROCEDIMIENTOS -->
 				<div style="margin:20px 0px !important">
 					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
 							<?php echo strtoupper($h1); ?>
@@ -150,6 +152,8 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
+				<!-- FIN DE PROCEDIMIENTOS -->
+
 				<?php require_once('links-cardiologia.php'); ?>
 			</div>
 		</div>

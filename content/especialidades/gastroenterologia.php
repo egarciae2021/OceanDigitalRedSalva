@@ -1,78 +1,81 @@
 <?php
+
 $procedimientos = [
 	[
 		"nombre" => "Colocación de enema",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Colonoscopia completa",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Colonoscopia izquierda",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Dilatación de estenosis con balón hidrostático",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Endoscopia alta",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Sigmoidoscopia flexible",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Test ureasa",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Test aliento",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Paracentesis",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Ligadura de hemorroides",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
-		"nombre" => "Poliptemia en estomago",
-		"contenido" => ""
+		"nombre" => "Poliptemia en estómago",
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Ligadura de varices esofágica",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Polipectomía en colon",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Polipectomía con asa fría",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Polipectomía con pinza de biopsia",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Mucosectomía en estómago",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
-		"nombre" => "Mucosectomia en colon",
-		"contenido" => ""
+		"nombre" => "Mucosectomía en colon",
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Extracción de cuerpo extraño por endoscopía",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	]
 ];
+
+
 
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);

@@ -1,122 +1,23 @@
 <?php
 $procedimientos = [
     [
-        "nombre" => "Cauterización",
-        "contenido" => ""
+        "nombre" => "Espirometría",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Cauterización con nitrato",
-        "contenido" => ""
+        "nombre" => "Espirometría con broncodilatador",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Ecografía transvaginal",
-        "contenido" => ""
+        "nombre" => "Levantamiento de observaciones",
+        "contenido" => "En construcción"
     ],
     [
-        "nombre" => "Colocación de DIU",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Colposcopia",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Cono LEEP",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ameu",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Drenaje y curación de hematoma vulvar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía Doppler 4d",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía Doppler ovárica",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía Doppler uterina",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía Doppler útero + ovario",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía de mama",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía morforfológica Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía pélvica",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía perfil biofísico",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía transvaginal Doppler",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía 4D gemelar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía genética",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica gemelar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Ecografía obstétrica",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Electro cauterización cervical",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de pólipo cervical",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de tumoración vulvar",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Exeresis de fibroadenoma de mama",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Histerosonografía",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Marsupializacion de Bartolino",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Monitoreo ovulatorio",
-        "contenido" => ""
+        "nombre" => "Nebulización",
+        "contenido" => "En construcción"
     ]
 ];
+
 
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);

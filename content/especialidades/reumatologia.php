@@ -1,3 +1,46 @@
+<?php
+$procedimientos = [
+	[
+		"nombre" => "Inyecciones de cortisona",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Inyecciones de cortisona guiadas por ultrasonido",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Infiltración articular o periarticular",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Viscosuplementación o infiltración articular con ácido hialurónico",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Lavados articulares de rodilla",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Bloqueos de facetas articulares de columna vertebral",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Terapias biológicas, inmunosupresoras y corticoides por vía intravenosa",
+		"contenido" => "En construcción"
+	],
+	[
+		"nombre" => "Artrocentesis o punción evacuadora",
+		"contenido" => "En construcción"
+	]
+];
+
+
+// Convertir a JSON (opcional)
+$json_procedimientos = json_encode($procedimientos);
+
+?>
+
+
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
 		<div class="row">
@@ -62,6 +105,45 @@
 					autoinmunes, buscando aliviar el dolor, mejorar la movilidad y prevenir daños a largo plazo en los
 					pacientes.</p>
 			</div>
+
+			<!-- PROCEDIMIENTOS -->
+			<div style="margin:20px 0px !important">
+				<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
+						<?php echo strtoupper($h1); ?>
+					</b></p>
+				<div class="container">
+					<div class="row">
+
+						<?php foreach ($procedimientos as $procedimiento): ?>
+							<div class="col-md-6">
+								<div class="accordion" id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+									<div class="accordion-item">
+										<h2 class="accordion-header">
+											<button class="accordion-button collapsed" style="padding: 15px 32px !important"
+												type="button" data-bs-toggle="collapse"
+												data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+												aria-expanded="false"
+												aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+												<?= $procedimiento["nombre"] ?>
+											</button>
+										</h2>
+										<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+											class="accordion-collapse collapse"
+											data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+											<div class="accordion-body" style="padding-top:5px !important">
+												<?= $procedimiento["contenido"] ?>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						<?php endforeach; ?>
+
+					</div>
+				</div>
+			</div>
+			<!-- FIN DE PROCEDIMIENTOS -->
+
 			<?php require_once('links-reumatologia.php'); ?>
 
 		</div>

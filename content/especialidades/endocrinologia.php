@@ -1,14 +1,15 @@
 <?php
 $procedimientos = [
 	[
-		"nombre" => "Bioempedancia x 1 sesión",
-		"contenido" => ""
+		"nombre" => "Bioimpedancia x 1 sesión",
+		"contenido" => "En construcción"
 	],
 	[
-		"nombre" => "Bioempedancia x 3 sesión",
-		"contenido" => ""
+		"nombre" => "Bioimpedancia x 3 sesiones",
+		"contenido" => "En construcción"
 	]
 ];
+
 
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);

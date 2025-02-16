@@ -2,53 +2,54 @@
 $procedimientos = [
 	[
 		"nombre" => "Terapia física x 1 sesión",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física x 3 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física x 6 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física x 10 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física doble sesión adulto x 1",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física doble sesión adulto x 5",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física neurológica x 1 sesión",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia física neurológica x 10 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 1 sesión",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 6 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 12 sesiones",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	],
 	[
 		"nombre" => "Magnetoterapia",
-		"contenido" => ""
+		"contenido" => "En construcción"
 	]
 ];
+
 // Convertir a JSON (opcional)
 $json_procedimientos = json_encode($procedimientos);
 

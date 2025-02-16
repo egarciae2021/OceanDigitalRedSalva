@@ -64,6 +64,9 @@
 				<p>Los pediatras gestionan condiciones comunes y complejas, promueven la salud mediante vacunas y
 					consejos de nutrición, y abordan aspectos emocionales y psicológicos del niño, trabajando
 					estrechamente con las familias.</p>
+
+				<?php require_once('links-pediatria.php'); ?>
+
 			</div>
 
 		</div>

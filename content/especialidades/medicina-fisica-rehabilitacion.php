@@ -159,7 +159,7 @@ $json_procedimientos = json_encode($procedimientos);
 				</div>
 
 
-				<?php require_once('links-ginecologia.php'); ?>
+				<?php require_once('links-medicina-fisica.php'); ?>
 			</div>
 		</div>
 	</div>

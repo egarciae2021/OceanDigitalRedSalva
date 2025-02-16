@@ -1,36 +1,60 @@
-<p class="color-azul h5">Procedimientos de Neurología</p>
+<p class="color-azul h5">ENFERMEDADES DE NEUROLOGIA</p>
 <div class="row">
-	<div class="col-md-6">
-		<div class="list-group">
-			<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover 
-				<?php if ($page =='/especialidades/neurologia/cefaleas-y-migranas') { echo 'active'; } ?>" 
-				href="/especialidades/neurologia/cefaleas-y-migranas">
-				<i class="bi-house list-group-icon"></i> Cefaleas y Migrañas
-			</a>
-			<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover 
-				<?php if ($page =='/especialidades/neurologia/demencias') { echo 'active'; } ?>" 
-				href="/especialidades/neurologia/demencias">
-				<i class="bi-house list-group-icon"></i> Demencias 
-			</a>
-			<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover 
-				<?php if ($page =='/especialidades/neurologia/enfermedad-de-parkinson') { echo 'active'; } ?>" 
-				href="/especialidades/neurologia/enfermedad-de-parkinson">
-				<i class="bi-house list-group-icon"></i> Enfermedad de Parkinson
-			</a>
+	<?php
+	$enfermedades = [
+		[
+			'nombre' => 'Cefaleas y Migrañas',
+			'contenido' => 'Las cefaleas y migrañas son dolores de cabeza recurrentes que pueden ir acompañados de náuseas, sensibilidad a la luz y ruidos. En nuestra clínica, evaluamos las causas y ofrecemos tratamientos para reducir la frecuencia e intensidad de estos episodios.',
+			'href' => '/especialidades/neurologia/cefaleas-y-migranas'
+		],
+		[
+			'nombre' => 'Demencias',
+			'contenido' => 'Las demencias, como la enfermedad de Alzheimer, son trastornos que afectan la memoria y las capacidades cognitivas. En Red Salva, diagnosticamos y gestionamos estos trastornos con el objetivo de mejorar la calidad de vida y el bienestar del paciente.',
+			'href' => '/especialidades/neurologia/demencias'
+		],
+		[
+			'nombre' => 'Enfermedad de Parkinson',
+			'contenido' => 'Es un trastorno neurodegenerativo que afecta el movimiento, causando temblores, rigidez muscular y dificultad para caminar. En Red Salva, ofrecemos tratamiento para controlar los síntomas y mejorar la movilidad y calidad de vida.',
+			'href' => '/especialidades/neurologia/enfermedad-de-parkinson'
+		],
+		[
+			'nombre' => 'Epilepsia',
+			'contenido' => 'La epilepsia es una afección en la que el cerebro experimenta convulsiones recurrentes debido a actividad eléctrica anormal. En nuestra clínica, diagnosticamos tipos de epilepsia y ofrecemos tratamiento médico para controlar las crisis y prevenir complicaciones.',
+			'href' => '/especialidades/neurologia/epilepsia'
+		],
+		[
+			'nombre' => 'Neuralgia del Trigémino',
+			'contenido' => 'Es un dolor intenso y punzante en la cara, causado por la irritación del nervio trigémino. En Red Salva, ofrecemos opciones de tratamiento para aliviar el dolor y mejorar la calidad de vida de quienes padecen esta condición.',
+			'href' => '/especialidades/neurologia/neuralgia-del-trigemino'
+		]
+	]; 
+	
+	foreach ($enfermedades as $enfermedad):
+		?>
+		<div class="col-md-6">
+			<div class="accordion" id="accordion<?= str_replace(' ', '', $enfermedad['nombre']) ?>">
+				<div class="accordion-item">
+					<h2 class="accordion-header">
+						<button class="accordion-button collapsed" style="padding: 15px 32px !important" type="button"
+							data-bs-toggle="collapse"
+							data-bs-target="#collapse<?= str_replace(' ', '', $enfermedad['nombre']) ?>"
+							aria-expanded="false"
+							aria-controls="collapse<?= str_replace(' ', '', $enfermedad['nombre']) ?>">
+							<i class="bi-house list-group-icon"></i> <?= $enfermedad["nombre"] ?>
+						</button>
+					</h2>
+					<div id="collapse<?= str_replace(' ', '', $enfermedad['nombre']) ?>" class="accordion-collapse collapse"
+						data-bs-parent="#accordion<?= str_replace(' ', '', $enfermedad['nombre']) ?>">
+						<div class="accordion-body" style="padding-top:5px !important">
+							<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover <?php if ($page == $enfermedad['href']) {
+								echo 'active';
+							} ?>" href="">
+								<?= $enfermedad['contenido'] ?>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-	</div>
-	<div class="col-md-6">
-		<div class="list-group">
-			<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover 
-				<?php if ($page =='/especialidades/neurologia/epilepsia') { echo 'active'; } ?>" 
-				href="/especialidades/neurologia/epilepsia">
-				<i class="bi-house list-group-icon"></i> Epilepsia
-			</a>
-			<a class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover 
-				<?php if ($page =='/especialidades/neurologia/neuralgia-del-trigemino') { echo 'active'; } ?>" 
-				href="/especialidades/neurologia/neuralgia-del-trigemino">
-				<i class="bi-house list-group-icon"></i> Neuralgia del Trigémino
-			</a>
-		</div>
-	</div>
+	<?php endforeach; ?>
 </div>

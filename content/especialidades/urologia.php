@@ -229,7 +229,7 @@ $json_procedimientos = json_encode($procedimientos);
 						</div>
 					</div>
 				</div>
-
+				<?php require_once('links-urologia.php'); ?> 
 			</div>
 		</div>
 	</div>

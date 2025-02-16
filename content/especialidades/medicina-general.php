@@ -224,7 +224,7 @@ $json_procedimientos = json_encode($procedimientos);
                     </div>
                 </div>
 
-                <?php require_once('links-mastologia-y-cancer-de-piel.php'); ?>
+                <?php require_once('links-medicina-general.php'); ?>
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-<p class="color-azul h5">ENFERMEDADES DE GINECOLOGIA</p>
+<p class="color-azul h5">ENFERMEDADES DE REUMATOLOGIA</p>
 <div class="row">
 	<?php
 	$enfermedades = [

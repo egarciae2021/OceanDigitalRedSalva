@@ -24,31 +24,40 @@
 
 				<div class="row border-bottom pb-3 mb-3">
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="./servicios/centro-de-vacunacion">Centro de vacunación</a>
+						<a class="link link-secondary link-pointer" href="./servicios/centro-de-vacunacion">Centro de
+							vacunación</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="./servicios/consultas-externas">Consultas externas</a>
+						<a class="link link-secondary link-pointer" href="./servicios/consultas-externas">Consultas
+							externas</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer"
-							href="/servicios/farmacia">Farmacia</a>
+						<a class="link link-secondary link-pointer" href="/servicios/farmacia">Farmacia</a>
 					</div>
 				</div>
 				<div class="row border-bottom pb-3 mb-3">
 					<div class="col-4">
-						<a class="link link-secondary link-pointer"
-							href="/servicios/imagenes">Centro de Imagenes</a>
+						<a class="link link-secondary link-pointer" href="/servicios/imagenes">Centro de Imagenes</a>
 					</div>
 					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-clinico">Laboratorio Clinico</a>
+						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-clinico">Laboratorio
+							Clinico</a>
 					</div>
 					<div class="col-4">
 						<a class="link link-secondary link-pointer" href="/servicios/topico">Tópico</a>
 					</div>
-				</div> 
-				<div class="col-md-6">
-					<div class="card ">
-						<img class="card-img shadow-sm" src="/images/nosotros.jpg">
+				</div>
+				<div class="row border-bottom pb-3 mb-3">
+					<div class="col-4">
+						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-patologico">Laboratorio
+							patologico</a>
+					</div>
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-md-6 d-flex justify-content-center">
+						<div class="card">
+							<img class="card-img shadow-sm mx-auto d-block" src="/images/nosotros.jpg" alt="Nosotros">
+						</div>
 					</div>
 				</div>
 			</div>

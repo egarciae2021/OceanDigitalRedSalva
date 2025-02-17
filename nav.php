@@ -6,7 +6,7 @@ $menuItems = array(
 		'Dermatologia' => '/especialidades/dermatologia',
 		'Endocrinología' => '/especialidades/endocrinologia',
 		'Gastroenterología' => '/especialidades/gastroenterologia',
-		'Ginecología' => '/especialidades/ginecologia',
+		'Ginecología y obstetricia' => '/especialidades/ginecologia',
 		'Inmunizaciones pediatricas' => '/especialidades/Inmunizaciones-pediatricas',
 		'Medicina Fisica' => '/especialidades/medicina-fisica-rehabilitacion',
 		'Medicina General' => '/especialidades/medicina-general',
@@ -28,6 +28,7 @@ $menuItems = array(
 		'Centro de vacunación' => '/servicios/centro-de-vacunacion',
 		'Centro de Imágen' => '/servicios/imagenes',
 		'Tópico Red Salva' => '/servicios/topico',
+		'Laboratorio patológico' => '/servicios/laboratorio-patologico'
 	),
 	'Paquetes' => array(
 		'__enlace__' => '/servicios',

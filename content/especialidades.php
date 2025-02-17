@@ -82,9 +82,11 @@
 						</a>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="card ">
-						<img class="card-img shadow-sm" src="/images/nosotros.jpg">
+				<div class="row justify-content-center">
+					<div class="col-md-6 d-flex justify-content-center">
+						<div class="card">
+							<img class="card-img shadow-sm mx-auto d-block" src="/images/nosotros.jpg" alt="Nosotros">
+						</div>
 					</div>
 				</div>
 			</div>

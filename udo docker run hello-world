@@ -1,0 +1,22 @@
+[0;1;32m●[0m docker.service - Docker Application Container Engine
+     Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+     Active: [0;1;32mactive (running)[0m since Fri 2025-02-07 15:34:08 UTC; 49s ago
+TriggeredBy: [0;1;32m●[0m docker.socket
+       Docs: https://docs.docker.com
+   Main PID: 66838 (dockerd)
+      Tasks: 8
+     Memory: 20.8M
+        CPU: 312ms
+     CGroup: /system.slice/docker.service
+             └─66838 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+
+Feb 07 15:34:07 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 systemd[1]: Starting Docker Application Container Engine...
+Feb 07 15:34:07 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:07.773096172Z" level=info msg="Starting up"
+Feb 07 15:34:07 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:07.774504275Z" level=info msg="OTEL tracing is not configured, using no-op tracer provider"
+Feb 07 15:34:07 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:07.774837052Z" level=info msg="detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf"
+Feb 07 15:34:07 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:07.851437391Z" level=info msg="Loading containers: start."
+Feb 07 15:34:08 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:08.297647742Z" level=info msg="Loading containers: done."
+Feb 07 15:34:08 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:08.314009742Z" level=info msg="Docker daemon" commit=4c9b3b0 containerd-snapshotter=false storage-driver=overlay2 version=27.5.1
+Feb 07 15:34:08 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:08.314410298Z" level=info msg="Daemon has completed initialization"
+Feb 07 15:34:08 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 dockerd[66838]: time="2025-02-07T15:34:08.352458889Z" level=info msg="API listen on /run/docker.sock"
+Feb 07 15:34:08 ubuntu-s-2vcpu-8gb-160gb-intel-nyc1-01 systemd[1]: Started Docker Application Container Engine.

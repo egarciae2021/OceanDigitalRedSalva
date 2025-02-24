@@ -108,7 +108,7 @@
 											</div>
 											<div class="modal-body text-center">
 												<!-- Imagen dentro del modal -->
-												<img src="images/mapa.png" alt="Ubicación" class="img-fluid rounded">
+												<img src="/images/mapa.png" alt="Ubicación" class="img-fluid rounded">
 											</div>
 										</div>
 									</div>

@@ -28,7 +28,7 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-7">
-			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">B</span>ienvenido a salud digestiva de la<strong> Red salva</strong>, que nace como un centro integral en la prevención, diagnóstico  y tratamiento médico de las enfermedades que afectan el aparato digestivo.</p>
+			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">B</span>ienvenido a salud digestiva de la<strong> Red Salva</strong>, que nace como un centro integral en la prevención, diagnóstico  y tratamiento médico de las enfermedades que afectan el aparato digestivo.</p>
 			<p>Su estructura y función multidisciplinaria; asi como, sus alianzas estratégicas con otras disciplinas médicas afines permite el abordaje integral del paciente.</p>
 			<p>Cuenta con profesionales calificados apoyados por tecnología de punta para establecer el diagnóstico y tratamiento acorde a los mas rigurosas estandares actuales. Prevenir y restaurar su salud digestiva es nuestro principal objetivo.</p>
 		</div>

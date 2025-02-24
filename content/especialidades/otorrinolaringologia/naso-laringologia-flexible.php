@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La naso laringoscopia flexible es un procedimiento médico que permite al otorrinolaringólogo examinar las vías aéreas superiores, incluyendo la nariz, la garganta y la laringe. Utilizando un endoscopio flexible con una pequeña cámara en el extremo, el médico puede identificar y evaluar problemas como inflamaciones, tumores o cuerdas vocales anormales. Este procedimiento es mínimamente invasivo y generalmente se realiza en la consulta con anestesia local, lo que lo hace cómodo y seguro para el paciente.</p>
-				<p>En la Red salva, nos especializamos en la realización de naso laringoscopias flexibles, asegurando un diagnóstico preciso y una atención de alta calidad. Nuestro equipo de otorrinolaringólogos está altamente capacitado para realizar este procedimiento con la mayor precisión, permitiendo así una evaluación detallada y una planificación adecuada del tratamiento necesario para cada paciente.</p>
+				<p>En la Red Salva, nos especializamos en la realización de naso laringoscopias flexibles, asegurando un diagnóstico preciso y una atención de alta calidad. Nuestro equipo de otorrinolaringólogos está altamente capacitado para realizar este procedimiento con la mayor precisión, permitiendo así una evaluación detallada y una planificación adecuada del tratamiento necesario para cada paciente.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

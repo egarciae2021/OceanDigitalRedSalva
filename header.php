@@ -18,11 +18,25 @@
 	<link rel="preload" as="image" href="/images/slide-003.webp">
 	<?php require_once('estilos.php'); ?>
 	<script>
-	  document.addEventListener("DOMContentLoaded", function() {
+  document.addEventListener("DOMContentLoaded", function() {
+    // Obtener la ruta relativa de la URL actual
+    const currentPath = window.location.pathname;
+
+    // Verificar si la ruta relativa es la página principal o está vacía
+    if (currentPath === "/" || currentPath === "") {
+      // Si estamos en la página principal (sin ruta), aplicar zoom 61%
       setTimeout(() => {
         document.body.style.zoom = "61%";
       }, 500);
-    }); 
-	</script>
+    } else {
+      // En cualquier otra ruta (como /blog, /contacto, etc.), aplicar zoom 90%
+      setTimeout(() => {
+        document.body.style.zoom = "80%";
+      }, 500);
+    }
+  });
+</script>
+
+
 </head>
 <?php require_once('nav.php'); ?>

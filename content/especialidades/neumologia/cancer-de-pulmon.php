@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El cáncer de pulmón es una enfermedad grave que se desarrolla en los pulmones y puede causar síntomas como tos persistente, dolor en el pecho y pérdida de peso. La detección temprana y el tratamiento adecuado son fundamentales para mejorar las tasas de supervivencia.</p>
-				<p>En la Red salva, ofrecemos un enfoque integral para el diagnóstico y tratamiento del cáncer de pulmón. Utilizamos tecnología avanzada y terapias personalizadas para proporcionar el mejor cuidado posible, trabajando en estrecha colaboración con nuestros pacientes para apoyar su recuperación y bienestar.</p>
+				<p>En la Red Salva, ofrecemos un enfoque integral para el diagnóstico y tratamiento del cáncer de pulmón. Utilizamos tecnología avanzada y terapias personalizadas para proporcionar el mejor cuidado posible, trabajando en estrecha colaboración con nuestros pacientes para apoyar su recuperación y bienestar.</p>
 				<?php require_once('links-neumologia.php');?>
 			</div>
 		</div>

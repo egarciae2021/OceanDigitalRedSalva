@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>Las cefaleas y migrañas son dolores de cabeza que pueden ser debilitantes y afectar la calidad de vida. Estos pueden ser causados por una variedad de factores, incluyendo el estrés, los desequilibrios hormonales y ciertos alimentos.</p>
-				<p>En la Red salva, ofrecemos un enfoque integral para el diagnóstico y tratamiento de cefaleas y migrañas. Nuestros neurólogos utilizan una combinación de medicamentos, cambios en el estilo de vida y terapias alternativas para proporcionar alivio y mejorar la calidad de vida de nuestros pacientes.</p>
+				<p>En la Red Salva, ofrecemos un enfoque integral para el diagnóstico y tratamiento de cefaleas y migrañas. Nuestros neurólogos utilizan una combinación de medicamentos, cambios en el estilo de vida y terapias alternativas para proporcionar alivio y mejorar la calidad de vida de nuestros pacientes.</p>
 				<?php require_once('links-neurologia.php');?>
 			</div>
 		</div>

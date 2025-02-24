@@ -32,7 +32,7 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-7">
-			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>n Red salva sabemos que la dulce espera es una de las épocas más emocionantes para una mujer. Por ello, te ofrecemos un paquete completo para parto normal y cesárea con atención personalizada de nuestros profesionales altamente capacitados.</p>
+			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>n Red Salva sabemos que la dulce espera es una de las épocas más emocionantes para una mujer. Por ello, te ofrecemos un paquete completo para parto normal y cesárea con atención personalizada de nuestros profesionales altamente capacitados.</p>
 			<p>Nuestros ambientes son totalmente privados y equipados para que disfruten de esta bella etapa.</p>
 		</div>
 		<div class="col-lg-5">

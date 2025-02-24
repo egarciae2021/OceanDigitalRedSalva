@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La mastitis granulomatosa es una inflamación crónica de la mama que puede causar dolor, enrojecimiento y formación de nódulos. Esta condición puede ser difícil de diagnosticar y tratar, y a menudo requiere una evaluación detallada y un manejo especializado.</p>
-				<p>En la Red salva, nuestros especialistas en mastología están capacitados para diagnosticar y tratar la mastitis granulomatosa. Utilizamos un enfoque multidisciplinario para proporcionar un tratamiento eficaz y un seguimiento cercano, asegurando que nuestras pacientes reciban el mejor cuidado posible.</p>
+				<p>En la Red Salva, nuestros especialistas en mastología están capacitados para diagnosticar y tratar la mastitis granulomatosa. Utilizamos un enfoque multidisciplinario para proporcionar un tratamiento eficaz y un seguimiento cercano, asegurando que nuestras pacientes reciban el mejor cuidado posible.</p>
 				<?php require_once('links-mastologia-y-cancer-de-piel.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La enfermedad de Parkinson es un trastorno neurológico degenerativo que afecta el movimiento, causando síntomas como temblores, rigidez y dificultad para caminar. Aunque no tiene cura, el tratamiento puede ayudar a controlar los síntomas y mejorar la calidad de vida.</p>
-				<p>En la Red salva, nuestros neurólogos proporcionan un enfoque integral para el manejo de la enfermedad de Parkinson. Ofrecemos diagnósticos precisos y tratamientos personalizados, incluyendo medicamentos, terapia física y apoyo psicológico, para asegurar que nuestros pacientes reciban el mejor cuidado posible.</p>
+				<p>En la Red Salva, nuestros neurólogos proporcionan un enfoque integral para el manejo de la enfermedad de Parkinson. Ofrecemos diagnósticos precisos y tratamientos personalizados, incluyendo medicamentos, terapia física y apoyo psicológico, para asegurar que nuestros pacientes reciban el mejor cuidado posible.</p>
 				<?php require_once('links-neurologia.php');?>
 			</div>
 		</div>

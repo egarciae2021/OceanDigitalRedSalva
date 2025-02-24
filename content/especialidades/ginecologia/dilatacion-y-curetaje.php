@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La dilatación y curetaje (D&C) es un procedimiento que se realiza para diagnosticar y tratar condiciones uterinas, como sangrado anormal, pólipos o restos de tejido tras un aborto espontáneo. Este procedimiento implica la dilatación del cuello uterino y la extracción del tejido del interior del útero.</p>
-				<p>En la Red salva, ofrecemos D&C con un enfoque seguro y compasivo. Nuestros ginecólogos proporcionan una evaluación detallada y un cuidado postoperatorio integral, asegurando que nuestras pacientes reciban el mejor tratamiento y apoyo durante todo el proceso.</p>
+				<p>En la Red Salva, ofrecemos D&C con un enfoque seguro y compasivo. Nuestros ginecólogos proporcionan una evaluación detallada y un cuidado postoperatorio integral, asegurando que nuestras pacientes reciban el mejor tratamiento y apoyo durante todo el proceso.</p>
 				<?php require_once('links-ginecologia.php');?>
 			</div>
 		</div>

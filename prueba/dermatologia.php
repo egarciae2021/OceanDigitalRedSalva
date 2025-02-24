@@ -30,7 +30,7 @@
 		<div class="col-lg-7">
 			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">L</span>a dermatología es la especialidad de la medicina centrada en las enfermedades y en las funciones de la piel (el órgano más extenso del cuerpo humano). </p>
 			<p>Al especialista en dermatología se lo conoce como dermatólogo, quien previene y da tratamiento a todos los trastornos de la piel, que incluye las mucosas de los labios, boca, como de los genitales; así como de sus anexos, conformados por los pelos y las uñas.</p>
-			<p>En Red salva nos encargamos de las diferentes enfermedades de la Dermatología:</p>
+			<p>En Red Salva nos encargamos de las diferentes enfermedades de la Dermatología:</p>
 			<p><strong>Infecciones de la piel</strong><br>Impétigo  • Forúnculo</p>
 			<p><strong>Infecciones específicas</strong><br>Pediculosis  • Pitiriasis versicolor  • Tinea cruris  • Tinea corporis  • Tinea capitis  • Lepra  • Erisipela  • Herpes simple  • Verruga (Verruga plana, Verruga plantar)  • Molusco contagioso</p>
 			<p><strong>Trastornos bullosos</strong><br>Penfigo  • Dermatitis herpetiforme</p>

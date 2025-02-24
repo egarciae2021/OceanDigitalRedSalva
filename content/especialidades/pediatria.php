@@ -23,7 +23,7 @@
 
 			<div class="col-md-7 d-flex justify-content-center align-items-center">
 				<div class="bg-img-center card-img text-center"
-					style="position: relative; left: 50%; transform: translateX(-25%);">
+					style="position: relative; left: 50%; transform: translateX(5%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
 						src="/images/Especialidades/Pediatria.png">
@@ -31,7 +31,7 @@
 			</div>
 
 			<div class="col-md-5 d-flex align-items-center ps-5"
-				style="position: relative; left: 60%; transform: translateX(-270%);">
+				style="position: relative; left: 60%; transform: translateX(-250%);">
 				<div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-start"
 					style="width: auto; height: auto; max-width: 320px;">
 

@@ -27,8 +27,8 @@
 			<div class="row">
 				<div class="col-lg-6 g-mb-30">
 					<div class="mb-5">
-						<p>Los datos recibidos desde cualquier formulario de esta página web son de uso exclusivo de Red salva y no será compartido total o parcialmente a terceros.</p>
-						<p>El usuario acepta el uso de sus datos de contacto para recibir información de promociones y noticias relacionadas a los servicios que Red salva ofrece</p>
+						<p>Los datos recibidos desde cualquier formulario de esta página web son de uso exclusivo de Red Salva y no será compartido total o parcialmente a terceros.</p>
+						<p>El usuario acepta el uso de sus datos de contacto para recibir información de promociones y noticias relacionadas a los servicios que Red Salva ofrece</p>
 						<p>Este sitio es protegido por reCAPTCHA y aplican la<a href="https://www.google.com/intl/es/policies/privacy/" target="_blank"> Política de privacidad</a> y <a href="https://www.google.com/intl/es/policies/terms/" target="_blank"> Términos de servicio</a> de Google</p>
 					</div>
 				</div>

@@ -24,7 +24,7 @@
 
 			<div class="col-md-7 d-flex justify-content-center align-items-center">
 				<div class="bg-img-center card-img text-center"
-					style="position: relative; left: 50%; transform: translateX(-30%);">
+					style="position: relative; left: 50%; transform: translateX(-5%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
 						src="/images/Servicios/Tópico.png">

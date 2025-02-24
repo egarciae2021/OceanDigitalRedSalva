@@ -43,7 +43,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El bypass gástrico es un tipo de cirugía bariátrica destinada a ayudar a las personas con obesidad severa a perder peso y mejorar su salud general. Este procedimiento consiste en crear una pequeña bolsa en la parte superior del estómago y conectar esta bolsa directamente al intestino delgado. Al reducir el tamaño del estómago, el bypass gástrico limita la cantidad de alimentos que se pueden consumir y reduce la absorción de calorías y nutrientes.</p>
-				<p>En la Red salva, realizamos el bypass gástrico con un enfoque integral y personalizado. Nuestro equipo multidisciplinario, compuesto por cirujanos, nutricionistas y psicólogos, trabaja en conjunto para garantizar una preparación adecuada antes de la cirugía y un seguimiento continuo después del procedimiento. Esto incluye cambios en el estilo de vida, apoyo nutricional y monitoreo regular para asegurar una pérdida de peso efectiva y duradera, así como la mejora de condiciones asociadas como la diabetes tipo 2 y la hipertensión.</p>
+				<p>En la Red Salva, realizamos el bypass gástrico con un enfoque integral y personalizado. Nuestro equipo multidisciplinario, compuesto por cirujanos, nutricionistas y psicólogos, trabaja en conjunto para garantizar una preparación adecuada antes de la cirugía y un seguimiento continuo después del procedimiento. Esto incluye cambios en el estilo de vida, apoyo nutricional y monitoreo regular para asegurar una pérdida de peso efectiva y duradera, así como la mejora de condiciones asociadas como la diabetes tipo 2 y la hipertensión.</p>
 				<?php require_once('links-cirugia-bariatrica-y-metabolica.php');?>
 			</div>
 		</div>

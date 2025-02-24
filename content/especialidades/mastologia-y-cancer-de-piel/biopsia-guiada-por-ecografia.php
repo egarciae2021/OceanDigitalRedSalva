@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La biopsia guiada por ecografía es un procedimiento que utiliza imágenes de ecografía para guiar la aguja hacia una anomalía en la mama, permitiendo la extracción de una muestra de tejido para su análisis. Este método es esencial para el diagnóstico preciso de afecciones mamarias.</p>
-				<p>En la Red salva, realizamos biopsias guiadas por ecografía con precisión y cuidado. Nuestro equipo especializado se asegura de que cada paciente reciba una atención personalizada y un seguimiento integral, proporcionando diagnósticos rápidos y precisos para un manejo adecuado de su salud mamaria.</p>
+				<p>En la Red Salva, realizamos biopsias guiadas por ecografía con precisión y cuidado. Nuestro equipo especializado se asegura de que cada paciente reciba una atención personalizada y un seguimiento integral, proporcionando diagnósticos rápidos y precisos para un manejo adecuado de su salud mamaria.</p>
 				<?php require_once('links-mastologia-y-cancer-de-piel.php');?>
 			</div>
 		</div>

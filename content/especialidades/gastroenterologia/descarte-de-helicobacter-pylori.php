@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El descarte de Helicobacter pylori es un procedimiento diagnóstico utilizado para detectar la presencia de esta bacteria en el estómago, la cual está asociada con gastritis, úlceras pépticas y cáncer de estómago. El diagnóstico puede realizarse mediante pruebas de aliento, análisis de heces, endoscopia y biopsia.</p>
-				<p>En la Red salva, utilizamos métodos diagnósticos avanzados para la detección precisa de Helicobacter pylori. Nuestro equipo de gastroenterólogos proporciona un tratamiento eficaz y un seguimiento continuo para asegurar la erradicación de la bacteria y la mejora de la salud gastrointestinal del paciente.</p>
+				<p>En la Red Salva, utilizamos métodos diagnósticos avanzados para la detección precisa de Helicobacter pylori. Nuestro equipo de gastroenterólogos proporciona un tratamiento eficaz y un seguimiento continuo para asegurar la erradicación de la bacteria y la mejora de la salud gastrointestinal del paciente.</p>
 				<?php require_once('links-gastroenterologia.php');?>
 			</div>
 		</div>

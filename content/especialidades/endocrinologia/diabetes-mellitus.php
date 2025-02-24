@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La diabetes mellitus es una enfermedad crónica que afecta la manera en que el cuerpo regula el azúcar en sangre. Existen dos tipos principales, la diabetes tipo 1 y la tipo 2, ambas requiriendo un manejo cuidadoso para prevenir complicaciones a largo plazo.</p>
-				<p>En la Red salva, nuestros endocrinólogos especializados en diabetes proporcionan un enfoque integral para el manejo de esta condición. Ofrecemos educación sobre el autocuidado, monitoreo continuo y tratamientos personalizados para ayudar a nuestros pacientes a mantener niveles de azúcar en sangre controlados y llevar una vida saludable.</p>
+				<p>En la Red Salva, nuestros endocrinólogos especializados en diabetes proporcionan un enfoque integral para el manejo de esta condición. Ofrecemos educación sobre el autocuidado, monitoreo continuo y tratamientos personalizados para ayudar a nuestros pacientes a mantener niveles de azúcar en sangre controlados y llevar una vida saludable.</p>
 				<?php require_once('links-endocrinologia.php');?>
 			</div>
 		</div>

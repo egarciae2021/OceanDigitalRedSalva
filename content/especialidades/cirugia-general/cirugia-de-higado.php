@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía de hígado puede ser necesaria para tratar una variedad de condiciones, como tumores benignos y malignos, enfermedades hepáticas y traumatismos. Dependiendo de la enfermedad, el procedimiento puede variar desde resecciones parciales del hígado hasta trasplantes completos. La cirugía hepática es compleja y requiere un equipo especializado para garantizar la seguridad y efectividad del tratamiento.</p>
-				<p>En la Red salva, ofrecemos un enfoque integral para la cirugía de hígado. Contamos con un equipo multidisciplinario de cirujanos, hepatólogos y oncólogos que trabajan juntos para proporcionar el mejor cuidado posible. Utilizamos técnicas avanzadas y equipamiento de última generación para realizar procedimientos precisos y seguros. Nuestro compromiso es brindar una atención completa y personalizada, desde el diagnóstico hasta la recuperación postoperatoria.</p>
+				<p>En la Red Salva, ofrecemos un enfoque integral para la cirugía de hígado. Contamos con un equipo multidisciplinario de cirujanos, hepatólogos y oncólogos que trabajan juntos para proporcionar el mejor cuidado posible. Utilizamos técnicas avanzadas y equipamiento de última generación para realizar procedimientos precisos y seguros. Nuestro compromiso es brindar una atención completa y personalizada, desde el diagnóstico hasta la recuperación postoperatoria.</p>
 				<?php require_once('links-cirugia-general.php');?>
 			</div>
 		</div>

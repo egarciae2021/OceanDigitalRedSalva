@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La logoaudiometría es una prueba que evalúa la capacidad de una persona para entender y repetir palabras, complementando la audiometría tonal. Esta evaluación proporciona información crucial sobre la comprensión del habla, lo cual es esencial para determinar el tipo y grado de pérdida auditiva. Los resultados son fundamentales para ajustar audífonos y planificar terapias auditivas.</p>
-				<p>En la Red salva, realizamos logoaudiometrías con el objetivo de ofrecer un diagnóstico completo de las capacidades auditivas de nuestros pacientes. Nuestros profesionales en audiología utilizan esta prueba para diseñar estrategias de rehabilitación personalizadas, mejorando la comunicación y la calidad de vida de las personas con pérdida auditiva.</p>
+				<p>En la Red Salva, realizamos logoaudiometrías con el objetivo de ofrecer un diagnóstico completo de las capacidades auditivas de nuestros pacientes. Nuestros profesionales en audiología utilizan esta prueba para diseñar estrategias de rehabilitación personalizadas, mejorando la comunicación y la calidad de vida de las personas con pérdida auditiva.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

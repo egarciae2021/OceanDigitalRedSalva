@@ -28,7 +28,7 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-7">
-			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>l servicio de Oftalmología de la Red salva es un centro privado de referencia nacional e internacional   especializado en el diagnóstico, tratamiento y rehabilitación de pacientes portadores de tumores malignos y benignos del globo ocular y la órbita. También tratamos pacientes que requieran cirugía plástica y/o reconstructiva del área palpebral y orbitaria.</p>
+			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>l servicio de Oftalmología de la Red Salva es un centro privado de referencia nacional e internacional   especializado en el diagnóstico, tratamiento y rehabilitación de pacientes portadores de tumores malignos y benignos del globo ocular y la órbita. También tratamos pacientes que requieran cirugía plástica y/o reconstructiva del área palpebral y orbitaria.</p>
 			<p>Contamos con un grupo de médicos sub-especialistas en oftalmología y Oncología para el manejo multidisciplinario de nuestros pacientes.</p>
 			<p>Nuestro servicio de Oftalmología liderado por el reconocido Dr. Solón Serpa Frías, ofrece sus servicios de atención Oncológica, Orbitaria y de Plástica Ocular, de alta calidad con estándares internacionales.</p>
 			<p>Principales procedimientos:</p>

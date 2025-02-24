@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El cáncer de estómago es una enfermedad que se desarrolla en el revestimiento del estómago y puede presentar síntomas como dolor abdominal, náuseas y pérdida de apetito. La detección temprana y el tratamiento adecuado son fundamentales para mejorar el pronóstico.</p>
-				<p>En la Red salva, proporcionamos un enfoque integral para el diagnóstico y tratamiento del cáncer de estómago. Nuestro equipo multidisciplinario utiliza tecnología avanzada y tratamientos personalizados para ofrecer el mejor cuidado posible, asegurando una atención continua desde el diagnóstico hasta el seguimiento post-tratamiento.</p>
+				<p>En la Red Salva, proporcionamos un enfoque integral para el diagnóstico y tratamiento del cáncer de estómago. Nuestro equipo multidisciplinario utiliza tecnología avanzada y tratamientos personalizados para ofrecer el mejor cuidado posible, asegurando una atención continua desde el diagnóstico hasta el seguimiento post-tratamiento.</p>
 				<?php require_once('links-gastroenterologia.php');?>
 			</div>
 		</div>

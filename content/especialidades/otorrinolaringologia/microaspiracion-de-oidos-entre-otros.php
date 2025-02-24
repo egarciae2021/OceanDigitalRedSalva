@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La microaspiración de oídos es una técnica especializada que utiliza un microscopio y un pequeño dispositivo de succión para eliminar cerumen, secreciones o materiales extraños del conducto auditivo. Este procedimiento es preciso y no invasivo, lo que lo hace ideal para pacientes con infecciones del oído medio o externo, proporcionando una limpieza profunda sin riesgo de dañar el tímpano o el canal auditivo.</p>
-				<p>En la Red salva, ofrecemos microaspiración de oídos realizada por especialistas en otorrinolaringología, utilizando equipos de última tecnología para garantizar la seguridad y efectividad del procedimiento. Nuestro enfoque personalizado asegura una limpieza completa y una mejora notable en la salud auditiva de nuestros pacientes.</p>
+				<p>En la Red Salva, ofrecemos microaspiración de oídos realizada por especialistas en otorrinolaringología, utilizando equipos de última tecnología para garantizar la seguridad y efectividad del procedimiento. Nuestro enfoque personalizado asegura una limpieza completa y una mejora notable en la salud auditiva de nuestros pacientes.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

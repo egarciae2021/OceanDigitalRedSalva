@@ -35,22 +35,22 @@ $menuItems = array(
 		'Tópico Red Salva' => '/servicios/topico',
 		'Laboratorio patológico' => '/servicios/laboratorio-patologico'
 	),
-	'Paquetes' => array(
-		'__enlace__' => '/servicios',
-		'Centro obstétrico' => '/servicios/centro-obstetrico',
-		'Centro quirúrgico' => '/servicios/centro-quirurgico',
-		'Consultas externa' => '/servicios/consultas-externas',
-		'Centro de vacunación' => '/servicios/centro-de-vacunacion',
-		'Emergencia' => '/servicios/emergencia',
-		'Farmacia' => '/servicios/farmacia',
-		'Hospitalización' => '/servicios/hospitalizacion',
-		'Imágenes' => '/servicios/imagenes',
-		'Laboratorio clínico' => '/servicios/laboratorio-clinico',
-		'Laboratorio patológico' => '/servicios/laboratorio-patologico',
-		'UCI neonatal' => '/servicios/uci-neonatal',
-		'Tamizaje neonatal' => '/servicios/tamizaje-neonatal',
-		'Visita guiada' => '/servicios/visita-guiada'
-	),
+	// 'Paquetes' => array(
+	// 	'__enlace__' => '/servicios',
+	// 	'Centro obstétrico' => '/servicios/centro-obstetrico',
+	// 	'Centro quirúrgico' => '/servicios/centro-quirurgico',
+	// 	'Consultas externa' => '/servicios/consultas-externas',
+	// 	'Centro de vacunación' => '/servicios/centro-de-vacunacion',
+	// 	'Emergencia' => '/servicios/emergencia',
+	// 	'Farmacia' => '/servicios/farmacia',
+	// 	'Hospitalización' => '/servicios/hospitalizacion',
+	// 	'Imágenes' => '/servicios/imagenes',
+	// 	'Laboratorio clínico' => '/servicios/laboratorio-clinico',
+	// 	'Laboratorio patológico' => '/servicios/laboratorio-patologico',
+	// 	'UCI neonatal' => '/servicios/uci-neonatal',
+	// 	'Tamizaje neonatal' => '/servicios/tamizaje-neonatal',
+	// 	'Visita guiada' => '/servicios/visita-guiada'
+	// ),
 	'Blog' => '/blog'
 );
 
@@ -604,8 +604,8 @@ $especialidades = json_decode($jsonData, true);
 }' style>
 	<div class="container">
 		<nav class="js-mega-menu navbar-nav-wrap">
-			<a class="navbar-brand" href="/" aria-label="Red salva" style="margin-top:-10px !important">
-				<img class="navbar-brand-logo" src="/images/logo.svg" alt="Red salva">
+			<a class="navbar-brand" href="/" aria-label="Red Salva" style="margin-top:-10px !important">
+				<img class="navbar-brand-logo" src="/images/logo.svg" alt="Red Salva">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
 				aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -624,7 +624,7 @@ $especialidades = json_decode($jsonData, true);
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
 								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-0"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-75"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 75%">';
+								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%">';
 								echo '<div class="row" >';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {

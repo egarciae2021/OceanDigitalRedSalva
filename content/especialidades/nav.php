@@ -64,8 +64,8 @@ $menuItems = array(
 }'>
 	<div class="container">
 		<nav class="js-mega-menu navbar-nav-wrap">
-			<a class="navbar-brand" href="/" aria-label="Red salva">
-				<img class="navbar-brand-logo" src="/images/logo.png" alt="Red salva">
+			<a class="navbar-brand" href="/" aria-label="Red Salva">
+				<img class="navbar-brand-logo" src="/images/logo.png" alt="Red Salva">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
 				aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

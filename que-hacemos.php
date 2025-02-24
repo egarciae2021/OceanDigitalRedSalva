@@ -10,7 +10,7 @@
 								<span class="step-icon fondo-azul color-white">1</span>
 								<div class="step-content">
 									<h4 class="color-azul">Experiencia y profesionalismo</h4>
-									<p class="step-text">Mantenemons altos estándares de calidad y fomentamos la mejora continua e innovación para brindar la mejor atención.</p>
+									<p class="step-text">Mantenemos altos estándares de calidad y fomentamos la mejora continua e innovación para brindar la mejor atención.</p>
 								</div>
 							</div>
 						</li>

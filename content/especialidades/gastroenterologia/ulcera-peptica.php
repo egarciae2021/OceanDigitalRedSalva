@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La úlcera péptica es una llaga en el revestimiento del estómago o el duodeno, a menudo causada por una infección con Helicobacter pylori o el uso prolongado de antiinflamatorios no esteroides. Los síntomas pueden incluir dolor abdominal, náuseas y vómitos.</p>
-				<p>En la Red salva, nuestros gastroenterólogos se especializan en el diagnóstico y tratamiento de úlceras pépticas y la erradicación de Helicobacter pylori. Proporcionamos un enfoque integral que incluye tratamientos médicos efectivos y seguimiento continuo para asegurar la curación completa y la prevención de recurrencias.</p>
+				<p>En la Red Salva, nuestros gastroenterólogos se especializan en el diagnóstico y tratamiento de úlceras pépticas y la erradicación de Helicobacter pylori. Proporcionamos un enfoque integral que incluye tratamientos médicos efectivos y seguimiento continuo para asegurar la curación completa y la prevención de recurrencias.</p>
 				<?php require_once('links-gastroenterologia.php');?>
 			</div>
 		</div>

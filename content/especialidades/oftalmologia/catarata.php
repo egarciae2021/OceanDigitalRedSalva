@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía de cataratas es un procedimiento que se realiza para remover el cristalino opaco del ojo y reemplazarlo con un lente artificial. Este procedimiento mejora significativamente la visión y la calidad de vida de los pacientes afectados por cataratas.</p>
-				<p>En la Red salva, ofrecemos cirugía de cataratas con tecnología avanzada y un enfoque centrado en el paciente. Nuestros oftalmólogos se aseguran de que cada procedimiento se realice con precisión y cuidado, proporcionando una recuperación rápida y resultados óptimos.</p>
+				<p>En la Red Salva, ofrecemos cirugía de cataratas con tecnología avanzada y un enfoque centrado en el paciente. Nuestros oftalmólogos se aseguran de que cada procedimiento se realice con precisión y cuidado, proporcionando una recuperación rápida y resultados óptimos.</p>
 				<?php require_once('links-oftalmologia.php');?>
 			</div>
 		</div>

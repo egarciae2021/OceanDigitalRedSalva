@@ -43,7 +43,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El mini bypass gástrico es una variante menos compleja del bypass gástrico tradicional, que combina elementos de la manga gástrica y el bypass. Este procedimiento implica la creación de una bolsa más pequeña en el estómago y una única conexión al intestino delgado, lo que reduce tanto la capacidad del estómago como la absorción de calorías y nutrientes. Es una opción efectiva para la pérdida de peso y puede ofrecer resultados similares al bypass gástrico con una cirugía menos invasiva.</p>
-				<p>En la Red salva, ofrecemos el mini bypass gástrico como parte de nuestro enfoque integral en el tratamiento de la obesidad. Antes de la cirugía, nuestros especialistas realizan una evaluación exhaustiva para determinar la mejor opción para cada paciente. El seguimiento postoperatorio incluye consultas regulares, apoyo nutricional y psicológico, y monitoreo de la pérdida de peso y la mejora de condiciones relacionadas. Nuestro objetivo es proporcionar una atención personalizada que promueva la salud y el bienestar a largo plazo.</p>
+				<p>En la Red Salva, ofrecemos el mini bypass gástrico como parte de nuestro enfoque integral en el tratamiento de la obesidad. Antes de la cirugía, nuestros especialistas realizan una evaluación exhaustiva para determinar la mejor opción para cada paciente. El seguimiento postoperatorio incluye consultas regulares, apoyo nutricional y psicológico, y monitoreo de la pérdida de peso y la mejora de condiciones relacionadas. Nuestro objetivo es proporcionar una atención personalizada que promueva la salud y el bienestar a largo plazo.</p>
 				<?php require_once('links-cirugia-bariatrica-y-metabolica.php');?>
 			</div>
 		</div>

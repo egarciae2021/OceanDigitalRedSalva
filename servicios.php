@@ -22,34 +22,35 @@
 				<div class="mb-5">
 					<h2 class="text-primary">Conoce nuestras<span class="color-celeste"
 							style="color:#0493A7 !important"> ESPECIALIDADES</span></h2>
-					<p>En <span class="fw-bold color-naranja">Red salva</span> contamos con más de 10
+					<p>En <span class="fw-bold color-naranja">Red Salva</span> contamos con más de 10
 						especialidades.</p>
 				</div>
 				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/ginecologia">Ginecología</a>
-					</div>
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/pediatria">Pediatría</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/neumologia">Neumología</a>
-					</div>
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/cardiologia">Cardiología</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/neurologia">Neurología</a>
-					</div>
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/ginecologia">GINECOLOGÍA</a>
+	</div>
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/pediatria">PEDIATRÍA</a>
+	</div>
+</div>
+<div class="row border-bottom pb-3 mb-3">
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/neumologia">NEUMOLOGÍA</a>
+	</div>
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/cardiologia">CARDIOLOGÍA</a>
+	</div>
+</div>
+<div class="row border-bottom pb-3 mb-3">
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/neurologia">NEUROLOGÍA</a>
+	</div>
 
-					<div class="col-6">
-						<a class="link link-secondary link-pointer" href="/especialidades/oftalmologia">Oftalmología</a>
-					</div>
-				</div>
+	<div class="col-6">
+		<a class="link link-secondary link-pointer" href="/especialidades/oftalmologia">OFTALMOLOGÍA</a>
+	</div>
+</div>
+
 				<div class="mt-5">
 					<a class="btn btn-naranja d-md-block" href="/especialidades"><span>Ver todas las
 							especialidades</span></a>

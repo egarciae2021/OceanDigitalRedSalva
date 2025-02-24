@@ -7,7 +7,7 @@
 			<div class="g-mt-20">
 				<p class="g-font-size-20">Cada vez más mujeres tienen bebés después de los 30 años y muchas toman medicamentos para la fertilidad. Ambos factores incrementan potencialmente las posibilidades de tener más de un bebé. Los antecedentes familiares de gemelos también aumentan las posibilidades.</p>
 				<p class="g-font-size-20">Hace años, la mayoría de los gemelos llegaban por sorpresa. Actualmente, la mayoría de las mujeres se entera anticipadamente del embarazo múltiple. Deben ver al médico con más frecuencia que las mujeres que esperan a un solo niño ya que los embarazos múltiples deben controlarse más cuidadosamente. Los bebés de embarazos múltiples tienen mayor riesgo de nacer prematuramente. Algunas mujeres tienen que guardar reposo en cama para demorar el parto. Finalmente, es posible que necesiten cesárea, especialmente si tienen tres bebés o más.</p>
-				<p class="g-font-size-20">En Red salva somos los primeros en partos gemelares, con mas de 800 nuevas familias que confiaron en nuestro equipo médico de primer nivel e infraestructura de vanguardia.</p>
+				<p class="g-font-size-20">En Red Salva somos los primeros en partos gemelares, con mas de 800 nuevas familias que confiaron en nuestro equipo médico de primer nivel e infraestructura de vanguardia.</p>
 			</div>
 		</div>
 		<div class="col-lg-3">

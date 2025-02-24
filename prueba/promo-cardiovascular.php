@@ -1,8 +1,8 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-9">
-			<img class="img-fluid u-shadow-v2 g-mb-30 g-hidden-sm-down" src="/img/promociones/cardio.jpg" width="100%" alt="Campaña de vacunación | Promociones | Red salva" title="Campaña de vacunación  | Promociones | Red salva">
-			<img class="img-fluid u-shadow-v2 g-mb-30 g-hidden-sm-up" src="/img/promociones/cardio-movil.jpg" width="100%" alt="Campaña de vacunación | Promociones | Red salva" title="Campaña de vacunación  | Promociones | Red salva">
+			<img class="img-fluid u-shadow-v2 g-mb-30 g-hidden-sm-down" src="/img/promociones/cardio.jpg" width="100%" alt="Campaña de vacunación | Promociones | Red Salva" title="Campaña de vacunación  | Promociones | Red Salva">
+			<img class="img-fluid u-shadow-v2 g-mb-30 g-hidden-sm-up" src="/img/promociones/cardio-movil.jpg" width="100%" alt="Campaña de vacunación | Promociones | Red Salva" title="Campaña de vacunación  | Promociones | Red Salva">
 			<h1 class="g-color-topbar-montesur">Varices: ¿Cómo detectarlos a tiempo?</h1>
 			<p>Las varices son dilataciones venosas que se caracterizan por impedir que la sangre retorne de forma eficaz al corazón (insuficiencia venosa). Se producen por una alteración de las válvulas venosas, que al no cerrarse como es debido, hacen que la sangre se acumule en las venas, haciendo que se dilaten; causando dolor, pesadez, hinchazón, ardor en piernas y pies, entre otros; por lo que deben ser detectadas tempranamente a través de la ecografía Doppler, para prevenir complicaciones y evitar su progresión.</p>
 

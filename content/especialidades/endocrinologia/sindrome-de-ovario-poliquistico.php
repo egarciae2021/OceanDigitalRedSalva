@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El síndrome de ovario poliquístico (SOP) es un trastorno hormonal común que afecta a las mujeres en edad reproductiva, causando síntomas como periodos menstruales irregulares, crecimiento excesivo de vello y problemas de fertilidad. Este síndrome también está asociado con un mayor riesgo de diabetes y enfermedades cardíacas.</p>
-				<p>En la Red salva, nuestros endocrinólogos se especializan en el diagnóstico y tratamiento del SOP. Ofrecemos un enfoque multidisciplinario que incluye manejo hormonal, cambios en el estilo de vida y apoyo nutricional para ayudar a las mujeres a controlar los síntomas y mejorar su salud general.</p>
+				<p>En la Red Salva, nuestros endocrinólogos se especializan en el diagnóstico y tratamiento del SOP. Ofrecemos un enfoque multidisciplinario que incluye manejo hormonal, cambios en el estilo de vida y apoyo nutricional para ayudar a las mujeres a controlar los síntomas y mejorar su salud general.</p>
 				<?php require_once('links-endocrinologia.php');?>
 			</div>
 		</div>

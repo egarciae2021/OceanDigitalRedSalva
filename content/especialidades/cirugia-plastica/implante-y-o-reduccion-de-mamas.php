@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía de implante de mamas está destinada a aumentar el tamaño del busto mediante la colocación de implantes, mientras que la reducción de mamas busca disminuir el tamaño y el peso de los senos, aliviando problemas de salud como el dolor de espalda y mejorando la proporción corporal.</p>
-				<p>En la Red salva, nuestros cirujanos plásticos altamente calificados realizan estos procedimientos con precisión y cuidado, adaptando cada cirugía a las necesidades específicas de nuestras pacientes. Nos enfocamos en lograr resultados estéticos armoniosos y una recuperación rápida, proporcionando un seguimiento postoperatorio cercano y personalizado.</p>
+				<p>En la Red Salva, nuestros cirujanos plásticos altamente calificados realizan estos procedimientos con precisión y cuidado, adaptando cada cirugía a las necesidades específicas de nuestras pacientes. Nos enfocamos en lograr resultados estéticos armoniosos y una recuperación rápida, proporcionando un seguimiento postoperatorio cercano y personalizado.</p>
 				<?php require_once('links-cirugia-plastica.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La laparoscopia ginecológica es una técnica mínimamente invasiva utilizada para diagnosticar y tratar una variedad de condiciones ginecológicas, como endometriosis, quistes ováricos y embarazo ectópico. Este procedimiento implica pequeñas incisiones y el uso de una cámara laparoscópica para guiar la cirugía.</p>
-				<p>En la Red salva, nuestros ginecólogos especializados en laparoscopia utilizan técnicas avanzadas para asegurar una intervención precisa y una recuperación rápida. Proporcionamos un seguimiento integral para garantizar que nuestras pacientes reciban el mejor cuidado posible y se recuperen plenamente.</p>
+				<p>En la Red Salva, nuestros ginecólogos especializados en laparoscopia utilizan técnicas avanzadas para asegurar una intervención precisa y una recuperación rápida. Proporcionamos un seguimiento integral para garantizar que nuestras pacientes reciban el mejor cuidado posible y se recuperen plenamente.</p>
 				<?php require_once('links-ginecologia.php');?>
 			</div>
 		</div>

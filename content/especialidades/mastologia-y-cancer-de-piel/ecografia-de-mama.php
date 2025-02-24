@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La ecografía de mama es un procedimiento de imagen no invasivo que utiliza ondas sonoras para crear imágenes de los tejidos mamarios. Esta técnica se utiliza para evaluar anomalías detectadas en mamografías y para examinar a mujeres jóvenes con tejido mamario denso.</p>
-				<p>En la Red salva, nuestros especialistas en mastología realizan ecografías de mama con tecnología avanzada para proporcionar diagnósticos precisos. Nos aseguramos de que cada paciente reciba una evaluación detallada y un seguimiento integral, garantizando una atención óptima y personalizada.</p>
+				<p>En la Red Salva, nuestros especialistas en mastología realizan ecografías de mama con tecnología avanzada para proporcionar diagnósticos precisos. Nos aseguramos de que cada paciente reciba una evaluación detallada y un seguimiento integral, garantizando una atención óptima y personalizada.</p>
 				<?php require_once('links-mastologia-y-cancer-de-piel.php');?>
 			</div>
 		</div>

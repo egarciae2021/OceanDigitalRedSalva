@@ -29,7 +29,7 @@
 	<div class="row">
 		<div class="col-lg-7">
 			<p class=" g-font-size-18"><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">N</span>uestro equipo de profesionales médicos y de enfermería actualizan sus conocimientos constantemente de acuerdo a los estándares aceptados internacionalmente. De esta manera, te brindamos una labor asistencial confiable e integral.</p>
-			<p class=" g-font-size-18">En<strong> Red salva</strong>, estudiamos cada caso en particular, haciendo un seguimiento de la paciente y procurando ofrecer soluciones rápidas y eficaces para su tranquilidad.</p>
+			<p class=" g-font-size-18">En<strong> Red Salva</strong>, estudiamos cada caso en particular, haciendo un seguimiento de la paciente y procurando ofrecer soluciones rápidas y eficaces para su tranquilidad.</p>
 			<p class=" g-font-size-18">Realizamos revisiones ginecológicas periódicas y preventivas, además de diversos procedimientos como colposcopia, ecografía, histeroscopia y laparoscopia.</p>
 			<p class=" g-font-size-18">Además, ofrecemos atención y control del embarazo mes a mes, reduciendo de esta manera el riesgo de posibles complicaciones que perjudiquen su desarrollo.</p>
 			<p class=" g-font-size-18">No hay una edad concreta para la primera visita al ginecólogo, pero se recomienda en adolescentes en edad temprana o con algún problema ginecológico. </p>

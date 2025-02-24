@@ -32,7 +32,7 @@
 <section class="container g-pt-50 g-pb-40">
 	<div class="row">
 		<div class="col-lg-7">
-			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>n<strong> Red salva </strong>contamos con el mamógrafo más moderno que existe actualmente en el mundo. Esta tecnología nos permite detectar hasta un 48% más de cánceres de mama, menores de 1 cm, lo que conlleva a tratamientos menos agresivos y la curación del casi el 100%. Esta moderna tecnología, nos permite realizar los siguientes procedimientos no invasivos:</p>
+			<p><span class="u-dropcap g-color-topbar-montesur g-mr-20 g-mb-10">E</span>n<strong> Red Salva </strong>contamos con el mamógrafo más moderno que existe actualmente en el mundo. Esta tecnología nos permite detectar hasta un 48% más de cánceres de mama, menores de 1 cm, lo que conlleva a tratamientos menos agresivos y la curación del casi el 100%. Esta moderna tecnología, nos permite realizar los siguientes procedimientos no invasivos:</p>
 			<div class="u-heading-v3-1 g-mb-30">
 				<h2 class="h6 u-heading-v3__title g-font-size-20 g-font-primary g-color-topbar-montesur g-brd-primary">Mamografía Digital Directa 3D - <strong>Mamografía Sintetizada</strong></h2>
 			</div>

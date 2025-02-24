@@ -41,7 +41,7 @@ background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%)
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>Las vacunas que ofrecemos en Red salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de las recomendadas por su pediatra.</p>
+				<p>Las vacunas que ofrecemos en Red Salva son las que indican el Ministerio de Salud y la Organización Mundial de la Salud, además de las recomendadas por su pediatra.</p>
 				<?php require_once('links-pediatria-vacunas.php');?>
 			</div>
 		</div>

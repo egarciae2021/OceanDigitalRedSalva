@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La cirugía de glaucoma se realiza para reducir la presión intraocular y prevenir el daño al nervio óptico. Este procedimiento es esencial para manejar el glaucoma y evitar la pérdida de visión.</p>
-				<p>En la Red salva, ofrecemos cirugía de glaucoma con tecnología avanzada y un enfoque integral. Nuestros oftalmólogos utilizan técnicas innovadoras para asegurar una intervención efectiva y un seguimiento continuo para apoyar la salud ocular de nuestros pacientes.</p>
+				<p>En la Red Salva, ofrecemos cirugía de glaucoma con tecnología avanzada y un enfoque integral. Nuestros oftalmólogos utilizan técnicas innovadoras para asegurar una intervención efectiva y un seguimiento continuo para apoyar la salud ocular de nuestros pacientes.</p>
 				<?php require_once('links-oftalmologia.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El asma bronquial es una enfermedad crónica que inflama y estrecha las vías respiratorias, causando dificultad para respirar, tos y sibilancias. El manejo del asma incluye evitar los desencadenantes, el uso de inhaladores y medicamentos para controlar los síntomas.</p>
-				<p>En la Red salva, nuestros neumólogos proporcionan un enfoque integral para el manejo del asma. Ofrecemos diagnósticos precisos y tratamientos personalizados, incluyendo educación sobre el autocuidado y planes de acción para ataques de asma, asegurando que nuestros pacientes mantengan una buena calidad de vida.</p>
+				<p>En la Red Salva, nuestros neumólogos proporcionan un enfoque integral para el manejo del asma. Ofrecemos diagnósticos precisos y tratamientos personalizados, incluyendo educación sobre el autocuidado y planes de acción para ataques de asma, asegurando que nuestros pacientes mantengan una buena calidad de vida.</p>
 				<?php require_once('links-neumologia.php');?>
 			</div>
 		</div>

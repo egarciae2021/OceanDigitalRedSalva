@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>La audiometría es una prueba que mide la capacidad auditiva de una persona, evaluando su capacidad para escuchar sonidos de diferentes frecuencias y volúmenes. Realizada en una cabina insonorizada, esta prueba ayuda a diagnosticar distintos grados de pérdida auditiva, proporcionando información vital para el tratamiento adecuado, como el uso de audífonos o la necesidad de terapia auditiva.</p>
-				<p>En la Red salva, ofrecemos servicios de audiometría con equipos de última generación y profesionales altamente capacitados. Nos esforzamos por proporcionar diagnósticos precisos y tratamientos personalizados que ayuden a nuestros pacientes a mejorar su audición y su calidad de vida.</p>
+				<p>En la Red Salva, ofrecemos servicios de audiometría con equipos de última generación y profesionales altamente capacitados. Nos esforzamos por proporcionar diagnósticos precisos y tratamientos personalizados que ayuden a nuestros pacientes a mejorar su audición y su calidad de vida.</p>
 				<?php require_once('links-otorrinolaringologia.php');?>
 			</div>
 		</div>

@@ -41,7 +41,7 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 				<p>El cáncer de mama es una enfermedad en la que las células del tejido mamario crecen de manera descontrolada. La detección temprana es crucial para mejorar las tasas de supervivencia y reducir la necesidad de tratamientos agresivos.</p>
-				<p>En la Red salva, ofrecemos una amplia gama de servicios para la detección y el tratamiento del cáncer de mama. Utilizamos mamografías digitales 3D, ecografías y biopsias para el diagnóstico, y trabajamos en estrecha colaboración con nuestros pacientes para desarrollar planes de tratamiento personalizados. Fomentamos el autoexamen de mamas y educamos sobre los factores de riesgo y síntomas para una detección temprana y efectiva.</p>
+				<p>En la Red Salva, ofrecemos una amplia gama de servicios para la detección y el tratamiento del cáncer de mama. Utilizamos mamografías digitales 3D, ecografías y biopsias para el diagnóstico, y trabajamos en estrecha colaboración con nuestros pacientes para desarrollar planes de tratamiento personalizados. Fomentamos el autoexamen de mamas y educamos sobre los factores de riesgo y síntomas para una detección temprana y efectiva.</p>
 				<?php require_once('links-mastologia-y-cancer-de-piel.php');?>
 			</div>
 		</div>

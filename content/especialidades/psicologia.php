@@ -28,7 +28,7 @@
 					style="position: relative; left: 50%; transform: translateX(-25%);">
 					<img class="img-fluid rounded-3"
 						style="max-width: 150%; height: auto;max-height: 45vh !important;object-fit: fill;"
-						src="/images/Especialidades/Medicina Interna.png">
+						src="/images/Especialidades/Psicología.png">
 				</div>
 			</div>
 
@@ -58,13 +58,15 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>La Medicina Interna es la especialidad médica que se enfoca en el diagnóstico, tratamiento y
-					prevención de enfermedades en adultos, particularmente aquellas que afectan a los órganos internos.
+				<p>En Red Salva, la especialidad de Psicología está orientada a cuidar tu bienestar emocional y mental
+					en cada etapa de tu vida. Contamos con profesionales capacitados para ayudarte a manejar el estrés,
+					la ansiedad, la depresión, dificultades en las relaciones interpersonales y otros desafíos
+					emocionales que pueden afectar tu calidad de vida.
 				</p>
-				<p>Los internistas manejan condiciones complejas y crónicas que involucran varios sistemas del cuerpo,
-					como enfermedades cardiovasculares, respiratorias y metabólicas.</p>
-				<p>Su enfoque es integral, tratando al paciente en su totalidad y trabajando en la prevención, control
-					de enfermedades crónicas y coordinación con otros especialistas cuando es necesario.</p>
+				<p>A través de un enfoque personalizado y terapias basadas en evidencia, te brindamos herramientas para
+					fortalecer tu salud mental, mejorar tu autoestima y desarrollar estrategias para afrontar
+					situaciones difíciles. Nuestro compromiso es acompañarte en tu proceso de crecimiento y equilibrio
+					emocional en un espacio seguro y confidencial. </p>
 			</div>
 		</div>
 	</div>

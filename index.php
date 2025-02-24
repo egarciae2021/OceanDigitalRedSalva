@@ -781,13 +781,13 @@ $pageSpecificMetadata = [
 
 
 
-    '/especialidades/otorrinolaringologia' => [
-        'imagen' => 'https://clinicamontesur.com.pe/images/otorrinolaringologia.webp',
-        'title' => 'Otorrinolaringología | Red salva',
-        'h1' => 'Otorrinolaringología',
-        'keywords' => $commonMetadata['keywords'],
-        'description' => 'DESCRIBIR'
-    ],
+    // '/especialidades/otorrinolaringologia' => [
+    //     'imagen' => 'https://clinicamontesur.com.pe/images/otorrinolaringologia.webp',
+    //     'title' => 'Otorrinolaringología | Red salva',
+    //     'h1' => 'Otorrinolaringología',
+    //     'keywords' => $commonMetadata['keywords'],
+    //     'description' => 'DESCRIBIR'
+    // ],
     '/especialidades/otorrinolaringologia/naso-laringologia-flexible' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/naso-laringologia-flexible.webp',
         'title' => 'Naso laringoscopia flexible | Red salva',
@@ -871,7 +871,20 @@ $pageSpecificMetadata = [
         'description' => 'DESCRIBIR'
     ],
 
-
+    '/especialidades/oncologia' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/pediatria-vacunas.webp',
+        'title' => 'Oncologìa | Red salva',
+        'h1' => 'Oncologìa',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    '/especialidades/psicologia' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/pediatria-vacunas.webp',
+        'title' => 'Psicología | Red salva',
+        'h1' => 'Psicología',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
 
 
     '/especialidades/pediatria-vacunas' => [
@@ -964,11 +977,7 @@ $pageSpecificMetadata = [
         'h1' => 'Virus del papiloma humano',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
-    ],
-
-
-
-
+    ], 
     '/especialidades/traumatologia' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/traumatologia.webp',
         'title' => 'Traumatología | Red salva',
@@ -986,7 +995,7 @@ $pageSpecificMetadata = [
     ],
 
 
-    '/especialidades/inmunizaciones-pediatricas' => [
+    '/especialidades/Inmunizaciones-pediatricas' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/traumatologia.webp',
         'title' => 'Inmunizaciones pediatricas | Red salva',
         'h1' => 'Inmunizaciones pediatricas',
@@ -1130,7 +1139,13 @@ $pageSpecificMetadata = [
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],
-
+    '/especialidades/otorrinolaringologia' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Otorrinolaringología | Red salva',
+        'h1' => 'Otorrinolaringología',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
 
     // Agrega las páginas específicas restantes aquí
 ];

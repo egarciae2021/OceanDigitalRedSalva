@@ -1,5 +1,3 @@
- 
-
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
 		<div class="row">
@@ -111,7 +109,51 @@
 					enfermedades graves y asegurando un desarrollo saludable. Si tiene alguna pregunta o desea más
 					información sobre el calendario de vacunación de su hijo, no dude en contactarnos. ¡Estamos aquí
 					para ayudarle a cuidar su salud y la de su familia!</p>
- 
+
+
+
+				<table class="table table-bordered text-center">
+					<thead class="table-primary">
+						<tr>
+							<th
+								style="background: linear-gradient(90deg,  rgba(41,83,160,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;color:white !important">
+								Edad</th>
+							<th
+								style="background: linear-gradient(90deg,  rgba(41,83,160,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;color:white !important">
+								Vacuna</th>
+						</tr>
+					</thead>
+					<tbody>
+						<?php
+						$vacunas = [
+							["Recién Nacido", "BCG y Hepatitis B"],
+							["2 Meses", "Hexavalente (Polio, DPTA, Haemophilus Influenza B, Hepatitis B) y Rotavirus"],
+							["3 Meses", "Neumococo"],
+							["4 Meses", "Hexavalente (Polio, DPTA, Haemophilus Influenza B, Hepatitis B) y Rotavirus"],
+							["5 Meses", "Neumococo"],
+							["6 Meses", "Hexavalente (Polio, DPTA, Haemophilus Influenza B, Hepatitis B) y Rotavirus"],
+							["7 Meses", "Neumococo / Influenza"],
+							["8 Meses", "Influenza"],
+							["9 Meses", "Meningococo"],
+							["12 Meses", "Tetravalente (Sarampión, Rubeola, Paperas, Varicela)"],
+							["13 Meses", "Hepatitis A"],
+							["15 Meses", "Meningococo (Refuerzo)"],
+							["18 Meses", "Hexavalente (Refuerzo)"],
+							["19 Meses", "Hepatitis A (Refuerzo)"],
+							["21 Meses", "Neumococo (Refuerzo)"],
+							["4-6 Años", "DPTA (Refuerzo) / IPV / Tetravalente (Refuerzo) - (Sarampión, Rubeola, Paperas, Varicela)"],
+							["Anual", "Influenza"],
+							["9 Años", "VPH - Virus de Papiloma Humano"],
+							["9 Años 6 Meses", "VPH - Virus de Papiloma Humano (Refuerzo)"],
+						];
+
+						foreach ($vacunas as $vacuna) {
+							echo "<tr><td>{$vacuna[0]}</td><td>{$vacuna[1]}</td></tr>";
+						}
+						?>
+					</tbody>
+				</table>
+
 			</div>
 		</div>
 	</div>

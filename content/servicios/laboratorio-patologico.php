@@ -73,10 +73,7 @@
 						a una detección temprana y tratamiento adecuado.</li>
 					<li><strong>Estudios de sangre y fluidos corporales:</strong> Llevamos a cabo pruebas para evaluar
 						tu salud general, identificar infecciones, desórdenes hematológicos y otros trastornos
-						metabólicos.</li>
-					<li><strong>Autopsias:</strong> En casos donde sea necesario, realizamos autopsias con el objetivo
-						de determinar la causa de muerte de manera precisa, proporcionando claridad y apoyo a las
-						familias.</li>
+						metabólicos.</li> 
 					<li><strong>Pruebas moleculares y genéticas:</strong> Ofrecemos análisis avanzados que permiten
 						detectar alteraciones genéticas y predisposiciones a enfermedades, brindando información crucial
 						para planes de tratamiento más personalizados.</li>

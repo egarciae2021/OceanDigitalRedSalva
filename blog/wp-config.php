@@ -18,24 +18,25 @@
  * @package WordPress
  */
 
+
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'redsalva' );
+define( 'DB_NAME', 'wordpress');
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'doadmin');
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'AVNS_A-9K9pbCqiCxPb0273r');
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'db-mysql-nyc3-92708-do-user-18902954-0.k.db.ondigitalocean.com:25060');
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8mb4' );
+define( 'DB_CHARSET', 'utf8');
 
 /** The database collate type. Don't change this if in doubt. */
-define( 'DB_COLLATE', '' );
+define( 'DB_COLLATE', '');
 
 /**#@+
  * Authentication unique keys and salts.

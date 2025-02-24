@@ -156,3 +156,20 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 		}
 	}
 endif;
+
+function shortcode_posthome() {
+    ob_start();
+    echo do_shortcode('[fusion_blog number_posts="3" columns="3" title="yes"]');
+    return ob_get_clean();
+}
+add_shortcode('posthome', 'shortcode_posthome');
+
+function shortcode_posthome2() {
+    return '<p>Este es el contenido del shortcode [posthome2]</p>';
+}
+add_shortcode('posthome2', 'shortcode_posthome2');
+
+function shortcode_postfooter() {
+    return '<p>Este es el contenido del shortcode [postfooter]</p>';
+}
+add_shortcode('postfooter', 'shortcode_postfooter');

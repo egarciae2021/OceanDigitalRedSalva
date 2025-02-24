@@ -17,7 +17,7 @@ define( 'CUSTOM_NAV_PATH', '/homepages/5/d644353367/htdocs/Clientes2024/Montesur
 define( 'CUSTOM_FOOTER_PATH', '/homepages/5/d644353367/htdocs/Clientes2024/Montesur/footer.php' );
 
 // URL base para cargar estilos
-define( 'CUSTOM_BASE_URL', 'https://clinicamontesur.com.pe' );
+define( 'CUSTOM_BASE_URL', 'https://montesur.newways.pe' );
 
 /**
  * Inserta los estilos del archivo estilos.php en el <head>.

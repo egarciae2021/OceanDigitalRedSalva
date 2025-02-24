@@ -839,7 +839,7 @@ class FusionBuilder {
 
 			if ( version_compare( $fusion_core_version, '3.0', '<' ) ) {
 				$message  = '<style>#error-page > p{display:-webkit-flex;display:flex;}#error-page img {height: 120px;margin-right:25px;}.fb-heading{font-size: 1.17em; font-weight: bold; display: block; margin-bottom: 15px;}.fb-link{display: inline-block;margin-top:15px;}.fb-link:focus{outline:none;box-shadow:none;}</style>';
-				$message .= '<img src="' . esc_url_raw( plugins_url( 'images/icons/fb_logo.png', __FILE__ ) ) . '" />';
+				$message .= '<img src="' . esc_url_raw( plugins_url( 'images/icons/fb_logo.svg', __FILE__ ) ) . '" />';
 				$message .= '<span><span class="fb-heading">Avada Builder could not be activated</span>';
 				$message .= '<span>Avada Builder can only be activated on installs that use Avada Core 3.0 or higher. Click the link below to install/activate Avada Core 3.0, then you can activate Avada Builder.</span>';
 				$message .= '<a class="fb-link" href="' . esc_url_raw( admin_url( 'admin.php?page=avada-plugins' ) ) . '">' . esc_attr__( 'Go to the Avada plugin installation page', 'fusion-builder' ) . '</a></span>';

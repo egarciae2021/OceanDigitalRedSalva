@@ -2985,5 +2985,4 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /homepages/5/d644353367/htdocs/Clientes2024/Montesur/index.php on line 1107
-[24-Jan-2025 02:09:38 UTC] Automatic updates starting...
-[24-Jan-2025 02:09:39 UTC] Automatic updates complete.
+[24-Feb-2025 16:40:42 UTC] PHP Warning:  wp_update_themes(): Ha ocurrido un error inesperado. Puede que algo vaya mal con WordPress.org o la configuración de este servidor. Si sigues teniendo problemas, por favor, prueba en los <a href="https://es.wordpress.org/support/">foros de soporte</a>. (WordPress no ha podido establecer una conexión segura con WordPress.org. Por favor, contacta con el administrador de tu servidor). in C:\xampp\htdocs\blog\wp-includes\functions.php on line 6114

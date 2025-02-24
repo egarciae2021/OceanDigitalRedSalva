@@ -103,10 +103,12 @@
 	<div class="carousel-slide active" style="background-image: url('/images/banner1.png');"></div>
 	<div class="carousel-slide" style="background-image: url('/images/banner2.png');"></div>
 	<div class="carousel-slide" style="background-image: url('/images/banner3.png');"></div>
+	<div class="carousel-slide" style="background-image: url('/images/banner4.png');"></div>
 	<div class="carousel-navigation">
 		<button class="active" data-slide="0"></button>
 		<button data-slide="1"></button>
 		<button data-slide="2"></button>
+		<button data-slide="3"></button> 
 	</div>
 </div>
 

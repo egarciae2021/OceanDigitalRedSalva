@@ -12,9 +12,9 @@
 			<a href="https://www.instagram.com/redsalvaperu/" class="btn btn-lg g-ig-button  ">
 				<i class="fa fa-instagram "></i>
 			</a>
-			<a href="https://api.whatsapp.com/send?phone=51921883459" class="btn btn-lg g-wsp-button   ">
+			<!-- <a href="https://api.whatsapp.com/send?phone=51921883459" class="btn btn-lg g-wsp-button   ">
 				<i class="fa fa-whatsapp"></i>
-			</a>
+			</a> -->
 		</div>
 	</div>
 </section>

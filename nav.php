@@ -78,7 +78,7 @@ $menuItems = array(
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
 								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-2"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 140%;">';
+								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%;">';
 								echo '<div class="row">';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {
@@ -116,4 +116,26 @@ $menuItems = array(
 		</nav>
 	</div>
 </header>
+<style>
+	.hs-mega-menu {
+		position: absolute;
+		right: 0;
+		/* Esto alineará el div flotante a la derecha */
+		top: 100%;
+		/* Asegúrate de que esté justo debajo del elemento que activa el dropdown */
+		min-width: 140%;
+		/* Puedes ajustar esto según el tamaño que quieras */
+		display: none;
+		/* Inicialmente, el menú está oculto */
+		z-index: 1000;
+		/* Asegúrate de que esté por encima de otros elementos */
+		transition: opacity 0.3s ease-in-out;
+	}
+
+	.hs-has-mega-menu:hover .hs-mega-menu {
+		display: block;
+		/* Muestra el menú cuando el usuario pasa el mouse o hace clic */
+	}
+</style>
+
 <main id="content" role="main">

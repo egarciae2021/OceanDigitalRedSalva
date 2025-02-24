@@ -43,7 +43,7 @@
 						<a class="link color-azul color-naranja-hover" href="/">
 							<i class="fa fa-arrow-left small me-1"></i> Inicio
 						</a>
-						<a class="link color-azul color-naranja-hover ms-3" href="/servicios">
+						<a class="link color-azul color-naranja-hover ms-3" href="/servicios_detalle">
 							<i class="fa fa-arrow-left small me-1"></i> Servicios
 						</a>
 					</div>

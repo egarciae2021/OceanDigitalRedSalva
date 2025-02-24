@@ -20,7 +20,7 @@
 	<script>
 	  document.addEventListener("DOMContentLoaded", function() {
       setTimeout(() => {
-        document.body.style.zoom = "66%";
+        document.body.style.zoom = "63%";
       }, 500);
     }); 
 	</script>

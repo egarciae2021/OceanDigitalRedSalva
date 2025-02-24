@@ -1134,8 +1134,8 @@ $pageSpecificMetadata = [
     ],
     '/especialidades/medicina-fisica-rehabilitacion' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
-        'title' => 'Medicina Fiscia | Red salva',
-        'h1' => 'Medicina Fisica',
+        'title' => 'Medicina Fìsica | Red salva',
+        'h1' => 'Medicina Fìsica',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],

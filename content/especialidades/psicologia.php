@@ -67,6 +67,79 @@
 					fortalecer tu salud mental, mejorar tu autoestima y desarrollar estrategias para afrontar
 					situaciones difíciles. Nuestro compromiso es acompañarte en tu proceso de crecimiento y equilibrio
 					emocional en un espacio seguro y confidencial. </p>
+
+
+
+				<div class="container py-4">
+					<?php
+					// Variable para saber si encontramos la especialidad con paquetes
+					$especialidadConPaquetes = false;
+
+					foreach ($especialidades as $item):
+						// Verifica si la especialidad coincide y tiene paquetes
+						if (strtoupper($item['especialidad']) === strtoupper($h1) && !empty($item['paquetes'])):
+							$especialidadConPaquetes = true;
+							?>
+
+							<div class="mb-4">
+								<!-- Título general (puedes ajustarlo o quitarlo) -->
+								<h4 class="text-primary mb-3">Paquetes disponibles</h4>
+
+								<div class="row">
+									<?php foreach ($item['paquetes'] as $paquete): ?>
+										<div class="col-md-4 mb-3">
+											<!-- Tarjeta con esquinas redondeadas -->
+											<div class="card h-100"
+												style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
+
+												<!-- Encabezado de la tarjeta con el gradiente -->
+												<div style="
+				  background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; 
+				  max-height: 65vh !important; 
+				  position: relative; 
+				  padding: 10px; 
+				  text-align: center;">
+													<h5 class="mb-0" style="color: #fff;">
+														<?php echo $paquete['nombre']; ?>
+													</h5>
+												</div>
+
+												<!-- Contenido principal -->
+												<div class="p-3">
+													<!-- Lista de servicios (con viñetas) -->
+													<ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 1rem;">
+														<?php foreach ($paquete['servicios'] as $servicio): ?>
+															<li><?php echo $servicio; ?></li>
+														<?php endforeach; ?>
+													</ul>
+
+													<!-- Precio en grande, centrado, color principal -->
+													<h5 class="text-center" style="color: #00b59c; font-weight: 600;">
+														S/ <?php echo number_format($paquete['precio'], 2); ?>
+													</h5>
+
+													<!-- Botón Reservar con degradado -->
+													<div class="text-center mt-3">
+														<a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
+															class="btn"
+															style="background: linear-gradient(to right, #00b59c, #009fff); color: #fff; border: none; border-radius: 20px; padding: 8px 20px;">
+															Reservar
+														</a>
+
+													</div>
+												</div> <!-- fin .p-3 -->
+											</div> <!-- fin .card -->
+										</div> <!-- fin .col-md-4 -->
+									<?php endforeach; ?>
+								</div> <!-- fin .row -->
+							</div> <!-- fin .mb-4 -->
+
+							<?php
+						endif;
+					endforeach;
+					?>
+
+				</div>
 			</div>
 		</div>
 	</div>

@@ -15,7 +15,7 @@ $menuItems = array(
 		'Neurología' => '/especialidades/neurologia',
 		'Oftalmología' => '/especialidades/oftalmologia',
 		'Oncologìa' => '/especialidades/oncologia',
-		'Otorrinolaringología'=> '/especialidades/otorrinolaringologia',
+		'Otorrinolaringología' => '/especialidades/otorrinolaringologia',
 		'Pediatría' => '/especialidades/pediatria',
 		'Psicología' => '/especialidades/psicologia',
 		'Reumatología' => '/especialidades/reumatologia',
@@ -53,6 +53,547 @@ $menuItems = array(
 	),
 	'Blog' => '/blog'
 );
+
+
+$jsonData = '[
+  {
+    "especialidad": "Otorrinolaringología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 70,
+        "servicios": [
+          "CONSULTA",
+          "LAVADO DE OIDO"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 120,
+        "servicios": [
+          "CONSULTA",
+          "AUDIOMETRÍA"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 121,
+        "servicios": [
+          "CONSULTA",
+          "TIMPANOMETRÍA"
+        ]
+      },
+      {
+        "nombre": "Paquete 4",
+        "precio": 120,
+        "servicios": [
+          "CONSULTA",
+          "LARINGOSCOPÍA"
+        ]
+      },
+      {
+        "nombre": "Paquete 5",
+        "precio": 150,
+        "servicios": [
+          "CONSULTA",
+          "LEVANTAMIENTO DE OBSERVACIONES"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Traumatología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 70,
+        "servicios": [
+          "CONSULTA",
+          "RAYOS X"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Neurología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 220,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROENCEFALOGRAMA CONVENCIONAL"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 260,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROENCEFALOGRAMA PROLONGADO"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 300,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROENCEFALOGRAMA DE 1 HORA"
+        ]
+      },
+      {
+        "nombre": "Paquete 4",
+        "precio": 200,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROENCEFALOGRAMA DE 2 MIEMBROS"
+        ]
+      },
+      {
+        "nombre": "Paquete 5",
+        "precio": 300,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROENCEFALOGRAMA DE 4 MIEMBROS"
+        ]
+      },
+      {
+        "nombre": "Paquete 6",
+        "precio": 100,
+        "servicios": [
+          "2 CONSULTAS"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Ginecologia",
+    "paquetes": [
+      {
+        "nombre": "Paquete Integral",
+        "precio": 180,
+        "servicios": [
+          "CONSULTA GINECOLÓGICA",
+          "ECOGRAFÍA TRANSVAGINAL",
+          "ECOGRAFÍA DE MAMA",
+          "PAPANICOLAOU",
+          "COLPOSCOPIA",
+          "CONSULTA DE RE EVALUACIÓN"
+        ]
+      },
+      {
+        "nombre": "Paquete Básico",
+        "precio": 120,
+        "servicios": [
+          "CONSULTA GINECOLÓGICA",
+          "ECOGRAFÍA DE MAMA",
+          "PAPANICOLAOU",
+          "COLPOSCOPIA O ECOGRAFÍA TRANSVAGINAL",
+          "CONSULTA DE RE EVALUACIÓN"
+        ]
+      },
+      {
+        "nombre": "Paquete Preventivo",
+        "precio": 90,
+        "servicios": [
+          "CONSULTA GINECOLÓGICA",
+          "PAPANICOLAOU",
+          "ECOGRAFÍA TRANSVAGINAL"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Medicina General",
+    "paquetes": [
+      {
+        "nombre": "Paquete Adulto Varón",
+        "precio": 80,
+        "servicios": [
+          "HEMOGRAMA",
+          "EXAMEN DE ORINA",
+          "GLUCOSA",
+          "TGO (transaminasa glutámico-oxalacética)",
+          "PSA",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete Preventivo",
+        "precio": 100,
+        "servicios": [
+          "HEMOGRAMA",
+          "EXAMEN DE ORINA",
+          "GLUCOSA",
+          "TGO (transaminasa glutámico-oxalacética)",
+          "RAYOS X DE TORAX",
+          "CONSULTA"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Urología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1 Adulto Varón 40 años",
+        "precio": 75,
+        "servicios": [
+          "CONSULTA",
+          "EXAMEN DE ORINA",
+          "CREATININA + PSA"
+        ]
+      },
+      {
+        "nombre": "Paquete 2 Adulto Varón 40 años",
+        "precio": 75,
+        "servicios": [
+          "CONSULTA",
+          "TESTOSTERONA TOTAL",
+          "PSA LIBRE",
+          "PSA TOTAL"
+        ]
+      },
+      {
+        "nombre": "Paquete Integral Adulto",
+        "precio": 115,
+        "servicios": [
+          "CONSULTA",
+          "PSA TOTAL",
+          "ECOGRAFIA URINARIA"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Oftalmología",
+    "paquetes": [
+      {
+        "nombre": "Paquete Preventivo",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "MEDIDA DE VISTA",
+          "FONDO DE OJO",
+          "TONOMETRIA",
+          "DESCARTE DE ENFERMEDADES"
+        ]
+      },
+      {
+        "nombre": "Paquete Oftalmológico",
+        "precio": 70,
+        "servicios": [
+          "CONSULTA",
+          "MEDIDA DE VISTA",
+          "FONDO DE OJO"
+        ]
+      },
+      {
+        "nombre": "Paquete Escolar",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "MEDIDA DE VISTA",
+          "REFRACCION CICLOPEJICA",
+          "FONDO DE OJO",
+          "DESCARTE DE ENFERMEDADES"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Pediatría",
+    "paquetes": [
+      {
+        "nombre": "Paquete  Niño Sano",
+        "precio": 90,
+        "servicios": [
+          "HEMOGRAMA",
+          "GRUPO SANGUINEO Y FACTOR",
+          "PARASITOLOGICO",
+          "TEST DE GRAHAM",
+          "EXAMEN DE ORINA COMPLETA",
+          "CONSULTA"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "gastroenterologia",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 0,
+        "servicios": [
+          "CONSULTA",
+          "TEST DE ALIENTO"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 0,
+        "servicios": [
+          "CONSULTA",
+          "ENDOSCOPIA"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 0,
+        "servicios": [
+          "CONSULTA",
+          "COLONOCOPIA"
+        ]
+      },
+      {
+        "nombre": "Paquete 4",
+        "precio": 0,
+        "servicios": [
+          "CONSULTA",
+          "SIGMOIDOSCOPIA"
+        ]
+      },
+      {
+        "nombre": "Paquete 5",
+        "precio": 110,
+        "servicios": [
+          "CONSULTA",
+          "ECOGRAFIA ABDOMEN"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Endocrinología",
+    "paquetes": [
+      {
+        "nombre": "Paquete Básico",
+        "precio": 100,
+        "servicios": [
+          "ECOGRAFIA ABDOMINAL",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete Completo",
+        "precio": 120,
+        "servicios": [
+          "ECOGRAFIA ABDOMINAL",
+          "TRIGLICERIDOS",
+          "COLESTEROL",
+          "HDL",
+          "VLDL",
+          "GLUCOSA",
+          "CONSULTA"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Reumatología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "DENSITOMETRIA"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 80,
+        "servicios": [
+          "CONSULTA",
+          "ÁCIDO URICO",
+          "HEMOGRAMA",
+          "PCR",
+          "VELOCIDAD DE ERITRO SEDIMENTACIÓN"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Dermatología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "LIMPIEZA FACIAL"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "PEELING QUIMICO"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 100,
+        "servicios": [
+          "CONSULTA",
+          "CRIOTERAPIA"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Medicina Fìsica",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 250,
+        "servicios": [
+          "CONSULTA",
+          "TERAPIA FISICA X 6 SESIONES"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 420,
+        "servicios": [
+          "CONSULTA",
+          "TERAPIA FISICA X 10 SESIONES"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Psicología",
+    "paquetes": [
+      {
+        "nombre": "Paquete Integral",
+        "precio": 0,
+        "servicios": [
+          "EVALUACION PSICOLOGICA X4",
+          "INFORME PSICOLOGICO"
+        ]
+      },
+      {
+        "nombre": "Paquete Pareja",
+        "precio": 0,
+        "servicios": [
+          "4 CONSULTAS"
+        ]
+      },
+      {
+        "nombre": "Evaluación escolar",
+        "precio": 0,
+        "servicios": [
+          "EVALUACION PSICOLOGICA X3",
+          "SESION DE EXPLICACION DE RESULTADOS",
+          "INFORME PSICOLOGICO"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Neumología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 100,
+        "servicios": [
+          "ESPIROMETRIA",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 120,
+        "servicios": [
+          "ESPIROMETRIA CON BRONCODILATADOR",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 180,
+        "servicios": [
+          "LEVANTAMIENTO DE OBSERVACIONES",
+          "ESPIROMETRIA"
+        ]
+      },
+      {
+        "nombre": "Paquete 4",
+        "precio": 90,
+        "servicios": [
+          "CONSULTA",
+          "RAYOS X DE TORAX"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Cardiología",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 150,
+        "servicios": [
+          "ESTUDIO DE HOLTER",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 80,
+        "servicios": [
+          "ELECTROCARDIOGRAMA",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete 3",
+        "precio": 120,
+        "servicios": [
+          "ECOCARDIOGRAMA DOPPLER",
+          "CONSULTA"
+        ]
+      },
+      {
+        "nombre": "Paquete 4",
+        "precio": 90,
+        "servicios": [
+          "CONSULTA",
+          "ELECTROCARDIOGRAMA",
+          "COLESTEROL",
+          "TRIGLICERIDOS"
+        ]
+      }
+    ]
+  },
+  {
+    "especialidad": "Nutricion",
+    "paquetes": [
+      {
+        "nombre": "Paquete 1",
+        "precio": 120,
+        "servicios": [
+          "4 CONSULTAS",
+          "2 EV. CORPORAL"
+        ]
+      },
+      {
+        "nombre": "Paquete 2",
+        "precio": 100,
+        "servicios": [
+          "4 CONSULTAS",
+          "1 EV. CORPORAL"
+        ]
+      }
+    ]
+  }
+]
+';
+
+$especialidades = json_decode($jsonData, true);
+
 ?>
 
 <header id="header"

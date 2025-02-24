@@ -623,12 +623,12 @@ $especialidades = json_decode($jsonData, true);
 						foreach ($menuItems as $label => $link) {
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
-								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-2"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%;">';
-								echo '<div class="row">';
+								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-0"></i></a>';
+								echo '<div class="hs-mega-menu dropdown-menu w-75"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 75%">';
+								echo '<div class="row" >';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {
-										echo '<div class="col-md-3 py-2">';
+										echo '<div class="col-md-3 py-1">';
 										echo '<a class="dropdown-item"  style="font-size:140% !important" href="' . $subLink . '">';
 										echo $subLabel;
 										echo '</a>';
@@ -665,11 +665,11 @@ $especialidades = json_decode($jsonData, true);
 <style>
 	.hs-mega-menu {
 		position: absolute;
-		right: 0;
+		right: 10%;
 		/* Esto alineará el div flotante a la derecha */
-		top: 100%;
+		top: 70%;
 		/* Asegúrate de que esté justo debajo del elemento que activa el dropdown */
-		min-width: 140%;
+		/* min-width: 1007%; */
 		/* Puedes ajustar esto según el tamaño que quieras */
 		display: none;
 		/* Inicialmente, el menú está oculto */

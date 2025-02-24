@@ -165,7 +165,7 @@
 	function startCarousel() {
 		intervalId = setInterval(() => {
 			showSlide(currentSlide + 1);
-		}, 3000); // Change slide every 3 seconds (adjust as needed)
+		}, 4500); // Change slide every 3 seconds (adjust as needed)
 	}
 
 	function stopCarousel() {

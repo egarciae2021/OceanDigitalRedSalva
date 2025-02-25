@@ -1148,8 +1148,15 @@ $pageSpecificMetadata = [
     ],
     '/especialidades/medicina-fisica-rehabilitacion' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
-        'title' => 'Medicina Fìsica | Red Salva',
-        'h1' => 'Medicina Fìsica',
+        'title' => 'Medicina Física y rehabilitación | Red Salva',
+        'h1' => 'Medicina Física y rehabilitación',
+        'keywords' => $commonMetadata['keywords'],
+        'description' => 'DESCRIBIR'
+    ],
+    '/especialidades/nutricion' => [
+        'imagen' => 'https://clinicamontesur.com.pe/images/dulce-espera.webp',
+        'title' => 'Nutrición | Red Salva',
+        'h1' => 'Nutrición',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],

@@ -2992,3 +2992,7 @@ Stack trace:
 [24-Feb-2025 19:38:02 UTC]   Automatic theme updates starting...
 [24-Feb-2025 19:38:04 UTC]   Automatic theme updates complete.
 [24-Feb-2025 19:38:04 UTC] Automatic updates complete.
+[25-Feb-2025 00:40:01 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\blog\wp-includes\class-wpdb.php on line 1982
+[25-Feb-2025 00:40:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\blog\wp-includes\class-wpdb.php on line 1982
+[25-Feb-2025 00:40:14 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\blog\wp-includes\class-wpdb.php on line 1982
+[25-Feb-2025 00:40:14 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido.  in C:\xampp\htdocs\blog\wp-includes\class-wpdb.php on line 1982

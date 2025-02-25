@@ -8,11 +8,12 @@ $menuItems = array(
 		'Gastroenterología' => '/especialidades/gastroenterologia',
 		'Ginecología y obstetricia' => '/especialidades/ginecologia',
 		'Inmunizaciones pediatricas' => '/especialidades/Inmunizaciones-pediatricas',
-		'Medicina Física' => '/especialidades/medicina-fisica-rehabilitacion',
+		'Medicina Física y Rehabiitación' => '/especialidades/medicina-fisica-rehabilitacion',
 		'Medicina General' => '/especialidades/medicina-general',
 		'Medicina Interna' => '/especialidades/medicina-interna',
 		'Neumología' => '/especialidades/neumologia',
 		'Neurología' => '/especialidades/neurologia',
+    'Nutrición' => '/especialidades/nutricion',
 		'Oftalmología' => '/especialidades/oftalmologia',
 		'Oncologìa' => '/especialidades/oncologia',
 		'Otorrinolaringología' => '/especialidades/otorrinolaringologia',
@@ -624,7 +625,7 @@ $especialidades = json_decode($jsonData, true);
 							if (is_array($link)) {
 								echo '<li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options=\'{"desktop": {"maxWidth": "40rem"}}\'>';
 								echo '<a class="hs-mega-menu-invoker nav-link dropdown-toggle" href="javascript:void(0);" role="button" aria-expanded="false" >' . $label . ' <i class="fa fa-angle-down ps-0"></i></a>';
-								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 100%">';
+								echo '<div class="hs-mega-menu dropdown-menu w-100"  aria-labelledby="' . str_replace(' ', '', $label) . 'MegaMenu" style="min-width: 120%">';
 								echo '<div class="row" >';
 								foreach ($link as $subLabel => $subLink) {
 									if ($subLabel !== '__enlace__') {

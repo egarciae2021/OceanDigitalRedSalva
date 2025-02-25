@@ -31,7 +31,7 @@
     } else {
       // En cualquier otra ruta (como /blog, /contacto, etc.), aplicar zoom 90%
       setTimeout(() => {
-        document.body.style.zoom = "80%";
+        document.body.style.zoom = "75%";
       }, 500);
     }
   });

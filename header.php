@@ -1,5 +1,5 @@
 <?php
-// require_once($_SERVER['DOCUMENT_ROOT'] . '/blog/wp-load.php'); 
+require_once($_SERVER['DOCUMENT_ROOT'] . '/blog/wp-load.php'); 
 ?>
 <!DOCTYPE html>
 <html>
@@ -22,18 +22,33 @@
     // Obtener la ruta relativa de la URL actual
     const currentPath = window.location.pathname;
 
-    // Verificar si la ruta relativa es la página principal o está vacía
     if (currentPath === "/" || currentPath === "") {
-      // Si estamos en la página principal (sin ruta), aplicar zoom 61%
       setTimeout(() => {
-        document.body.style.zoom = "61%";
+        document.body.style.zoom = "80%";
+        document.body.style.visibility = "visible";
       }, 500);
     } else {
-      // En cualquier otra ruta (como /blog, /contacto, etc.), aplicar zoom 90%
       setTimeout(() => {
-        document.body.style.zoom = "75%";
+        document.body.style.zoom = "80%";
+        document.body.style.visibility = "visible";
       }, 500);
     }
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const currentPath = window.location.pathname;
+    let zoomLevel = "75%"; // Valor por defecto
+
+    if (currentPath === "/" || currentPath === "") {
+      zoomLevel = "61%"; // Zoom para la página principal
+    }
+
+    document.body.style.zoom = zoomLevel;
+    
+    // Ahora hacemos visible la página
+    document.body.style.visibility = "visible";
   });
 </script>
 

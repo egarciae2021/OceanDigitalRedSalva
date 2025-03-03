@@ -3,14 +3,17 @@
 		<div class="container">
 			<div class="row content-space-t-0 ">
 				<div class="col-md-6 col-lg-4 order-md-2" style="display:inline-block">
-					<h2 class="text-center color-azul pb-5">¿Por qué confiar en<span class="color-naranja"> Red Salva?</span></h2>
+					<h2 class="text-center color-azul pb-5">¿Por qué confiar en<span class="color-naranja"> Red
+							Salva?</span></h2>
 					<ul class="step">
 						<li class="step-item">
 							<div class="step-content-wrapper">
 								<span class="step-icon fondo-azul color-white">1</span>
 								<div class="step-content">
-									<h4 class="color-azul">Experiencia y profesionalismo</h4>
-									<p class="step-text">Mantenemos altos estándares de calidad y fomentamos la mejora continua e innovación para brindar la mejor atención.</p>
+									<h4 class="color-azul">Accesibilidad</h4>
+									<p class="step-text">Porque tu salud no debe ser un lujo, ofrecemos soluciones
+										médicas efectivas al mejor costo, asegurando que todos puedan recibir la
+										atención que merecen.</p>
 								</div>
 							</div>
 						</li>
@@ -19,8 +22,11 @@
 							<div class="step-content-wrapper">
 								<span class="step-icon fondo-azul color-white">2</span>
 								<div class="step-content">
-									<h4 class="color-azul">Integridad</h4>
-									<p class="step-text">Actuamos con ética, transparencia y respeto a la confidencialidad en todas las interacciones y manejo de la información de los pacientes.</p>
+									<h4 class="color-azul">Confianza</h4>
+									<p class="step-text">Tu bienestar está en buenas manos. Contamos con un entorno
+										seguro y protocolos rigurosos para garantizar una atención sin riesgos ni
+										preocupaciones.
+										.</p>
 								</div>
 							</div>
 						</li>
@@ -29,8 +35,10 @@
 							<div class="step-content-wrapper">
 								<span class="step-icon fondo-azul color-white">3</span>
 								<div class="step-content">
-									<h4 class="color-azul">Seguridad</h4>
-									<p class="step-text">Priorizamos la seguridad del paciente mediante protocolos estrictos que prevengan errores y minimicen riesgos en la atención médica.</p>
+									<h4 class="color-azul">Respeto</h4>
+									<p class="step-text">Valoramos tu bienestar y el de tu familia. Te ofrecemos una
+										atención cercana, transparente y con total confidencialidad en cada consulta.
+									</p>
 								</div>
 							</div>
 						</li>
@@ -39,8 +47,9 @@
 							<div class="step-content-wrapper">
 								<span class="step-icon fondo-azul color-white">4</span>
 								<div class="step-content">
-									<h4 class="color-azul">Responsabilidad</h4>
-									<p class="step-text">Asumimos la responsabilidad de las decisiones para brindar una atención segura y efectiva, optimizando recursos para una atención médica sostenible y accesible.</p>
+									<h4 class="color-azul">Compromiso</h4>
+									<p class="step-text">Trabajamos día a día para brindarte un servicio de calidad, con
+										dedicación y esmero para mejorar tu bienestar.</p>
 								</div>
 							</div>
 						</li>

@@ -78,7 +78,7 @@
             <?php
             $base_url = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https" : "http") . "://" . $_SERVER['HTTP_HOST'];
 
-            $sql = "SELECT * FROM medicos";
+            $sql = "SELECT * FROM medicos ORDER BY nombre asc";
             $result = $conn->query($sql);
 
             if ($result->num_rows > 0) {

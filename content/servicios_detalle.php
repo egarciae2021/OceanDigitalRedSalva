@@ -1,3 +1,34 @@
+<?php
+$jsonData = '{
+    "especialidades": [
+        { "nombre": "Cardiología", "enlace": "/especialidades/cardiologia", "imagen": "icon-cardiologia.png" },
+        { "nombre": "Dermatología", "enlace": "/especialidades/dermatologia", "imagen": "icon-dermatologia.png" },
+        { "nombre": "Endocrinología", "enlace": "/especialidades/endocrinologia", "imagen": "icon-endocrinologia.png" },
+        { "nombre": "Gastroenterología", "enlace": "/especialidades/gastroenterologia", "imagen": "icon-gastroenterologia.png" },
+        { "nombre": "Ginecología y obstetricia", "enlace": "/especialidades/ginecologia", "imagen": "icon-ginecologia.png" },
+        { "nombre": "Inmunizaciones pediátricas", "enlace": "/especialidades/Inmunizaciones-pediatricas", "imagen": "icon-inmunizaciones.png" },
+        { "nombre": "Medicina Física y Rehabilitación", "enlace": "/especialidades/medicina-fisica-rehabilitacion", "imagen": "icon-medicina-fisica.png" },
+        { "nombre": "Medicina General", "enlace": "/especialidades/medicina-general", "imagen": "icon-medicina-general.png" },
+        { "nombre": "Medicina Interna", "enlace": "/especialidades/medicina-interna", "imagen": "icon-medicina-interna.png" },
+        { "nombre": "Neumología", "enlace": "/especialidades/neumologia", "imagen": "icon-neumologia.png" },
+        { "nombre": "Neurología", "enlace": "/especialidades/neurologia", "imagen": "icon-neurologia.png" },
+        { "nombre": "Nutrición", "enlace": "/especialidades/nutricion", "imagen": "icon-nutricion.png" },
+        { "nombre": "Oftalmología", "enlace": "/especialidades/oftalmologia", "imagen": "icon-oftalmologia.png" },
+        { "nombre": "Oncología", "enlace": "/especialidades/oncologia", "imagen": "icon-oncologia.png" },
+        { "nombre": "Otorrinolaringología", "enlace": "/especialidades/otorrinolaringologia", "imagen": "icon-otorrino.png" },
+        { "nombre": "Pediatría", "enlace": "/especialidades/pediatria", "imagen": "icon-pediatria.png" },
+        { "nombre": "Psicología", "enlace": "/especialidades/psicologia", "imagen": "icon-psicologia.png" },
+        { "nombre": "Reumatología", "enlace": "/especialidades/reumatologia", "imagen": "icon-reumatologia.png" },
+        { "nombre": "Terapia del lenguaje", "enlace": "/especialidades/terapia-del-lenguaje", "imagen": "icon-terapia-lenguaje.png" },
+        { "nombre": "Traumatología", "enlace": "/especialidades/traumatologia", "imagen": "icon-traumatologia.png" },
+        { "nombre": "Urología", "enlace": "/especialidades/urologia", "imagen": "icon-urologia.png" }
+    ]
+}';
+
+$especialidades = json_decode($jsonData, true);
+?>
+
+
 <div class="fondo-azul"
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 	<div class="container content-space-t-lg-4 content-space-b-1">
@@ -22,42 +53,21 @@
 					ofreciendo comodidad en instalaciones equipadas para una óptima recuperación.
 				</p>
 
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="./servicios/centro-de-vacunacion">Centro de
-							vacunación</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="./servicios/consultas-externas">Consultas
-							externas</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/farmacia">Farmacia</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/imagenes">Centro de Imagenes</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-clinico">Laboratorio
-							Clinico</a>
-					</div>
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/topico">Tópico</a>
-					</div>
-				</div>
-				<div class="row border-bottom pb-3 mb-3">
-					<div class="col-4">
-						<a class="link link-secondary link-pointer" href="/servicios/laboratorio-patologico">Laboratorio
-							patologico</a>
-					</div>
-				</div>
-				<div class="row justify-content-center">
-					<div class="col-md-6 d-flex justify-content-center">
-						<div class="card">
-							<img class="card-img shadow-sm mx-auto d-block" src="/images/nosotros.jpg" alt="Nosotros">
-						</div>
+				<div class="container">
+					<h2 class="text-center mb-4">Especialidades</h2>
+					<div class="row g-4">
+						<?php foreach ($especialidades['especialidades'] as $esp): ?>
+							<div class="col-md-4">
+								<a href="<?= $esp['enlace'] ?>" class="text-decoration-none">
+									<div class="specialty-card">
+										<div class="specialty-text"><?= $esp['nombre'] ?></div>
+										<div class="specialty-icon">
+											<img src="/images/icono-servicios/<?= $esp['imagen'] ?>" alt="<?= $esp['nombre'] ?>">
+										</div>
+									</div>
+								</a>
+							</div>
+						<?php endforeach; ?>
 					</div>
 				</div>
 			</div>
@@ -111,4 +121,50 @@
 		</div>
 	</div>
 </section>
+
+
+
+<style>
+	.specialty-card {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		height: 80px;
+		border: 3px solid rgb(35, 85, 179);
+		border-radius: 15px;
+		overflow: hidden;
+		background-color: white;
+		padding: 10px;
+		transition: transform 0.2s ease-in-out;
+	}
+
+	.specialty-card:hover {
+		transform: scale(1.05);
+	}
+
+	.specialty-text {
+		flex: 1;
+		text-align: center;
+		font-weight: bold;
+		color:rgb(35, 85, 179)
+	}
+
+	.specialty-icon {
+		width: 40%;
+		height: 100%;
+		/* background: linear-gradient(90deg, rgba(41,83,160,1) 29%, rgba(41,83,160,1) 68%) !important; */
+		background: white !important;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.specialty-icon img {
+		width: 75px;
+		height: 75px;
+	}
+</style>
+
+
 <?php require_once('formulario.php'); ?>

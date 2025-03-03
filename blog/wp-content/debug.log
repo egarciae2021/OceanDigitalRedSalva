@@ -4200,3 +4200,462 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:20 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:21 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:33 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:35 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:35 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:35 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:17:36 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:37 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:39 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:40 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:42 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:43 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:17:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:20:13 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:20:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:20:14 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:20:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:20:19 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:20:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:23:48 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:23:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:23:49 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:23:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:28:53 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:28:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:28:55 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:28:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:23 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:30:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:30:24 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:32 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:30:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:30:34 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:40 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:36:31 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:36:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:36:33 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:36:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:38:13 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:38:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:38:15 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:38:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:39:28 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:39:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:39:30 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:39:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:40:31 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:40:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:40:33 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:40:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:40:59 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:40:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:01 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:10 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:12 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:19 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:20 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:31 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:41:33 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:41:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:42:37 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:42:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:42:38 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:42:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:20 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:45:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:45:22 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:27 UTC] PHP Warning:  require_once(blog.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:45:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'blog.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\bloques.php:3
+Stack trace:
+#0 C:\xampp\htdocs\index.php(1195): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\bloques.php on line 3
+[03-Mar-2025 22:45:28 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:53 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:45:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:46:02 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:46:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:51:00 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:51:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:52:57 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:52:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:03 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:17 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:27 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:55:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:07 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:26 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:39 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:56:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:13 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:22 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:38 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:52 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:57:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:06 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:19 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:38 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:58:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:09 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:22 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:33 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 22:59:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:06 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:26 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:39 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:52 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:00:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:01 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:12 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:18 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:01:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:07 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:21 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:25 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:33 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:48 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:06:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:10:13 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:10:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:14:30 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:14:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:14:43 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:14:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:15:05 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:15:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:15:15 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[03-Mar-2025 23:15:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194

@@ -1,9 +1,25 @@
-<section class="py-5 bg-soft-secondary" style="height: 100vh;">
+<section class="py-5 bg-soft-secondary" style="height: 300vh;">
     <div class="container py-4 h-100">
         <div class="row h-100">
             <div class="col-md-12 h-100">
-                <iframe src="https://www.redsalva.com/blog/?page_id=55" width="100%" height="100%" style="border:none; display:block;"></iframe>
+                <iframe id="blog-wp" src="http://localhost/blog/?page_id=55" width="100%" height="100%"
+                    style="border:none; display:block;margin-top:-120px !important" scrolling="no"></iframe>
             </div>
         </div>
     </div>
 </section>
+
+<style>
+    #blog-wp {
+        width: 100%;
+        height: 100%;
+        border: none;
+        clip-path: inset(20px 0 0 0);
+        /* Recorta los primeros 20px del top */
+    }
+
+    iframe {
+        overflow: hidden;
+        /* Oculta cualquier scroll en la sección */
+    }
+</style>

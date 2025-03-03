@@ -1,31 +1,17 @@
 <?php
 $jsonData = '{
-    "especialidades": [
-        { "nombre": "Cardiología", "enlace": "/especialidades/cardiologia", "imagen": "icon-cardiologia.png" },
-        { "nombre": "Dermatología", "enlace": "/especialidades/dermatologia", "imagen": "icon-dermatologia.png" },
-        { "nombre": "Endocrinología", "enlace": "/especialidades/endocrinologia", "imagen": "icon-endocrinologia.png" },
-        { "nombre": "Gastroenterología", "enlace": "/especialidades/gastroenterologia", "imagen": "icon-gastroenterologia.png" },
-        { "nombre": "Ginecología y obstetricia", "enlace": "/especialidades/ginecologia", "imagen": "icon-ginecologia.png" },
-        { "nombre": "Inmunizaciones pediátricas", "enlace": "/especialidades/Inmunizaciones-pediatricas", "imagen": "icon-inmunizaciones.png" },
-        { "nombre": "Medicina Física y Rehabilitación", "enlace": "/especialidades/medicina-fisica-rehabilitacion", "imagen": "icon-medicina-fisica.png" },
-        { "nombre": "Medicina General", "enlace": "/especialidades/medicina-general", "imagen": "icon-medicina-general.png" },
-        { "nombre": "Medicina Interna", "enlace": "/especialidades/medicina-interna", "imagen": "icon-medicina-interna.png" },
-        { "nombre": "Neumología", "enlace": "/especialidades/neumologia", "imagen": "icon-neumologia.png" },
-        { "nombre": "Neurología", "enlace": "/especialidades/neurologia", "imagen": "icon-neurologia.png" },
-        { "nombre": "Nutrición", "enlace": "/especialidades/nutricion", "imagen": "icon-nutricion.png" },
-        { "nombre": "Oftalmología", "enlace": "/especialidades/oftalmologia", "imagen": "icon-oftalmologia.png" },
-        { "nombre": "Oncología", "enlace": "/especialidades/oncologia", "imagen": "icon-oncologia.png" },
-        { "nombre": "Otorrinolaringología", "enlace": "/especialidades/otorrinolaringologia", "imagen": "icon-otorrino.png" },
-        { "nombre": "Pediatría", "enlace": "/especialidades/pediatria", "imagen": "icon-pediatria.png" },
-        { "nombre": "Psicología", "enlace": "/especialidades/psicologia", "imagen": "icon-psicologia.png" },
-        { "nombre": "Reumatología", "enlace": "/especialidades/reumatologia", "imagen": "icon-reumatologia.png" },
-        { "nombre": "Terapia del lenguaje", "enlace": "/especialidades/terapia-del-lenguaje", "imagen": "icon-terapia-lenguaje.png" },
-        { "nombre": "Traumatología", "enlace": "/especialidades/traumatologia", "imagen": "icon-traumatologia.png" },
-        { "nombre": "Urología", "enlace": "/especialidades/urologia", "imagen": "icon-urologia.png" }
+"servicios": [
+        { "nombre": "Consultas externas", "enlace": "/servicios/consultas-externas", "imagen": "icon-consultas.png" },
+        { "nombre": "Farmacia", "enlace": "/servicios/farmacia", "imagen": "icon-farmacia.png" },
+        { "nombre": "Laboratorio clínico", "enlace": "/servicios/laboratorio-clinico", "imagen": "icon-laboratorio.png" },
+        { "nombre": "Centro de vacunación", "enlace": "/servicios/centro-de-vacunacion", "imagen": "icon-vacunacion.png" },
+        { "nombre": "Centro de Imágen", "enlace": "/servicios/imagenes", "imagen": "icon-imagenes.png" },
+        { "nombre": "Tópico Red Salva", "enlace": "/servicios/topico", "imagen": "icon-topico.png" },
+        { "nombre": "Laboratorio patológico", "enlace": "/servicios/laboratorio-patologico", "imagen": "icon-laboratorio-patologico.png" }
     ]
 }';
 
-$especialidades = json_decode($jsonData, true);
+$servicios = json_decode($jsonData, true);
 ?>
 
 
@@ -54,15 +40,16 @@ $especialidades = json_decode($jsonData, true);
 				</p>
 
 				<div class="container">
-					<h2 class="text-center mb-4">Especialidades</h2>
+					<h2 class="text-center mb-4">Servicios</h2>
 					<div class="row g-4">
-						<?php foreach ($especialidades['especialidades'] as $esp): ?>
+						<?php foreach ($servicios['servicios'] as $esp): ?>
 							<div class="col-md-4">
 								<a href="<?= $esp['enlace'] ?>" class="text-decoration-none">
 									<div class="specialty-card">
 										<div class="specialty-text"><?= $esp['nombre'] ?></div>
 										<div class="specialty-icon">
-											<img src="/images/icono-servicios/<?= $esp['imagen'] ?>" alt="<?= $esp['nombre'] ?>">
+											<img src="/images/icono-servicios/<?= $esp['imagen'] ?>"
+												alt="<?= $esp['nombre'] ?>">
 										</div>
 									</div>
 								</a>
@@ -147,7 +134,7 @@ $especialidades = json_decode($jsonData, true);
 		flex: 1;
 		text-align: center;
 		font-weight: bold;
-		color:rgb(35, 85, 179)
+		color: rgb(35, 85, 179)
 	}
 
 	.specialty-icon {

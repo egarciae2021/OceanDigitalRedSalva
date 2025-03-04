@@ -29,18 +29,15 @@ $servicios = json_decode($jsonData, true);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p>La atención se distingue por su alta calidad, brindada por un equipo médico, asistencial y
-					administrativo experto.
-
-					Nuestra infraestructura y equipos médicos de vanguardia nos posicionan como líderes en salud
-					privada, con amplia experiencia en el cuidado integral de la mujer y su familia.
-
-					Contamos con profesionales calificados, tecnología biomédica de punta y atención personalizada,
-					ofreciendo comodidad en instalaciones equipadas para una óptima recuperación.
+				<p>Red Salva es un centro de salud comprometido con la excelencia en la atención médica. Contamos con un
+					equipo de especialistas altamente capacitados y tecnología de última generación para garantizar un
+					servicio de calidad. Nuestra prioridad es el bienestar de cada paciente, ofreciendo un enfoque
+					integral y humano en el cuidado de su salud.
+					En Red Salva contamos con una variedad de servicios diseñados para garantizar la mejor atención a
+					nuestros pacientes:
 				</p>
 
 				<div class="container">
-					<h2 class="text-center mb-4">Servicios</h2>
 					<div class="row g-4">
 						<?php foreach ($servicios['servicios'] as $esp): ?>
 							<div class="col-md-4">

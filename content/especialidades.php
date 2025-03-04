@@ -42,18 +42,14 @@ $especialidades = json_decode($jsonData, true);
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p>La atención se distingue por su alta calidad, brindada por un equipo médico, asistencial y
-					administrativo experto.
-
-					Nuestra infraestructura y equipos médicos de vanguardia nos posicionan como líderes en salud
-					privada, con amplia experiencia en el cuidado integral de la mujer y su familia.
-
-					Contamos con profesionales calificados, tecnología biomédica de punta y atención personalizada,
-					ofreciendo comodidad en instalaciones equipadas para una óptima recuperación.
+				<p>Bienvenidos al Policlínico Red Salva, un centro de salud integral dedicado a ofrecer atención médica
+					de calidad con un equipo altamente especializado. Nuestro compromiso es brindar bienestar a cada
+					paciente con tecnología de vanguardia y un enfoque humano en el cuidado de la salud.
+					Nuestro policlínico cuenta con una amplia variedad de especialidades para cubrir todas las
+					necesidades de nuestros pacientes
 				</p>
 
-				<div class="container">
-					<h2 class="text-center mb-4">Especialidades</h2>
+				<div class="container"> 
 					<div class="row g-4">
 						<?php foreach ($especialidades['especialidades'] as $esp): ?>
 							<div class="col-md-4">
@@ -61,7 +57,8 @@ $especialidades = json_decode($jsonData, true);
 									<div class="specialty-card">
 										<div class="specialty-text"><?= $esp['nombre'] ?></div>
 										<div class="specialty-icon">
-											<img src="/images/iconos-especialidades/<?= $esp['imagen'] ?>" alt="<?= $esp['nombre'] ?>">
+											<img src="/images/iconos-especialidades/<?= $esp['imagen'] ?>"
+												alt="<?= $esp['nombre'] ?>">
 										</div>
 									</div>
 								</a>
@@ -82,7 +79,7 @@ $especialidades = json_decode($jsonData, true);
 		</div>
 </section>
 
-<section class="py-5 fondo-celeste-bajo" >
+<section class="py-5 fondo-celeste-bajo">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
@@ -130,7 +127,7 @@ $especialidades = json_decode($jsonData, true);
 	</div>
 </section>
 
- 
+
 
 <style>
 	.specialty-card {
@@ -155,7 +152,7 @@ $especialidades = json_decode($jsonData, true);
 		flex: 1;
 		text-align: center;
 		font-weight: bold;
-		color:rgb(35, 85, 179)
+		color: rgb(35, 85, 179)
 	}
 
 	.specialty-icon {

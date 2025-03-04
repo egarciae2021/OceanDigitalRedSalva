@@ -83,6 +83,15 @@
 						administradas, lo que permite hacer un seguimiento adecuado y garantizar que los pacientes
 						completen su esquema de inmunización de manera oportuna.</li>
 				</ul>
+				<p><strong>Vacunas disponibles según grupo poblacional:</strong></p>
+				<ul>
+					<li><strong>Vacunas para gestantes:</strong> Tdap, Influenza, Hepatitis B.</li>
+					<li><strong>Vacunas para adultos mayores:</strong> Influenza, Antineumocócica, Tdap.</li>
+					<li><strong>Vacunas para adolescentes y adultos jóvenes:</strong> Virus del Papiloma Humano (VPH),
+						Tdap, Meningococo B, Influenza Tetravalente.</li>
+					<li><strong>Vacunas para viajeros:</strong> Fiebre Amarilla, Hepatitis A, Tifoidea, Tdap,
+						Meningococo ACYW-135, Meningococo B, Neumococo, Influenza Tetravalente.</li>
+				</ul>
 				<p>Este servicio del Centro de Vacunación de la Policlínica Red Salva juega un papel fundamental en la
 					mejora de la salud pública, contribuyendo a la prevención de brotes de enfermedades y fortaleciendo
 					la protección colectiva contra diversas infecciones.</p>

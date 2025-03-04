@@ -131,22 +131,31 @@ $servicios = json_decode($jsonData, true);
 		flex: 1;
 		text-align: center;
 		font-weight: bold;
-		color: rgb(35, 85, 179)
+		color: rgb(35, 85, 179);
+		font-size: 1.5rem;
+		/* Aumenta el tamaño de la letra */
 	}
 
+
+
+
 	.specialty-icon {
-		width: 40%;
+		width: 50%;
+		/* Aumenta el ancho del contenedor */
 		height: 100%;
-		/* background: linear-gradient(90deg, rgba(41,83,160,1) 29%, rgba(41,83,160,1) 68%) !important; */
-		background: white !important;
+		/* Mantiene el alto */
 		display: flex;
 		align-items: center;
 		justify-content: center;
 	}
 
 	.specialty-icon img {
-		width: 75px;
-		height: 75px;
+		width: 120px;
+		/* Aumenta el tamaño del icono */
+		height: 120px;
+		max-width: 100%;
+		/* Evita que se desborde */
+		max-height: 100%;
 	}
 
 	.specialty-card {

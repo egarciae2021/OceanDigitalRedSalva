@@ -109,7 +109,7 @@ $servicios = json_decode($jsonData, true);
 
 
 <style>
-	.specialty-card {
+	/* .specialty-card {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -125,7 +125,7 @@ $servicios = json_decode($jsonData, true);
 
 	.specialty-card:hover {
 		transform: scale(1.05);
-	}
+	} */
 
 	.specialty-text {
 		flex: 1;
@@ -147,6 +147,29 @@ $servicios = json_decode($jsonData, true);
 	.specialty-icon img {
 		width: 75px;
 		height: 75px;
+	}
+
+	.specialty-card {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		height: 120px;
+		/* Aumenta la altura */
+		border: 4px solid rgb(35, 85, 179);
+		/* Borde más grueso */
+		border-radius: 20px;
+		/* Bordes más redondeados */
+		overflow: hidden;
+		background-color: white;
+		padding: 15px;
+		/* Más espacio interno */
+		transition: transform 0.2s ease-in-out;
+	}
+
+	.specialty-card:hover {
+		transform: scale(1.08);
+		/* Mayor efecto al pasar el mouse */
 	}
 </style>
 

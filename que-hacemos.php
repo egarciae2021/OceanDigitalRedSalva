@@ -26,7 +26,7 @@
 									<p class="step-text">Tu bienestar está en buenas manos. Contamos con un entorno
 										seguro y protocolos rigurosos para garantizar una atención sin riesgos ni
 										preocupaciones.
-										.</p>
+										</p>
 								</div>
 							</div>
 						</li>

@@ -23,10 +23,10 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/blog/wp-load.php');
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       const currentPath = window.location.pathname;
-      let zoomLevel = "70%"; // Valor por defecto
+      let zoomLevel = "65%"; // Valor por defecto
 
       if (currentPath === "/" || currentPath === "") {
-        zoomLevel = "70%"; // Zoom para la página principal
+        zoomLevel = "65%"; // Zoom para la página principal
       }
 
       document.body.style.zoom = zoomLevel;

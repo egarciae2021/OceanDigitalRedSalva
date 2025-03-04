@@ -129,8 +129,9 @@ $especialidades = json_decode($jsonData, true);
 
 
 
+
 <style>
-	.specialty-card {
+	/* .specialty-card {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -146,30 +147,64 @@ $especialidades = json_decode($jsonData, true);
 
 	.specialty-card:hover {
 		transform: scale(1.05);
-	}
+	} */
 
 	.specialty-text {
 		flex: 1;
 		text-align: center;
 		font-weight: bold;
-		color: rgb(35, 85, 179)
+		color: rgb(35, 85, 179);
+		font-size: 1.5rem;
+		/* Aumenta el tamaño de la letra */
 	}
 
+
+
+
 	.specialty-icon {
-		width: 40%;
+		width: 50%;
+		/* Aumenta el ancho del contenedor */
 		height: 100%;
-		/* background: linear-gradient(90deg, rgba(41,83,160,1) 29%, rgba(41,83,160,1) 68%) !important; */
-		background: white !important;
+		/* Mantiene el alto */
 		display: flex;
 		align-items: center;
 		justify-content: center;
 	}
 
 	.specialty-icon img {
-		width: 75px;
-		height: 75px;
+		width: 120px;
+		/* Aumenta el tamaño del icono */
+		height: 120px;
+		max-width: 100%;
+		/* Evita que se desborde */
+		max-height: 100%;
+	}
+
+	.specialty-card {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 100%;
+		height: 120px;
+		/* Aumenta la altura */
+		border: 4px solid rgb(35, 85, 179);
+		/* Borde más grueso */
+		border-radius: 20px;
+		/* Bordes más redondeados */
+		overflow: hidden;
+		background-color: white;
+		padding: 15px;
+		/* Más espacio interno */
+		transition: transform 0.2s ease-in-out;
+	}
+
+	.specialty-card:hover {
+		transform: scale(1.08);
+		/* Mayor efecto al pasar el mouse */
 	}
 </style>
+
+
 
 
 

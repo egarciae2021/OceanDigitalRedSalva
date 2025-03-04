@@ -49,7 +49,7 @@
 						<img class="card-img-top" src="/images/Servicios/Centro de Imágenes.svg" alt="Image Description">
 					</div>
 					<div class="card-body">
-						<h5 class="card-title color-naranja">CENTRO DE IMAGENES</h5>
+						<h5 class="card-title color-naranja">CENTRO DE IMÁGENES</h5>
 						<p>Contamos con tecnología avanzada para ofrecer diagnósticos precisos y confiables. Nuestro
 							equipo de expertos trabaja para brindarte resultados rápidos y
 							seguros.</p> 

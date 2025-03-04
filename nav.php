@@ -603,7 +603,7 @@ $especialidades = json_decode($jsonData, true);
   data-hs-header-options='{
   "fixMoment": 0,
   "fixEffect": "slide"
-}' style>
+}' style="height:10% !important">
   <div class="container">
     <nav class="js-mega-menu navbar-nav-wrap">
       <a class="navbar-brand" href="/" aria-label="Red Salva" style="margin-top:-10px !important">
@@ -653,7 +653,7 @@ $especialidades = json_decode($jsonData, true);
                 class="">
                 <!-- <img src="/images/boton_reserva.png" alt="WhatsApp Icon"
                   style="width:150px !important;heigth:250px !important"> -->
-                <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill">Reservar cita</span>
+                <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill" style=" font-size: 23px !important;">Reservar cita</span>
               </a>
             </li>
 
@@ -665,6 +665,17 @@ $especialidades = json_decode($jsonData, true);
   </div>
 </header>
 <style>
+  .navbar-nav .nav-link {
+    font-size: 25px !important;
+  }
+
+  .navbar-brand-logo {
+    width: 200px !important;
+    /* Ajusta el ancho según lo necesario */
+    height: auto !important;
+    /* Mantiene la proporción */
+  }
+
   .hs-mega-menu {
     position: absolute;
     right: 10%;

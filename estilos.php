@@ -1,6 +1,6 @@
 <!-- Favicon -->
-<link rel="shortcut icon" href="/images/logo.png">
-<link rel="icon" href="/images/logo.png" type="image/x-icon">
+<link rel="shortcut icon" href="/images/logo2.png">
+<link rel="icon" href="/images/logo2.png" type="image/x-icon">
 <!-- iconos -->
 <!-- <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.6.0/uicons-brands/css/uicons-brands.css'> -->
 

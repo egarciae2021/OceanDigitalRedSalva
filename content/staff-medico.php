@@ -85,7 +85,7 @@
                 while ($row = $result->fetch_assoc()) {
                     $medico_id = $row['id'];
                     $pronombre = $row['sexo'] == '1' ? 'la' : 'el';
-                    $titulo = $row['sexo'] == '1' ? 'Dra.' : 'Dr.';
+                    $titulo = $row['sexo'] == '1' ? 'Dr.' : 'Dra.';
                     $nombre_completo = mb_strtoupper($row['nombre'] . " " . $row['paterno'] . " " . $row['materno']);
                     $especialidad = mb_strtoupper($row['especialidad']);
                     $url = $base_url . "/staff/" . $row['url'];

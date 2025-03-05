@@ -1,11 +1,11 @@
-<section class="py-5 bg-soft-secondary" style="height: 350vh;">
+<section class="py-5 bg-soft-secondary" style="max-height: 350vh;height:80vh">
     <!-- <div class="container py-4 h-100"> -->
-        <!-- <div class="row h-100"> -->
-            <div class="col-md-12 h-100">
-                <iframe id="blog-wp" src="https://www.redsalva.com/blog/?page_id=290" width="150%" height="100%"
-                    style="border:none; display:block;margin-top:-120px !important" scrolling="no"></iframe>
-            </div>
-        <!-- </div> -->
+    <!-- <div class="row h-100"> -->
+    <div class="col-md-12 h-100">
+        <iframe id="blog-wp" src="https://www.redsalva.com/blog/?page_id=290" width="150%" height="100%"
+            style="border:none; display:block;margin-top:30px !important" scrolling="no"></iframe>
+    </div>
+    <!-- </div> -->
     <!-- </div> -->
 </section>
 

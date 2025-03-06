@@ -32,8 +32,8 @@ $especialidades = json_decode($jsonData, true);
 	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
 	<div class="container content-space-t-lg-4 content-space-b-1">
 		<h1 class="display-5 color-white">Especialidades</h1>
-		<div class="mb-3">
-			<a class="link color-white color-naranja-hover" href="/"><i class="fa fa-arrow-left small me-1"></i>
+		<div class="mb-3 ">
+			<a class="link color-white color-naranja-hover " href="/"><i class="fa fa-arrow-left small me-1"></i>
 				Inicio</a>
 		</div>
 	</div>
@@ -49,7 +49,7 @@ $especialidades = json_decode($jsonData, true);
 					necesidades de nuestros pacientes
 				</p>
 
-				<div class="container"> 
+				<div class="container">
 					<div class="row g-4">
 						<?php foreach ($especialidades['especialidades'] as $esp): ?>
 							<div class="col-md-4">
@@ -131,6 +131,7 @@ $especialidades = json_decode($jsonData, true);
 
 
 <style>
+
 	/* .specialty-card {
 		display: flex;
 		align-items: center;

@@ -16,11 +16,9 @@
         height: 100%;
         border: none;
         clip-path: inset(20px 0 0 0);
-        /* Recorta los primeros 20px del top */
     }
 
     iframe {
         overflow: scroll;
-        /* Oculta cualquier scroll en la sección */
     }
 </style>

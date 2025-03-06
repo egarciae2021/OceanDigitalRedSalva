@@ -1,4 +1,3 @@
- 
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
 		<div class="row">
@@ -89,7 +88,7 @@
 					lograr que cada paciente alcance su máximo potencial comunicativo. Con la terapia del lenguaje
 					adecuada, podemos ayudarle a superar los obstáculos que puedan estar afectando su día a día y a
 					mejorar su bienestar general.</p>
- 
+
 			</div>
 		</div>
 	</div>

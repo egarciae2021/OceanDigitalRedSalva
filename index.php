@@ -986,7 +986,7 @@ $pageSpecificMetadata = [
         'description' => 'DESCRIBIR'
     ],
 
-    '/especialidades/terapida-del-lenguaje' => [
+    '/especialidades/terapia-del-lenguaje' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/traumatologia.webp',
         'title' => 'Terapia del lenguaje | Red Salva',
         'h1' => 'Terapia del lenguaje',

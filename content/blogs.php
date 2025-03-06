@@ -1,9 +1,10 @@
-<section class="py-5  " style="max-height: 350vh;height:350vh">
+<section class="py-5  " style="max-height: 350vh;height:280vh">
     <!-- <div class="container py-4 h-100"> -->
     <!-- <div class="row h-100"> -->
     <div class="col-md-12 h-100">
         <iframe id="blog-wp" src="https://www.redsalva.com/blog/?page_id=57" width="150%" height="100%"
-            style="border:none; display:block;margin-top:120px !important" scrolling="no"></iframe>
+            style="border:none; display:block;margin-top:120px !important" 
+             onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"></iframe>
     </div>
     <!-- </div> -->
     <!-- </div> -->
@@ -19,7 +20,7 @@
     }
 
     iframe {
-        overflow: hidden;
+        overflow: scroll;
         /* Oculta cualquier scroll en la sección */
     }
 </style>

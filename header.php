@@ -37,5 +37,6 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/blog/wp-load.php');
   </script>
 
 
+
 </head>
 <?php require_once('nav.php'); ?>

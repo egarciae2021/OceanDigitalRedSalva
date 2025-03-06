@@ -3,7 +3,7 @@
     <!-- <div class="row h-100"> -->
     <div class="col-md-12 h-100">
         <iframe id="blog-wp" src="https://www.redsalva.com/blog/?page_id=57" width="150%" height="100%"
-            style="border:none; display:block;margin-top:40px !important" scrolling="no"></iframe>
+            style="border:none; display:block;margin-top:120px !important" scrolling="no"></iframe>
     </div>
     <!-- </div> -->
     <!-- </div> -->

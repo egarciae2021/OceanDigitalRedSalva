@@ -1,4 +1,4 @@
-<section class="py-5  " style="max-height: 350vh;height:100vh">
+<section class="py-5  " style="max-height: 350vh;height:350vh">
     <!-- <div class="container py-4 h-100"> -->
     <!-- <div class="row h-100"> -->
     <div class="col-md-12 h-100">

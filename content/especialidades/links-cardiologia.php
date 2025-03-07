@@ -1,5 +1,4 @@
- 
-<p class="color-azul h5">Enfermedades que trata la especialidad de CARDIOLOGÍA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>CARDIOLOGÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [
@@ -53,8 +52,7 @@
 						<div class="accordion-body" style="padding-top:5px !important">
 							<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover <?php if ($page == $enfermedad['href']) {
 								echo 'active';
-							} ?>"
-								href="">
+							} ?>" href="">
 								<?= $enfermedad['contenido'] ?>
 							</p>
 						</div>

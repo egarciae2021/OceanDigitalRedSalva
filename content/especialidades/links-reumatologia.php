@@ -1,4 +1,4 @@
-<p class="color-azul h5">Enfermedades que trata la especialidad de REUMATOLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>REUMATOLOGÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [

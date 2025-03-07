@@ -1,4 +1,4 @@
-<p class="color-azul h5">Enfermedades que trata la especialidad de NEUMOLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>NEUMOLOGÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [
@@ -6,11 +6,6 @@
 			'nombre' => 'Asma bronquial',
 			'contenido' => 'El asma es una afección que provoca dificultad para respirar debido a la inflamación y estrechamiento de las vías respiratorias. En Red Salva, le ofrecemos diagnóstico y tratamiento para controlar los síntomas y mejorar su calidad de vida.',
 			'href' => '/especialidades/neumologia/asma-bronquial'
-		],
-		[
-			'nombre' => 'Patología Pulmonar Infecciosa',
-			'contenido' => 'Las infecciones pulmonares, como la neumonía o la tuberculosis, afectan los pulmones y pueden causar tos, fiebre y dificultad para respirar. En Red Salva, brindamos tratamiento especializado para eliminar la infección y mejorar su salud respiratoria.',
-			'href' => '/especialidades/neumologia/patologia-pulmonar-infecciosa'
 		],
 		[
 			'nombre' => 'Cáncer de pulmón',
@@ -21,6 +16,11 @@
 			'nombre' => 'Enfermedad Pulmonar Obstructiva Crónica EPOC',
 			'contenido' => 'La EPOC es una afección progresiva que dificulta la respiración, generalmente causada por el tabaquismo. En nuestra clínica, trabajamos en el manejo de los síntomas para mejorar la función pulmonar y la calidad de vida a largo plazo.',
 			'href' => '/especialidades/neumologia/enfermedad-pulmonar-obstructiva-cronica'
+		],
+		[
+			'nombre' => 'Patología Pulmonar Infecciosa y sus complicaciones',
+			'contenido' => 'Las infecciones pulmonares, como la neumonía o la tuberculosis, afectan los pulmones y pueden causar tos, fiebre y dificultad para respirar. En Red Salva, brindamos tratamiento especializado para eliminar la infección y mejorar su salud respiratoria.',
+			'href' => '/especialidades/neumologia/patologia-pulmonar-infecciosa'
 		]
 	];
 

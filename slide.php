@@ -99,7 +99,7 @@
 
 
 
-<div class="carousel-container">
+<div class="carousel-container" style="margin-top:150px !important">
 	<div class="carousel-slide active" style="background-image: url('/images/banner1.png');"></div>
 	<div class="carousel-slide" style="background-image: url('/images/banner2.png');"></div>
 	<div class="carousel-slide" style="background-image: url('/images/banner3.png');"></div>

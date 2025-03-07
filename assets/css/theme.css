@@ -12637,7 +12637,7 @@ textarea.form-control-lg {
     padding-bottom: 3.5rem !important;
   }
   .content-space-b-lg-2 {
-    padding-bottom: 5rem !important;
+    padding-bottom: -1rem !important;
   }
   .content-space-b-lg-3 {
     padding-bottom: 7.5rem !important;

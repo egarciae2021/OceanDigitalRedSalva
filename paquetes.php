@@ -16,7 +16,8 @@
 			<div class="col-md-4 pt-4 pb-8">
 				<a class="card card-transition" href="/servicios/centro-de-vacunacion">
 					<div class="card-pinned">
-						<img class="card-img-top" src="/images/Servicios/Centro de vacunación.svg" alt="Image Description">
+						<img class="card-img-top" src="/images/Servicios/Centro de vacunación.svg"
+							alt="Image Description">
 					</div>
 					<div class="card-body">
 						<h5 class="card-title color-naranja">CENTRO DE VACUNACIÓN</h5>
@@ -44,15 +45,15 @@
 				</a>
 			</div>
 			<div class="col-md-4 pt-4 pb-8">
-				<a class="card card-transition" href="/servicios/imagenes">
+				<a class="card card-transition" href="/servicios/centro-diagnostico-imagenes">
 					<div class="card-pinned">
-						<img class="card-img-top" src="/images/Servicios/Centro de Imágenes.svg" alt="Image Description">
+						<img class="card-img-top" src="/images/Servicios/Centro de Imágenes.svg"
+							alt="Image Description">
 					</div>
 					<div class="card-body">
-						<h5 class="card-title color-naranja">CENTRO DE IMÁGENES</h5>
-						<p>Contamos con tecnología avanzada para ofrecer diagnósticos precisos y confiables. Nuestro
-							equipo de expertos trabaja para brindarte resultados rápidos y
-							seguros.</p> 
+						<h5 class="card-title color-naranja">CENTRO DE DIAGNÓSTICO DE IMÁGENES</h5>
+						<p>Disponemos de tecnología avanzada para diagnósticos precisos y confiables. Nuestro equipo
+							garantiza resultados rápidos y seguros.</p>
 					</div>
 					<div class="card-footer pt-0">
 						<span class="card-link color-azul color-naranja-hover">Leer más</span>

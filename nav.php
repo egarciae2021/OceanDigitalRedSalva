@@ -24,9 +24,12 @@ $menuItems = array(
   // 	'Traumatologìa' => '/especialidades/traumatologia',
   // 	'Urología' => '/especialidades/urologia', 
   // ),
+  'Inicio' => '/',
   'Especialidades' => '/especialidades',
   'Staff médico' => '/staff-medico',
   'Servicios' => '/servicios_detalle',
+  'Promociones' => '/',
+  'Paquetes' => '/',
   // 'Servicios' => array(
   // 	'__enlace__' => '/servicios',
   // 	'Consultas externa' => '/servicios/consultas-externas',
@@ -65,7 +68,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 70,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "LAVADO DE OIDO"
         ]
       },
@@ -73,7 +76,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 120,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "AUDIOMETRÍA"
         ]
       },
@@ -81,7 +84,7 @@ $jsonData = '[
         "nombre": "Paquete 3",
         "precio": 121,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "TIMPANOMETRÍA"
         ]
       },
@@ -89,7 +92,7 @@ $jsonData = '[
         "nombre": "Paquete 4",
         "precio": 120,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "LARINGOSCOPÍA"
         ]
       },
@@ -97,7 +100,7 @@ $jsonData = '[
         "nombre": "Paquete 5",
         "precio": 150,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "LEVANTAMIENTO DE OBSERVACIONES"
         ]
       }
@@ -110,7 +113,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 70,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "RAYOS X"
         ]
       }
@@ -123,7 +126,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 220,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROENCEFALOGRAMA CONVENCIONAL"
         ]
       },
@@ -131,7 +134,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 260,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROENCEFALOGRAMA PROLONGADO"
         ]
       },
@@ -139,7 +142,7 @@ $jsonData = '[
         "nombre": "Paquete 3",
         "precio": 300,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROENCEFALOGRAMA DE 1 HORA"
         ]
       },
@@ -147,7 +150,7 @@ $jsonData = '[
         "nombre": "Paquete 4",
         "precio": 200,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROENCEFALOGRAMA DE 2 MIEMBROS"
         ]
       },
@@ -155,7 +158,7 @@ $jsonData = '[
         "nombre": "Paquete 5",
         "precio": 300,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROENCEFALOGRAMA DE 4 MIEMBROS"
         ]
       },
@@ -217,7 +220,7 @@ $jsonData = '[
           "GLUCOSA",
           "TGO (transaminasa glutámico-oxalacética)",
           "PSA",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -229,7 +232,7 @@ $jsonData = '[
           "GLUCOSA",
           "TGO (transaminasa glutámico-oxalacética)",
           "RAYOS X DE TORAX",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       }
     ]
@@ -241,7 +244,7 @@ $jsonData = '[
         "nombre": "Paquete 1 Adulto Varón 40 años",
         "precio": 75,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "EXAMEN DE ORINA",
           "CREATININA + PSA"
         ]
@@ -250,7 +253,7 @@ $jsonData = '[
         "nombre": "Paquete 2 Adulto Varón 40 años",
         "precio": 75,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "TESTOSTERONA TOTAL",
           "PSA LIBRE",
           "PSA TOTAL"
@@ -260,7 +263,7 @@ $jsonData = '[
         "nombre": "Paquete Integral Adulto",
         "precio": 115,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "PSA TOTAL",
           "ECOGRAFIA URINARIA"
         ]
@@ -274,7 +277,7 @@ $jsonData = '[
         "nombre": "Paquete Preventivo",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "MEDIDA DE VISTA",
           "FONDO DE OJO",
           "TONOMETRIA",
@@ -285,7 +288,7 @@ $jsonData = '[
         "nombre": "Paquete Oftalmológico",
         "precio": 70,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "MEDIDA DE VISTA",
           "FONDO DE OJO"
         ]
@@ -294,7 +297,7 @@ $jsonData = '[
         "nombre": "Paquete Escolar",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "MEDIDA DE VISTA",
           "REFRACCION CICLOPEJICA",
           "FONDO DE OJO",
@@ -315,7 +318,7 @@ $jsonData = '[
           "PARASITOLOGICO",
           "TEST DE GRAHAM",
           "EXAMEN DE ORINA COMPLETA",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       }
     ]
@@ -327,7 +330,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 0,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "TEST DE ALIENTO"
         ]
       },
@@ -335,7 +338,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 0,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ENDOSCOPIA"
         ]
       },
@@ -343,7 +346,7 @@ $jsonData = '[
         "nombre": "Paquete 3",
         "precio": 0,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "COLONOCOPIA"
         ]
       },
@@ -351,7 +354,7 @@ $jsonData = '[
         "nombre": "Paquete 4",
         "precio": 0,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "SIGMOIDOSCOPIA"
         ]
       },
@@ -359,7 +362,7 @@ $jsonData = '[
         "nombre": "Paquete 5",
         "precio": 110,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ECOGRAFIA ABDOMEN"
         ]
       }
@@ -373,7 +376,7 @@ $jsonData = '[
         "precio": 100,
         "servicios": [
           "ECOGRAFIA ABDOMINAL",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -386,7 +389,7 @@ $jsonData = '[
           "HDL",
           "VLDL",
           "GLUCOSA",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       }
     ]
@@ -398,7 +401,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "DENSITOMETRIA"
         ]
       },
@@ -406,7 +409,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 80,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ÁCIDO URICO",
           "HEMOGRAMA",
           "PCR",
@@ -422,7 +425,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "LIMPIEZA FACIAL"
         ]
       },
@@ -430,7 +433,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "PEELING QUIMICO"
         ]
       },
@@ -438,7 +441,7 @@ $jsonData = '[
         "nombre": "Paquete 3",
         "precio": 100,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "CRIOTERAPIA"
         ]
       }
@@ -451,7 +454,7 @@ $jsonData = '[
         "nombre": "Paquete 1",
         "precio": 250,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "TERAPIA FISICA X 6 SESIONES"
         ]
       },
@@ -459,7 +462,7 @@ $jsonData = '[
         "nombre": "Paquete 2",
         "precio": 420,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "TERAPIA FISICA X 10 SESIONES"
         ]
       }
@@ -480,7 +483,7 @@ $jsonData = '[
         "nombre": "Paquete Pareja",
         "precio": 0,
         "servicios": [
-          "4 CONSULTAS"
+          "4 CONSULTAS MÉDICAS"
         ]
       },
       {
@@ -502,7 +505,7 @@ $jsonData = '[
         "precio": 100,
         "servicios": [
           "ESPIROMETRIA",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -510,7 +513,7 @@ $jsonData = '[
         "precio": 120,
         "servicios": [
           "ESPIROMETRIA CON BRONCODILATADOR",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -525,7 +528,7 @@ $jsonData = '[
         "nombre": "Paquete 4",
         "precio": 90,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "RAYOS X DE TORAX"
         ]
       }
@@ -539,7 +542,7 @@ $jsonData = '[
         "precio": 150,
         "servicios": [
           "ESTUDIO DE HOLTER",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -547,7 +550,7 @@ $jsonData = '[
         "precio": 80,
         "servicios": [
           "ELECTROCARDIOGRAMA",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
@@ -555,14 +558,14 @@ $jsonData = '[
         "precio": 120,
         "servicios": [
           "ECOCARDIOGRAMA DOPPLER",
-          "CONSULTA"
+          "CONSULTA MÉDICA"
         ]
       },
       {
         "nombre": "Paquete 4",
         "precio": 90,
         "servicios": [
-          "CONSULTA",
+          "CONSULTA MÉDICA",
           "ELECTROCARDIOGRAMA",
           "COLESTEROL",
           "TRIGLICERIDOS"
@@ -594,22 +597,34 @@ $jsonData = '[
 ]
 ';
 
+$jsonData = json_decode($jsonData, true);
+
+foreach ($jsonData as &$especialidad) {
+  foreach ($especialidad['paquetes'] as &$paquete) {
+    foreach ($paquete['servicios'] as &$servicio) {
+      $servicio = mb_convert_case(mb_strtolower($servicio, 'UTF-8'), MB_CASE_TITLE, 'UTF-8');
+    }
+  }
+}
+
+$jsonData = json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+
+
 $especialidades = json_decode($jsonData, true);
 
 ?>
-
 <header id="header"
   class="navbar navbar-expand-lg navbar-end navbar-shadow navbar-light bg-white navbar-absolute-top navbar-show-hide"
   data-hs-header-options='{
   "fixMoment": 0,
   "fixEffect": "slide"
-}' style="height:10% !important">
-  <div class="container">
-    <nav class="js-mega-menu navbar-nav-wrap">
-      <a class="navbar-brand" href="/" aria-label="Red Salva" style="margin-top:-10px !important">
+}' style="height:10% !important;">
+  <div class="" style="width:100% !important">
+    <nav class="js-mega-menu navbar-nav-wrap" style="margin-left:10% !important">
+      <a class="navbar-brand" href="/" aria-label="Red Salva" style="margin-top:-10px !important;margin-right:5% !important">
         <img class="navbar-brand-logo" src="/images/logo2.png" alt="Red Salva">
       </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-default">
           <i class="fa fa-bars"></i>
@@ -617,10 +632,10 @@ $especialidades = json_decode($jsonData, true);
         <span class="navbar-toggler-toggled">
           <i class="fa fa-close"></i>
         </span>
-      </button>
+      </button> -->
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <div class="navbar-absolute-top-scroller">
-          <ul class="navbar-nav nav-pills w-100 justify-content-center">
+          <ul class="navbar-nav nav-pills w-100 justify-content-center gap-6">
             <?php
             foreach ($menuItems as $label => $link) {
               if (is_array($link)) {
@@ -653,7 +668,8 @@ $especialidades = json_decode($jsonData, true);
                 class="">
                 <!-- <img src="/images/boton_reserva.png" alt="WhatsApp Icon"
                   style="width:150px !important;heigth:250px !important"> -->
-                <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill" style=" font-size: 23px !important;">Reservar cita</span>
+                <span class="btn btn-naranja d-none d-lg-inline-block rounded-pill"
+                  style=" font-size: 23px !important;">Reservar cita</span>
               </a>
             </li>
 
@@ -668,13 +684,14 @@ $especialidades = json_decode($jsonData, true);
   .navbar-nav .nav-link {
     font-size: 25px !important;
   }
+ 
 
   .navbar-brand-logo {
-    width: 200px !important;
-    /* Ajusta el ancho según lo necesario */
-    height: auto !important;
-    /* Mantiene la proporción */
+    max-width: 350px !important;
+    max-height: 200px !important;
+    margin-top: -30px !important;
   }
+
 
   .hs-mega-menu {
     position: absolute;

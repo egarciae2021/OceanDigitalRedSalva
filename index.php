@@ -1053,10 +1053,10 @@ $pageSpecificMetadata = [
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],
-    '/servicios/imagenes' => [
+    '/servicios/centro-diagnostico-imagenes' => [
         'imagen' => 'https://clinicamontesur.com.pe/images/imagenes.webp',
-        'title' => 'Imágenes | Red Salva',
-        'h1' => 'Imágenes',
+        'title' => 'Centro de diagnóstico de imágenes | Red Salva',
+        'h1' => 'Centro de diagnóstico de imágenes',
         'keywords' => $commonMetadata['keywords'],
         'description' => 'DESCRIBIR'
     ],

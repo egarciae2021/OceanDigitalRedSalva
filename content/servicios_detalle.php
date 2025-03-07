@@ -5,7 +5,7 @@ $jsonData = '{
         { "nombre": "Farmacia", "enlace": "/servicios/farmacia", "imagen": "icon-farmacia.png" },
         { "nombre": "Laboratorio clínico", "enlace": "/servicios/laboratorio-clinico", "imagen": "icon-laboratorio.png" },
         { "nombre": "Centro de vacunación", "enlace": "/servicios/centro-de-vacunacion", "imagen": "icon-vacunacion.png" },
-        { "nombre": "Centro de Imágen", "enlace": "/servicios/imagenes", "imagen": "icon-imagenes.png" },
+        { "nombre": "Centro de diagnóstico de imágenes", "enlace": "/servicios/centro-diagnostico-imagenes", "imagen": "icon-imagenes.png" },
         { "nombre": "Tópico Red Salva", "enlace": "/servicios/topico", "imagen": "icon-topico.png" },
         { "nombre": "Laboratorio patológico", "enlace": "/servicios/laboratorio-patologico", "imagen": "icon-laboratorio-patologico.png" }
     ]

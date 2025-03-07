@@ -1,60 +1,60 @@
 <?php
-
 $procedimientos = [
     [
         "nombre" => "Extracción de lunares o verrugas",
-        "contenido" => "En construcción"
+        "contenido" => "Remoción de lesiones cutáneas por razones estéticas o médicas, utilizando bisturí, láser o crioterapia."
     ],
     [
         "nombre" => "Biopsias de piel",
-        "contenido" => "En construcción"
+        "contenido" => "Obtención de una muestra de piel para analizar y diagnosticar enfermedades dermatológicas, incluyendo cáncer de piel."
     ],
     [
         "nombre" => "Cirugía de Mohs",
-        "contenido" => "En construcción"
+        "contenido" => "Técnica quirúrgica de precisión para eliminar cáncer de piel, minimizando el daño a los tejidos sanos."
     ],
     [
         "nombre" => "Fototerapia",
-        "contenido" => "En construcción"
+        "contenido" => "Tratamiento con luz ultravioleta (UV) para enfermedades como psoriasis, vitiligo y dermatitis atópica."
     ],
     [
-        "nombre" => "Peeling Químico",
-        "contenido" => "En construcción"
+        "nombre" => "Peeling químico",
+        "contenido" => "Aplicación de sustancias químicas en la piel para exfoliar y mejorar manchas, arrugas o acné."
     ],
     [
         "nombre" => "Cirugía láser",
-        "contenido" => "En construcción"
+        "contenido" => "Uso de tecnología láser para tratar cicatrices, lesiones vasculares, manchas o arrugas."
     ],
     [
         "nombre" => "Depilación láser",
-        "contenido" => "En construcción"
+        "contenido" => "Eliminación prolongada del vello mediante luz láser que destruye el folículo piloso."
     ],
     [
         "nombre" => "Crioterapia",
-        "contenido" => "En construcción"
+        "contenido" => "Aplicación de frío extremo (nitrógeno líquido) para eliminar verrugas, queratosis y otras lesiones cutáneas."
     ],
     [
         "nombre" => "Infiltraciones",
-        "contenido" => "En construcción"
+        "contenido" => "Aplicación de medicamentos (como corticoides) en la piel para tratar inflamaciones, cicatrices o alopecia."
     ],
     [
         "nombre" => "Eliminación de tatuajes",
-        "contenido" => "En construcción"
+        "contenido" => "Uso de láser para fragmentar los pigmentos del tatuaje y eliminarlos progresivamente."
     ],
     [
         "nombre" => "Dermoabrasión",
-        "contenido" => "En construcción"
+        "contenido" => "Técnica de exfoliación profunda con un dispositivo rotatorio para mejorar cicatrices, arrugas y textura de la piel."
     ],
     [
         "nombre" => "Onicectomía",
-        "contenido" => "En construcción"
+        "contenido" => "Remoción parcial o total de una uña afectada por infecciones, hongos o encarnamiento severo."
     ]
 ];
 
-// Convertir a JSON (opcional)
-$json_procedimientos = json_encode($procedimientos);
+// Convertir a JSON
+$json_procedimientos = json_encode($procedimientos, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 
 ?>
+
 
 <section class="fondo-azul content-space-3  d-block d-md-none">
     <div class="container pt-3 mb-n5">
@@ -115,55 +115,7 @@ $json_procedimientos = json_encode($procedimientos);
     <div class="container">
         <div class="row">
             <div class="col-md-10 offset-lg-1">
-                <p>La Dermatología es la especialidad médica que se dedica al diagnóstico, tratamiento y prevención de
-                    enfermedades de la piel, cabello y uñas. Los dermatólogos tratan una amplia gama de afecciones, como
-                    acné, eczema, psoriasis, infecciones cutáneas, dermatitis y cáncer de piel.</p>
-                <p>Además, realizan procedimientos como biopsias, cirugía dermatológica y tratamientos para
-                    rejuvenecimiento cutáneo.</p>
-                <p>La dermatología no solo aborda enfermedades visibles, sino también afecciones relacionadas con la
-                    salud general, ya que la piel es un reflejo importante del bienestar interno.</p>
 
-                <!-- PROCEDIMIENTOS -->
-                <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
-                            <?php echo strtoupper($h1); ?>
-                        </b></p>
-                    <div class="container">
-                        <div class="row">
-
-                            <?php foreach ($procedimientos as $procedimiento): ?>
-                                <div class="col-md-6">
-                                    <div class="accordion"
-                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed"
-                                                    style="padding: 15px 32px !important" type="button"
-                                                    data-bs-toggle="collapse"
-                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                    aria-expanded="false"
-                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                    <?= $procedimiento["nombre"] ?>
-                                                </button>
-                                            </h2>
-                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                class="accordion-collapse collapse"
-                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                <div class="accordion-body" style="padding-top:5px !important">
-                                                    <?= $procedimiento["contenido"] ?>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            <?php endforeach; ?>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- FIN DE PROCEDIMIENTOS -->
-
-                <?php require_once('links-dermatologia.php'); ?>
 
                 <div class="container py-4">
                     <?php
@@ -177,57 +129,44 @@ $json_procedimientos = json_encode($procedimientos);
                             ?>
 
                             <div class="mb-4">
-                                <!-- Título general (puedes ajustarlo o quitarlo) -->
-                                <h4 class="text-primary mb-3">Paquetes disponibles</h4>
-
+                                <p class="text-primary mb-3">Paquetes disponibles</p>
                                 <div class="row">
                                     <?php foreach ($item['paquetes'] as $paquete): ?>
                                         <div class="col-md-4 mb-3">
-                                            <!-- Tarjeta con esquinas redondeadas -->
                                             <div class="card h-100"
                                                 style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
-
-                                                <!-- Encabezado de la tarjeta con el gradiente -->
-                                                <div style="
-                  background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; 
-                  max-height: 65vh !important; 
-                  position: relative; 
-                  padding: 10px; 
-                  text-align: center;">
+                                                <div class="paquete-header">
                                                     <h5 class="mb-0" style="color: #fff;">
                                                         <?php echo $paquete['nombre']; ?>
                                                     </h5>
                                                 </div>
-
-                                                <!-- Contenido principal -->
                                                 <div class="p-3">
-                                                    <!-- Lista de servicios (con viñetas) -->
-                                                    <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 1rem;">
-                                                        <?php foreach ($paquete['servicios'] as $servicio): ?>
-                                                            <li><?php echo $servicio; ?></li>
+                                                    <ul class="list-unstyled text-center servicio-lista"
+                                                        style="margin-bottom: 1rem;">
+                                                        <?php foreach ($paquete['servicios'] as $index => $servicio): ?>
+                                                            <li class="servicio-item">
+                                                                <?php echo $servicio; ?>
+                                                            </li>
+                                                            <?php if ($index < count($paquete['servicios']) - 1): ?>
+                                                                <li class="servicio-mas">+</li>
+                                                            <?php endif; ?>
                                                         <?php endforeach; ?>
                                                     </ul>
-
-                                                    <!-- Precio en grande, centrado, color principal -->
-                                                    <h5 class="text-center" style="color: #00b59c; font-weight: 600;">
+                                                    <h5 class="text-center precio-total">
                                                         S/ <?php echo number_format($paquete['precio'], 2); ?>
                                                     </h5>
-
-                                                    <!-- Botón Reservar con degradado -->
                                                     <div class="text-center mt-3">
                                                         <a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
-                                                            class="btn"
-                                                            style="background: linear-gradient(to right, #00b59c, #009fff); color: #fff; border: none; border-radius: 20px; padding: 8px 20px;">
+                                                            class="btn btn-reservar">
                                                             Reservar
                                                         </a>
-
                                                     </div>
-                                                </div> <!-- fin .p-3 -->
-                                            </div> <!-- fin .card -->
-                                        </div> <!-- fin .col-md-4 -->
+                                                </div>
+                                            </div>
+                                        </div>
                                     <?php endforeach; ?>
-                                </div> <!-- fin .row -->
-                            </div> <!-- fin .mb-4 -->
+                                </div>
+                            </div>
 
                             <?php
                         endif;
@@ -235,6 +174,63 @@ $json_procedimientos = json_encode($procedimientos);
                     ?>
 
                 </div>
+
+
+                <p>La Dermatología es la especialidad médica que se dedica al diagnóstico, tratamiento y prevención de
+                    enfermedades de la piel, cabello y uñas. Los dermatólogos tratan una amplia gama de afecciones, como
+                    acné, eczema, psoriasis, infecciones cutáneas, dermatitis y cáncer de piel.</p>
+                <p>Además, realizan procedimientos como biopsias, cirugía dermatológica y tratamientos para
+                    rejuvenecimiento cutáneo.</p>
+                <p>La dermatología no solo aborda enfermedades visibles, sino también afecciones relacionadas con la
+                    salud general, ya que la piel es un reflejo importante del bienestar interno.</p>
+
+                <!-- PROCEDIMIENTOS -->
+                <div style="margin:20px 0px !important">
+                    <p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
+                    <div class="container">
+                        <div class="row">
+
+                            <?php foreach ($procedimientos as $procedimiento): ?>
+                                <div class="col-md-6">
+
+                                    <div class="accordion"
+                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed"
+                                                    style="padding: 15px 32px !important" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                    aria-expanded="false"
+                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                    <i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
+                                                </button>
+                                            </h2>
+                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                class="accordion-collapse collapse"
+                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                <div class="accordion-body" style="padding-top:5px !important">
+                                                    <p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
+                                                        href="">
+                                                        <?= $procedimiento['contenido'] ?>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            <?php endforeach; ?>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FIN DE PROCEDIMIENTOS -->
+
+                <?php require_once('links-dermatologia.php'); ?>
+
 
             </div>
         </div>

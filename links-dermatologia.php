@@ -1,4 +1,4 @@
-<p class="color-azul h5">Enfermedades que trata la especialidad de DERMATOLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>DERMATOLOGÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [
@@ -27,15 +27,16 @@
 			'contenido' => 'Es una afección caracterizada por manchas oscuras en la piel, comúnmente en la cara, debido a la exposición al sol o cambios hormonales. En Red Salva, ofrecemos tratamientos para reducir la apariencia de estas manchas y mejorar el tono de su piel.',
 			'href' => '/especialidades/dermatologia/melasma'
 		],
-		[
-			'nombre' => 'Cáncer de piel Melanoma y no melanoma',
-			'contenido' => 'Son tipos de cáncer que afectan la piel y pueden ser peligrosos si no se detectan a tiempo. En nuestra clínica, realizamos evaluaciones regulares y ofrecemos tratamientos para eliminar los cánceres de piel en sus primeras etapas.',
-			'href' => '/especialidades/dermatologia/cancer-de-piel'
-		],
+
 		[
 			'nombre' => 'Infecciones cutáneas',
 			'contenido' => 'Infecciones bacterianas, virales o fúngicas que afectan la piel, causando enrojecimiento, dolor o llagas. Ofrecemos diagnóstico y tratamiento adecuado para erradicar la infección y evitar complicaciones.',
 			'href' => '/especialidades/dermatologia/infecciones-cutaneas'
+		],
+		[
+			'nombre' => 'Cáncer de piel Melanoma y no melanoma',
+			'contenido' => 'Son tipos de cáncer que afectan la piel y pueden ser peligrosos si no se detectan a tiempo. En nuestra clínica, realizamos evaluaciones regulares y ofrecemos tratamientos para eliminar los cánceres de piel en sus primeras etapas.',
+			'href' => '/especialidades/dermatologia/cancer-de-piel'
 		]
 	];
 

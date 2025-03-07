@@ -1,4 +1,4 @@
-<p class="color-azul h5">Enfermedades que trata la especialidad de UROLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>UROLOGÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [

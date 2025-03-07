@@ -2,119 +2,119 @@
 $procedimientos = [
     [
         "nombre" => "Cauterización",
-        "contenido" => ""
+        "contenido" => "La cauterización ginecológica es un procedimiento médico que se realiza para eliminar lesiones en el cuello uterino o verrugas genitales."
     ],
     [
         "nombre" => "Cauterización con nitrato",
-        "contenido" => ""
+        "contenido" => "Aplicación de nitrato de plata para tratar lesiones en el cuello uterino o vagina, favoreciendo la regeneración del tejido."
     ],
     [
         "nombre" => "Ecografía transvaginal",
-        "contenido" => ""
+        "contenido" => "Ultrasonido realizado a través de la vagina para obtener imágenes detalladas del útero, ovarios y otras estructuras pélvicas."
     ],
     [
         "nombre" => "Colocación de DIU",
-        "contenido" => ""
+        "contenido" => "Inserción de un dispositivo intrauterino de cobre u hormonal como método anticonceptivo de larga duración."
     ],
     [
         "nombre" => "Colposcopia",
-        "contenido" => ""
+        "contenido" => "Examen con un colposcopio (microscopio especializado) para observar el cuello uterino y detectar posibles lesiones o infecciones."
     ],
     [
         "nombre" => "Cono LEEP",
-        "contenido" => ""
+        "contenido" => "Procedimiento de escisión electroquirúrgica con asa para remover tejido anormal del cuello uterino en casos de displasia o lesiones precancerosas."
     ],
     [
         "nombre" => "Ameu",
-        "contenido" => ""
-    ],
-    [
-        "nombre" => "Drenaje y curación de hematoma vulvar",
-        "contenido" => ""
+        "contenido" => "Método utilizado para evacuar el contenido del útero en casos de aborto incompleto, sangrados anormales o estudios diagnósticos."
     ],
     [
         "nombre" => "Ecografía Doppler 4d",
-        "contenido" => ""
+        "contenido" => "Ultrasonido avanzado que permite visualizar imágenes en movimiento del feto en tiempo real y evaluar su circulación sanguínea."
     ],
     [
         "nombre" => "Ecografía Doppler ovárica",
-        "contenido" => ""
+        "contenido" => "Examen para estudiar el flujo sanguíneo en los ovarios y detectar alteraciones vasculares o problemas de fertilidad."
     ],
     [
         "nombre" => "Ecografía Doppler uterina",
-        "contenido" => ""
+        "contenido" => "Evaluación del flujo sanguíneo en el útero, útil en el control del embarazo y en estudios de infertilidad."
     ],
     [
-        "nombre" => "Ecografía Doppler útero + ovario",
-        "contenido" => ""
+        "nombre" => "Ecografía Doppler útero - ovario",
+        "contenido" => "Análisis combinado del flujo sanguíneo en el útero y ovarios para evaluar su función y salud vascular."
     ],
     [
         "nombre" => "Ecografía de mama",
-        "contenido" => ""
+        "contenido" => "Estudio por ultrasonido del tejido mamario para detectar quistes, tumores u otras anomalías."
     ],
     [
         "nombre" => "Ecografía morforfológica Doppler",
-        "contenido" => ""
+        "contenido" => "Evaluación detallada del desarrollo fetal y de su sistema circulatorio, permitiendo detectar anomalías congénitas."
     ],
     [
         "nombre" => "Ecografía obstétrica Doppler",
-        "contenido" => ""
+        "contenido" => "Estudio de la circulación sanguínea en la placenta y el feto para monitorear su bienestar y desarrollo."
     ],
     [
         "nombre" => "Ecografía pélvica",
-        "contenido" => ""
+        "contenido" => "Ultrasonido realizado externamente sobre el abdomen para examinar órganos pélvicos como el útero, ovarios y vejiga."
     ],
     [
         "nombre" => "Ecografía perfil biofísico",
-        "contenido" => ""
+        "contenido" => "Evaluación del bienestar fetal mediante la observación de movimientos, respiración, tono muscular y cantidad de líquido amniótico."
     ],
     [
         "nombre" => "Ecografía transvaginal Doppler",
-        "contenido" => ""
+        "contenido" => "Examen que combina ultrasonido transvaginal con Doppler para evaluar la vascularización de los órganos reproductivos internos."
     ],
     [
         "nombre" => "Ecografía 4D gemelar",
-        "contenido" => ""
+        "contenido" => "Ultrasonido tridimensional en tiempo real para la evaluación de embarazos múltiples, permitiendo una observación detallada de los fetos."
     ],
     [
         "nombre" => "Ecografía genética",
-        "contenido" => ""
+        "contenido" => "Ultrasonido especializado para detectar posibles anomalías cromosómicas o estructurales en el feto."
     ],
     [
         "nombre" => "Ecografía obstétrica gemelar",
-        "contenido" => ""
+        "contenido" => "Seguimiento del desarrollo de gemelos en el embarazo, monitoreando su crecimiento y bienestar."
     ],
     [
         "nombre" => "Ecografía obstétrica",
-        "contenido" => ""
+        "contenido" => "Evaluación del desarrollo del bebé durante el embarazo, permitiendo observar su tamaño, movimientos y estado de salud."
     ],
     [
         "nombre" => "Electro cauterización cervical",
-        "contenido" => ""
+        "contenido" => "Uso de corriente eléctrica para eliminar lesiones en el cuello uterino y prevenir su progresión."
     ],
     [
         "nombre" => "Exeresis de pólipo cervical",
-        "contenido" => ""
+        "contenido" => "Extracción quirúrgica de pólipos benignos en el cuello uterino para evitar síntomas como sangrado anormal o molestias."
     ],
     [
         "nombre" => "Exeresis de tumoración vulvar",
-        "contenido" => ""
+        "contenido" => "Remoción quirúrgica de masas o tumores en la vulva, que pueden ser benignos o malignos."
     ],
     [
         "nombre" => "Exeresis de fibroadenoma de mama",
-        "contenido" => ""
+        "contenido" => "Cirugía para extraer un fibroadenoma, un tumor benigno frecuente en el tejido mamario."
     ],
     [
         "nombre" => "Histerosonografía",
-        "contenido" => ""
+        "contenido" => "Ultrasonido con la inyección de solución salina en el útero para evaluar su cavidad y detectar pólipos, miomas o adherencias."
     ],
     [
         "nombre" => "Marsupializacion de Bartolino",
-        "contenido" => ""
+        "contenido" => "Procedimiento quirúrgico para drenar quistes de la glándula de Bartolino y prevenir su recurrencia."
     ],
     [
         "nombre" => "Monitoreo ovulatorio",
-        "contenido" => ""
+        "contenido" => "Seguimiento ecográfico del crecimiento folicular y la ovulación, útil en tratamientos de fertilidad."
+    ],
+    [
+        "nombre" => "Drenaje y curación de hematoma vulvar",
+        "contenido" => "Procedimiento en el que se extrae sangre acumulada en la vulva debido a un traumatismo o complicación vascular, aliviando el dolor y reduciendo la inflamación."
     ]
 ];
 
@@ -181,53 +181,6 @@ $json_procedimientos = json_encode($procedimientos);
     <div class="container">
         <div class="row">
             <div class="col-md-10 offset-lg-1">
-                <p>La Ginecología es la especialidad médica que se ocupa de la salud del sistema reproductivo femenino,
-                    incluyendo el diagnóstico, tratamiento y prevención de enfermedades en los órganos reproductivos,
-                    como el útero, ovarios y vagina.</p>
-                <p>Los ginecólogos realizan exámenes rutinarios, gestionan problemas como infecciones, trastornos
-                    menstruales, y enfermedades como el cáncer ginecológico, además de brindar atención en temas de
-                    fertilidad, anticoncepción y salud sexual.</p>
-
-
-                <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE
-                            <?php echo strtoupper($h1); ?></b></p>
-                    <div class="container">
-                        <div class="row">
-
-                            <?php foreach ($procedimientos as $procedimiento): ?>
-                                <div class="col-md-6">
-                                    <div class="accordion"
-                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse"
-                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                    aria-expanded="false"
-                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                    <?= $procedimiento["nombre"] ?>
-                                                </button>
-                                            </h2>
-                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                class="accordion-collapse collapse"
-                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                <div class="accordion-body">
-                                                    <?= $procedimiento["contenido"] ?>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            <?php endforeach; ?>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <?php require_once('links-ginecologia.php'); ?>
 
                 <div class="container py-4">
                     <?php
@@ -241,57 +194,44 @@ $json_procedimientos = json_encode($procedimientos);
                             ?>
 
                             <div class="mb-4">
-                                <!-- Título general (puedes ajustarlo o quitarlo) -->
-                                <h4 class="text-primary mb-3">Paquetes disponibles</h4>
-
+                                <p class="color-azul h5 mb-3">Paquetes disponibles</p>
                                 <div class="row">
                                     <?php foreach ($item['paquetes'] as $paquete): ?>
                                         <div class="col-md-4 mb-3">
-                                            <!-- Tarjeta con esquinas redondeadas -->
                                             <div class="card h-100"
                                                 style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
-
-                                                <!-- Encabezado de la tarjeta con el gradiente -->
-                                                <div style="
-                  background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; 
-                  max-height: 65vh !important; 
-                  position: relative; 
-                  padding: 10px; 
-                  text-align: center;">
+                                                <div class="paquete-header">
                                                     <h5 class="mb-0" style="color: #fff;">
                                                         <?php echo $paquete['nombre']; ?>
                                                     </h5>
                                                 </div>
-
-                                                <!-- Contenido principal -->
                                                 <div class="p-3">
-                                                    <!-- Lista de servicios (con viñetas) -->
-                                                    <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 1rem;">
-                                                        <?php foreach ($paquete['servicios'] as $servicio): ?>
-                                                            <li><?php echo $servicio; ?></li>
+                                                    <ul class="list-unstyled text-center servicio-lista"
+                                                        style="margin-bottom: 1rem;">
+                                                        <?php foreach ($paquete['servicios'] as $index => $servicio): ?>
+                                                            <li class="servicio-item">
+                                                                <?php echo $servicio; ?>
+                                                            </li>
+                                                            <?php if ($index < count($paquete['servicios']) - 1): ?>
+                                                                <li class="servicio-mas">+</li>
+                                                            <?php endif; ?>
                                                         <?php endforeach; ?>
                                                     </ul>
-
-                                                    <!-- Precio en grande, centrado, color principal -->
-                                                    <h5 class="text-center" style="color: #00b59c; font-weight: 600;">
+                                                    <h5 class="text-center precio-total">
                                                         S/ <?php echo number_format($paquete['precio'], 2); ?>
                                                     </h5>
-
-                                                    <!-- Botón Reservar con degradado -->
                                                     <div class="text-center mt-3">
                                                         <a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
-                                                            class="btn"
-                                                            style="background: linear-gradient(to right, #00b59c, #009fff); color: #fff; border: none; border-radius: 20px; padding: 8px 20px;">
+                                                            class="btn btn-reservar">
                                                             Reservar
                                                         </a>
-
                                                     </div>
-                                                </div> <!-- fin .p-3 -->
-                                            </div> <!-- fin .card -->
-                                        </div> <!-- fin .col-md-4 -->
+                                                </div>
+                                            </div>
+                                        </div>
                                     <?php endforeach; ?>
-                                </div> <!-- fin .row -->
-                            </div> <!-- fin .mb-4 -->
+                                </div>
+                            </div>
 
                             <?php
                         endif;
@@ -299,6 +239,61 @@ $json_procedimientos = json_encode($procedimientos);
                     ?>
 
                 </div>
+
+                <p>La Ginecología es la especialidad médica que se ocupa de la salud del sistema reproductivo femenino,
+                    incluyendo el diagnóstico, tratamiento y prevención de enfermedades en los órganos reproductivos,
+                    como el útero, ovarios y vagina.</p>
+                <p>Los ginecólogos realizan exámenes rutinarios, gestionan problemas como infecciones, trastornos
+                    menstruales, y enfermedades como el cáncer ginecológico, además de brindar atención en temas de
+                    fertilidad, anticoncepción y salud sexual.</p>
+
+
+                <div style="margin:20px 0px !important">
+                    <p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
+                    <div class="container">
+                        <div class="row">
+
+                            <?php foreach ($procedimientos as $procedimiento): ?>
+                                <div class="col-md-6">
+
+                                    <div class="accordion"
+                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed"
+                                                    style="padding: 15px 32px !important" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                    aria-expanded="false"
+                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                    <i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
+                                                </button>
+                                            </h2>
+                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                class="accordion-collapse collapse"
+                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                <div class="accordion-body" style="padding-top:5px !important">
+                                                    <p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
+                                                        href="">
+                                                        <?= $procedimiento['contenido'] ?>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            <?php endforeach; ?>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <?php require_once('links-ginecologia.php'); ?>
+
             </div>
         </div>
     </div>

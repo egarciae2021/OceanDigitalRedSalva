@@ -1,4 +1,4 @@
-<p class="color-azul h5">Enfermedades que trata la especialidad de UROLOGIA</p>
+<p class="color-azul h5">Enfermedades que trata la especialidad de <b>PEDIATRÍA</b></p>
 <div class="row">
 	<?php
 	$enfermedades = [
@@ -23,12 +23,12 @@
 			'href' => '/especialidades/pediatria/meningitis'
 		],
 		[
-			'nombre' => 'Enfermedades infecciosas comunes como varicela, paperas y sarampión',
+			'nombre' => 'Infecciones comunes  varicela paperas sarampión',
 			'contenido' => 'Son enfermedades contagiosas que afectan principalmente a los niños. En nuestra clínica, ofrecemos vacunas preventivas y tratamiento para aliviar los síntomas en caso de infección.',
 			'href' => '/especialidades/pediatria/enfermedades-infecciosas-comunes'
 		],
 		[
-			'nombre' => 'Trastornos de desarrollo',
+			'nombre' => 'Trastorno del desarrollo infantil y sus implicaciones',
 			'contenido' => 'Incluyen condiciones como el autismo o retraso en el habla. En Red Salva, ofrecemos seguimiento y terapia para apoyar el desarrollo de su hijo, promoviendo su bienestar y habilidades sociales.',
 			'href' => '/especialidades/pediatria/trastornos-de-desarrollo'
 		],

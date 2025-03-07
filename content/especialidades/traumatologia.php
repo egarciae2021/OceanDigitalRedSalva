@@ -58,14 +58,6 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
-				<p>En Red Salva, la especialidad de Traumatología se enfoca en el diagnóstico, tratamiento y
-					rehabilitación de lesiones y enfermedades del sistema musculoesquelético. Atendemos fracturas,
-					esguinces, lesiones deportivas, artritis y otros trastornos que afectan huesos, músculos y
-					articulaciones.
-				</p>
-				<p>Nuestro equipo de especialistas utiliza tecnología avanzada y tratamientos personalizados para
-					ayudarte a recuperar movilidad, aliviar el dolor y mejorar tu calidad de vida. En Red Salva, estamos
-					comprometidos con tu bienestar y te acompañamos en cada paso de tu recuperación. </p>
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -78,57 +70,44 @@
 							?>
 
 							<div class="mb-4">
-								<!-- Título general (puedes ajustarlo o quitarlo) -->
-								<h4 class="text-primary mb-3">Paquetes disponibles</h4>
-
+								<p class="color-azul h5 mb-3">Paquetes disponibles</p>
 								<div class="row">
 									<?php foreach ($item['paquetes'] as $paquete): ?>
 										<div class="col-md-4 mb-3">
-											<!-- Tarjeta con esquinas redondeadas -->
 											<div class="card h-100"
 												style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
-
-												<!-- Encabezado de la tarjeta con el gradiente -->
-												<div style="
-				  background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; 
-				  max-height: 65vh !important; 
-				  position: relative; 
-				  padding: 10px; 
-				  text-align: center;">
+												<div class="paquete-header">
 													<h5 class="mb-0" style="color: #fff;">
 														<?php echo $paquete['nombre']; ?>
 													</h5>
 												</div>
-
-												<!-- Contenido principal -->
 												<div class="p-3">
-													<!-- Lista de servicios (con viñetas) -->
-													<ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 1rem;">
-														<?php foreach ($paquete['servicios'] as $servicio): ?>
-															<li><?php echo $servicio; ?></li>
+													<ul class="list-unstyled text-center servicio-lista"
+														style="margin-bottom: 1rem;">
+														<?php foreach ($paquete['servicios'] as $index => $servicio): ?>
+															<li class="servicio-item">
+																<?php echo $servicio; ?>
+															</li>
+															<?php if ($index < count($paquete['servicios']) - 1): ?>
+																<li class="servicio-mas">+</li>
+															<?php endif; ?>
 														<?php endforeach; ?>
 													</ul>
-
-													<!-- Precio en grande, centrado, color principal -->
-													<h5 class="text-center" style="color: #00b59c; font-weight: 600;">
+													<h5 class="text-center precio-total">
 														S/ <?php echo number_format($paquete['precio'], 2); ?>
 													</h5>
-
-													<!-- Botón Reservar con degradado -->
 													<div class="text-center mt-3">
 														<a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
-															class="btn"
-															style="background: linear-gradient(to right, #00b59c, #009fff); color: #fff; border: none; border-radius: 20px; padding: 8px 20px;">
+															class="btn btn-reservar">
 															Reservar
 														</a>
-
 													</div>
-												</div> <!-- fin .p-3 -->
-											</div> <!-- fin .card -->
-										</div> <!-- fin .col-md-4 -->
+												</div>
+											</div>
+										</div>
 									<?php endforeach; ?>
-								</div> <!-- fin .row -->
-							</div> <!-- fin .mb-4 -->
+								</div>
+							</div>
 
 							<?php
 						endif;
@@ -136,6 +115,16 @@
 					?>
 
 				</div>
+
+				<p>En Red Salva, la especialidad de Traumatología se enfoca en el diagnóstico, tratamiento y
+					rehabilitación de lesiones y enfermedades del sistema musculoesquelético. Atendemos fracturas,
+					esguinces, lesiones deportivas, artritis y otros trastornos que afectan huesos, músculos y
+					articulaciones.
+				</p>
+				<p>Nuestro equipo de especialistas utiliza tecnología avanzada y tratamientos personalizados para
+					ayudarte a recuperar movilidad, aliviar el dolor y mejorar tu calidad de vida. En Red Salva, estamos
+					comprometidos con tu bienestar y te acompañamos en cada paso de tu recuperación. </p>
+
 			</div>
 		</div>
 	</div>

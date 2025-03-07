@@ -2,51 +2,51 @@
 $procedimientos = [
 	[
 		"nombre" => "Terapia física x 1 sesión",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física x 3 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física x 6 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física x 10 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física doble sesión adulto x 1",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física doble sesión adulto x 5",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física neurológica x 1 sesión",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia física neurológica x 10 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 1 sesión",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 6 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Terapia pediátrica x 12 sesiones",
-		"contenido" => "En construcción"
+		"contenido" => "La terapia varía según la indicación médica"
 	],
 	[
 		"nombre" => "Magnetoterapia",
-		"contenido" => "En construcción"
+		"contenido" => "Tratamiento que utiliza campos magnéticos de baja frecuencia para estimular la regeneración de tejidos, reducir la inflamación y aliviar el dolor en afecciones musculoesqueléticas como artritis, fracturas y lesiones musculares."
 	]
 ];
 
@@ -124,34 +124,40 @@ $json_procedimientos = json_encode($procedimientos);
 					actividades diarias y prevenir complicaciones.</p>
 
 				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">LE BRINDRAMOS LOS SIGUIENTES <b>PROCEDIMIENTOS DE MEDICINA FISICA Y
-							REHABILITACION</b></p>
+					<p class="color-azul h5">Procedimientos de <b>MEDICINA FÍSICA Y
+							REHABILITACIÓN</b></p>
 					<div class="container">
 						<div class="row">
 
 							<?php foreach ($procedimientos as $procedimiento): ?>
 								<div class="col-md-6">
+
 									<div class="accordion"
 										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
 										<div class="accordion-item">
 											<h2 class="accordion-header">
-												<button class="accordion-button collapsed" type="button"
+												<button class="accordion-button collapsed"
+													style="padding: 15px 32px !important" type="button"
 													data-bs-toggle="collapse"
 													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
 													aria-expanded="false"
 													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-													<?= $procedimiento["nombre"] ?>
+													<i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
 												</button>
 											</h2>
 											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
 												class="accordion-collapse collapse"
 												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body">
-													<?= $procedimiento["contenido"] ?>
+												<div class="accordion-body" style="padding-top:5px !important">
+													<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
+														href="">
+														<?= $procedimiento['contenido'] ?>
+													</p>
 												</div>
 											</div>
 										</div>
 									</div>
+
 								</div>
 							<?php endforeach; ?>
 

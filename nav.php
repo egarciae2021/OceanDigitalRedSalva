@@ -618,9 +618,9 @@ $especialidades = json_decode($jsonData, true);
   data-hs-header-options='{
   "fixMoment": 0,
   "fixEffect": "slide"
-}' style="height:10% !important;">
+}' style="height:20% !important;">
   <div class="" style="width:100% !important">
-    <nav class="js-mega-menu navbar-nav-wrap" style="margin-left:10% !important">
+    <nav class="js-mega-menu navbar-nav-wrap" style="margin-left:15% !important">
       <a class="navbar-brand" href="/" aria-label="Red Salva" style="margin-top:-10px !important;margin-right:5% !important">
         <img class="navbar-brand-logo" src="/images/logo2.png" alt="Red Salva">
       </a>

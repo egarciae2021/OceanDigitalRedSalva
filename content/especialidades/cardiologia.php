@@ -1,49 +1,4 @@
-<?php
 
-$procedimientos = [
-	[
-		"nombre" => "Riesgo Quirúrgico",
-		"contenido" => "El riesgo quirúrgico es la posibilidad de complicaciones durante o después de la cirugía. Evaluamos su salud para minimizar estos riesgos y asegurar una cirugía segura."
-	],
-	[
-		"nombre" => "Prueba de Esfuerzo",
-		"contenido" => "La prueba de esfuerzo mide cómo responde su corazón al ejercicio, ayudándonos a detectar posibles problemas cardíacos. Durante la prueba, se monitorizan su ritmo cardíaco y otros signos mientras realiza ejercicio físico."
-	],
-	[
-		"nombre" => "Estudio de Mapa 24 horas",
-		"contenido" => "El estudio de mapa (24 horas) consiste en llevar un monitor portátil que registra su ritmo cardíaco durante todo un día. Esto nos ayuda a detectar irregularidades o problemas cardíacos que puedan ocurrir en su actividad diaria."
-	],
-	[
-		"nombre" => "Estudio de Holter 24 horas",
-		"contenido" => "El estudio de Holter (24 horas) es un monitoreo continuo de su ritmo cardíaco durante un día completo, utilizando un pequeño dispositivo que se coloca en su pecho. Esto nos permite detectar irregularidades cardíacas mientras realiza sus actividades cotidianas."
-	],
-	[
-		"nombre" => "Electrocardiograma",
-		"contenido" => "El electrocardiograma (ECG) es un examen rápido y no invasivo que mide la actividad eléctrica de su corazón. Nos ayuda a detectar problemas como arritmias, infartos o alteraciones en el ritmo cardíaco."
-	],
-	[
-		"nombre" => "Ecocardiograma Doppler",
-		"contenido" => "El ecocardiograma Doppler es un examen no invasivo que utiliza ondas sonoras para observar cómo fluye la sangre a través de su corazón. Nos ayuda a detectar problemas en las válvulas o el flujo sanguíneo."
-	],
-	[
-		"nombre" => "Eco Doppler Venoso MMII",
-		"contenido" => "El Eco Doppler venoso de miembros inferiores es un examen no invasivo que utiliza ultrasonido para evaluar el flujo sanguíneo en las venas de sus piernas. Nos ayuda a detectar problemas como varices o trombosis."
-	],
-	[
-		"nombre" => "Eco Doppler Arterial MMII",
-		"contenido" => "El Eco Doppler arterial de miembros inferiores es un examen no invasivo que utiliza ultrasonido para evaluar el flujo sanguíneo en las arterias de sus piernas. Nos ayuda a detectar problemas como obstrucciones o insuficiencia arterial."
-	],
-	[
-		"nombre" => "Eco Doppler Carotideo y Vertebral",
-		"contenido" => "El Eco Doppler carotideo y vertebral es un examen no invasivo que usa ultrasonido para evaluar el flujo sanguíneo en las arterias del cuello y la cabeza. Nos ayuda a detectar posibles obstrucciones o problemas en el suministro de sangre al cerebro."
-	]
-];
-
-
-// Convertir a JSON (opcional)
-$json_procedimientos = json_encode($procedimientos);
-
-?>
 
 
 <section class="fondo-azul content-space-3  d-block d-md-none">
@@ -180,7 +135,7 @@ $json_procedimientos = json_encode($procedimientos);
 					<div class="container">
 						<div class="row">
 
-							<?php foreach ($procedimientos as $procedimiento): ?>
+							<?php foreach ($procedimientos_cardiologia as $procedimiento): ?>
 								<div class="col-md-6">
 
 									<div class="accordion"

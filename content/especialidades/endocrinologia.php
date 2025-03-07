@@ -1,20 +1,4 @@
-<?php
-$procedimientos = [
-	[
-		"nombre" => "Bioimpedancia x 1 sesión",
-		"contenido" => "En construcción"
-	],
-	[
-		"nombre" => "Bioimpedancia x 3 sesiones",
-		"contenido" => "En construcción"
-	]
-];
 
-
-// Convertir a JSON (opcional)
-$json_procedimientos = json_encode($procedimientos);
-
-?>
 
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
@@ -145,7 +129,7 @@ $json_procedimientos = json_encode($procedimientos);
 					<div class="container">
 						<div class="row">
 
-							<?php foreach ($procedimientos as $procedimiento): ?>
+							<?php foreach ($procedimientos_endocrinologia as $procedimiento): ?>
 								<div class="col-md-6">
 									<div class="accordion"
 										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">

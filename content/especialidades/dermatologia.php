@@ -1,61 +1,4 @@
-<?php
-$procedimientos = [
-    [
-        "nombre" => "Extracción de lunares o verrugas",
-        "contenido" => "Remoción de lesiones cutáneas por razones estéticas o médicas, utilizando bisturí, láser o crioterapia."
-    ],
-    [
-        "nombre" => "Biopsias de piel",
-        "contenido" => "Obtención de una muestra de piel para analizar y diagnosticar enfermedades dermatológicas, incluyendo cáncer de piel."
-    ],
-    [
-        "nombre" => "Cirugía de Mohs",
-        "contenido" => "Técnica quirúrgica de precisión para eliminar cáncer de piel, minimizando el daño a los tejidos sanos."
-    ],
-    [
-        "nombre" => "Fototerapia",
-        "contenido" => "Tratamiento con luz ultravioleta (UV) para enfermedades como psoriasis, vitiligo y dermatitis atópica."
-    ],
-    [
-        "nombre" => "Peeling químico",
-        "contenido" => "Aplicación de sustancias químicas en la piel para exfoliar y mejorar manchas, arrugas o acné."
-    ],
-    [
-        "nombre" => "Cirugía láser",
-        "contenido" => "Uso de tecnología láser para tratar cicatrices, lesiones vasculares, manchas o arrugas."
-    ],
-    [
-        "nombre" => "Depilación láser",
-        "contenido" => "Eliminación prolongada del vello mediante luz láser que destruye el folículo piloso."
-    ],
-    [
-        "nombre" => "Crioterapia",
-        "contenido" => "Aplicación de frío extremo (nitrógeno líquido) para eliminar verrugas, queratosis y otras lesiones cutáneas."
-    ],
-    [
-        "nombre" => "Infiltraciones",
-        "contenido" => "Aplicación de medicamentos (como corticoides) en la piel para tratar inflamaciones, cicatrices o alopecia."
-    ],
-    [
-        "nombre" => "Eliminación de tatuajes",
-        "contenido" => "Uso de láser para fragmentar los pigmentos del tatuaje y eliminarlos progresivamente."
-    ],
-    [
-        "nombre" => "Dermoabrasión",
-        "contenido" => "Técnica de exfoliación profunda con un dispositivo rotatorio para mejorar cicatrices, arrugas y textura de la piel."
-    ],
-    [
-        "nombre" => "Onicectomía",
-        "contenido" => "Remoción parcial o total de una uña afectada por infecciones, hongos o encarnamiento severo."
-    ]
-];
-
-// Convertir a JSON
-$json_procedimientos = json_encode($procedimientos, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
-
-?>
-
-
+ 
 <section class="fondo-azul content-space-3  d-block d-md-none">
     <div class="container pt-3 mb-n5">
         <div class="row">
@@ -190,7 +133,7 @@ $json_procedimientos = json_encode($procedimientos, JSON_PRETTY_PRINT | JSON_UNE
                     <div class="container">
                         <div class="row">
 
-                            <?php foreach ($procedimientos as $procedimiento): ?>
+                            <?php foreach ($procedimientos_dermatologia as $procedimiento): ?>
                                 <div class="col-md-6">
 
                                     <div class="accordion"

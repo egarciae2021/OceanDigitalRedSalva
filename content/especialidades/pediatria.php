@@ -58,6 +58,17 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 
+
+				<p>La Pediatría es la especialidad médica que se encarga de la salud de los niños, desde el nacimiento
+					hasta la adolescencia.</p>
+				<p>Se ocupa del diagnóstico, tratamiento y prevención de enfermedades, así como del desarrollo físico,
+					emocional y social infantil.</p>
+				<p>Los pediatras gestionan condiciones comunes y complejas, promueven la salud mediante vacunas y
+					consejos de nutrición, y abordan aspectos emocionales y psicológicos del niño, trabajando
+					estrechamente con las familias.</p>
+
+				<?php require_once('links-pediatria.php'); ?>
+
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -115,17 +126,6 @@
 					?>
 
 				</div>
-
-				<p>La Pediatría es la especialidad médica que se encarga de la salud de los niños, desde el nacimiento
-					hasta la adolescencia.</p>
-				<p>Se ocupa del diagnóstico, tratamiento y prevención de enfermedades, así como del desarrollo físico,
-					emocional y social infantil.</p>
-				<p>Los pediatras gestionan condiciones comunes y complejas, promueven la salud mediante vacunas y
-					consejos de nutrición, y abordan aspectos emocionales y psicológicos del niño, trabajando
-					estrechamente con las familias.</p>
-
-				<?php require_once('links-pediatria.php'); ?>
-
 			</div>
 
 		</div>

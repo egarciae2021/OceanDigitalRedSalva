@@ -58,6 +58,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
+
+
+				<p>En Red Salva, la especialidad de Traumatología se enfoca en el diagnóstico, tratamiento y
+					rehabilitación de lesiones y enfermedades del sistema musculoesquelético. Atendemos fracturas,
+					esguinces, lesiones deportivas, artritis y otros trastornos que afectan huesos, músculos y
+					articulaciones.
+				</p>
+				<p>Nuestro equipo de especialistas utiliza tecnología avanzada y tratamientos personalizados para
+					ayudarte a recuperar movilidad, aliviar el dolor y mejorar tu calidad de vida. En Red Salva, estamos
+					comprometidos con tu bienestar y te acompañamos en cada paso de tu recuperación. </p>
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -115,16 +125,6 @@
 					?>
 
 				</div>
-
-				<p>En Red Salva, la especialidad de Traumatología se enfoca en el diagnóstico, tratamiento y
-					rehabilitación de lesiones y enfermedades del sistema musculoesquelético. Atendemos fracturas,
-					esguinces, lesiones deportivas, artritis y otros trastornos que afectan huesos, músculos y
-					articulaciones.
-				</p>
-				<p>Nuestro equipo de especialistas utiliza tecnología avanzada y tratamientos personalizados para
-					ayudarte a recuperar movilidad, aliviar el dolor y mejorar tu calidad de vida. En Red Salva, estamos
-					comprometidos con tu bienestar y te acompañamos en cada paso de tu recuperación. </p>
-
 			</div>
 		</div>
 	</div>

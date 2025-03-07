@@ -85,6 +85,50 @@ $json_procedimientos = json_encode($procedimientos);
         <div class="row">
             <div class="col-md-10 offset-lg-1">
 
+
+
+                <p>La Neumología es la especialidad médica que se ocupa del diagnóstico, tratamiento y prevención de
+                    enfermedades del sistema respiratorio, como el asma, la neumonía, la EPOC (enfermedad pulmonar
+                    obstructiva crónica) y los trastornos del sueño relacionados con la respiración.</p>
+                <p>Los neumólogos se centran en las afecciones de los pulmones y vías respiratorias, ayudando a mejorar
+                    la función pulmonar y la calidad de vida de los pacientes.</p>
+
+                <div style="margin:20px 0px !important">
+                    <p class="color-azul h5">Procedimientos de <b>NEUMOLOGÍA</b></p>
+                    <div class="container">
+                        <div class="row">
+
+                            <?php foreach ($procedimientos as $procedimiento): ?>
+                                <div class="col-md-6">
+                                    <div class="accordion"
+                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                    aria-expanded="false"
+                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                    <?= $procedimiento["nombre"] ?>
+                                                </button>
+                                            </h2>
+                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                class="accordion-collapse collapse"
+                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                <div class="accordion-body">
+                                                    <?= $procedimiento["contenido"] ?>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+
+                        </div>
+                    </div>
+                </div>
+                <?php require_once('links-neumologia.php'); ?>
+
                 <div class="container py-4">
                     <?php
                     // Variable para saber si encontramos la especialidad con paquetes
@@ -142,49 +186,6 @@ $json_procedimientos = json_encode($procedimientos);
                     ?>
 
                 </div>
-
-                <p>La Neumología es la especialidad médica que se ocupa del diagnóstico, tratamiento y prevención de
-                    enfermedades del sistema respiratorio, como el asma, la neumonía, la EPOC (enfermedad pulmonar
-                    obstructiva crónica) y los trastornos del sueño relacionados con la respiración.</p>
-                <p>Los neumólogos se centran en las afecciones de los pulmones y vías respiratorias, ayudando a mejorar
-                    la función pulmonar y la calidad de vida de los pacientes.</p>
-
-                <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">Procedimientos de <b>NEUMOLOGÍA</b></p>
-                    <div class="container">
-                        <div class="row">
-
-                            <?php foreach ($procedimientos as $procedimiento): ?>
-                                <div class="col-md-6">
-                                    <div class="accordion"
-                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse"
-                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                    aria-expanded="false"
-                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                    <?= $procedimiento["nombre"] ?>
-                                                </button>
-                                            </h2>
-                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                class="accordion-collapse collapse"
-                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                <div class="accordion-body">
-                                                    <?= $procedimiento["contenido"] ?>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            <?php endforeach; ?>
-
-                        </div>
-                    </div>
-                </div>
-                <?php require_once('links-neumologia.php'); ?>
-
             </div>
         </div>
     </div>

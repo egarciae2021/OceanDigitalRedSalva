@@ -58,6 +58,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
+
+
+				<p>La Medicina General es la especialidad médica que se encarga del diagnóstico, tratamiento y
+					prevención de una amplia variedad de enfermedades en pacientes de todas las edades.</p>
+				<p>El médico general proporciona atención primaria, maneja problemas de salud comunes, coordina el
+					cuidado con otros especialistas y promueve hábitos saludables para mantener el bienestar general.
+				</p>
+
+				<?php require_once('links-medicina-general.php'); ?>
+
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -115,14 +125,6 @@
 					?>
 
 				</div>
-
-				<p>La Medicina General es la especialidad médica que se encarga del diagnóstico, tratamiento y
-					prevención de una amplia variedad de enfermedades en pacientes de todas las edades.</p>
-				<p>El médico general proporciona atención primaria, maneja problemas de salud comunes, coordina el
-					cuidado con otros especialistas y promueve hábitos saludables para mantener el bienestar general.
-				</p>
-
-				<?php require_once('links-medicina-general.php'); ?>
 
 			</div>
 		</div>

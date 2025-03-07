@@ -1,5 +1,3 @@
-
-
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
 		<div class="row">
@@ -59,63 +57,6 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 
-				<div class="container py-4">
-					<?php
-					// Variable para saber si encontramos la especialidad con paquetes
-					$especialidadConPaquetes = false;
-
-					foreach ($especialidades as $item):
-						// Verifica si la especialidad coincide y tiene paquetes
-						if (strtoupper($item['especialidad']) === strtoupper($h1) && !empty($item['paquetes'])):
-							$especialidadConPaquetes = true;
-							?>
-
-							<div class="mb-4">  
-								<p class="color-azul h5 mb-3">Paquetes disponibles</p>
-								<div class="row">
-									<?php foreach ($item['paquetes'] as $paquete): ?>
-										<div class="col-md-4 mb-3">
-											<div class="card h-100"
-												style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
-												<div class="paquete-header">
-													<h5 class="mb-0" style="color: #fff;">
-														<?php echo $paquete['nombre']; ?>
-													</h5>
-												</div>
-												<div class="p-3">
-													<ul class="list-unstyled text-center servicio-lista"
-														style="margin-bottom: 1rem;">
-														<?php foreach ($paquete['servicios'] as $index => $servicio): ?>
-															<li class="servicio-item">
-																<?php echo $servicio; ?>
-															</li>
-															<?php if ($index < count($paquete['servicios']) - 1): ?>
-																<li class="servicio-mas">+</li>
-															<?php endif; ?>
-														<?php endforeach; ?>
-													</ul>
-													<h5 class="text-center precio-total">
-														S/ <?php echo number_format($paquete['precio'], 2); ?>
-													</h5>
-													<div class="text-center mt-3">
-														<a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
-															class="btn btn-reservar">
-															Reservar
-														</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									<?php endforeach; ?>
-								</div>
-							</div>
-
-							<?php
-						endif;
-					endforeach;
-					?>
-
-				</div>
 
 				<p>La Endocrinología es la especialidad médica que se enfoca en el diagnóstico y tratamiento de
 					enfermedades relacionadas con las glándulas endocrinas y las hormonas, como la diabetes, trastornos
@@ -172,6 +113,45 @@
 							$especialidadConPaquetes = true;
 							?>
 
+							<div class="mb-4">
+								<p class="color-azul h5 mb-3">Paquetes disponibles</p>
+								<div class="row">
+									<?php foreach ($item['paquetes'] as $paquete): ?>
+										<div class="col-md-4 mb-3">
+											<div class="card h-100"
+												style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
+												<div class="paquete-header">
+													<h5 class="mb-0" style="color: #fff;">
+														<?php echo $paquete['nombre']; ?>
+													</h5>
+												</div>
+												<div class="p-3">
+													<ul class="list-unstyled text-center servicio-lista"
+														style="margin-bottom: 1rem;">
+														<?php foreach ($paquete['servicios'] as $index => $servicio): ?>
+															<li class="servicio-item">
+																<?php echo $servicio; ?>
+															</li>
+															<?php if ($index < count($paquete['servicios']) - 1): ?>
+																<li class="servicio-mas">+</li>
+															<?php endif; ?>
+														<?php endforeach; ?>
+													</ul>
+													<h5 class="text-center precio-total">
+														S/ <?php echo number_format($paquete['precio'], 2); ?>
+													</h5>
+													<div class="text-center mt-3">
+														<a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20m%C3%A1s%20informaci%C3%B3n"
+															class="btn btn-reservar">
+															Reservar
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									<?php endforeach; ?>
+								</div>
+							</div>
 
 							<?php
 						endif;
@@ -179,6 +159,7 @@
 					?>
 
 				</div>
+ 
 
 
 			</div>

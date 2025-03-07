@@ -60,6 +60,18 @@
 			<div class="col-md-10 offset-lg-1">
 
 
+
+				<p>En Red Salva, la especialidad de Psicología está orientada a cuidar tu bienestar emocional y mental
+					en cada etapa de tu vida. Contamos con profesionales capacitados para ayudarte a manejar el estrés,
+					la ansiedad, la depresión, dificultades en las relaciones interpersonales y otros desafíos
+					emocionales que pueden afectar tu calidad de vida.
+				</p>
+				<p>A través de un enfoque personalizado y terapias basadas en evidencia, te brindamos herramientas para
+					fortalecer tu salud mental, mejorar tu autoestima y desarrollar estrategias para afrontar
+					situaciones difíciles. Nuestro compromiso es acompañarte en tu proceso de crecimiento y equilibrio
+					emocional en un espacio seguro y confidencial. </p>
+
+
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -117,18 +129,6 @@
 					?>
 
 				</div>
-
-
-				<p>En Red Salva, la especialidad de Psicología está orientada a cuidar tu bienestar emocional y mental
-					en cada etapa de tu vida. Contamos con profesionales capacitados para ayudarte a manejar el estrés,
-					la ansiedad, la depresión, dificultades en las relaciones interpersonales y otros desafíos
-					emocionales que pueden afectar tu calidad de vida.
-				</p>
-				<p>A través de un enfoque personalizado y terapias basadas en evidencia, te brindamos herramientas para
-					fortalecer tu salud mental, mejorar tu autoestima y desarrollar estrategias para afrontar
-					situaciones difíciles. Nuestro compromiso es acompañarte en tu proceso de crecimiento y equilibrio
-					emocional en un espacio seguro y confidencial. </p>
-
 
 			</div>
 		</div>

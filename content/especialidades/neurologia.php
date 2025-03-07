@@ -111,6 +111,54 @@ $json_procedimientos = json_encode($procedimientos);
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 
+
+				<p>La Neurología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y prevención de
+					enfermedades del sistema nervioso, que incluye el cerebro, la médula espinal, los nervios y los
+					músculos.</p>
+				<p>Los neurólogos tratan una amplia variedad de trastornos, como accidentes cerebrovasculares,
+					epilepsia, enfermedades neurodegenerativas (como el Alzheimer y el Parkinson), esclerosis múltiple,
+					migrañas y neuropatías. Además, utilizan pruebas diagnósticas, como resonancias magnéticas y
+					electroencefalogramas, para evaluar el funcionamiento del sistema nervioso.</p>
+
+
+				<div style="margin:20px 0px !important">
+					<p class="color-azul h5">Procedimientos de <b>NEUROLOGÍA</b></p>
+					<div class="container">
+						<div class="row">
+
+							<?php foreach ($procedimientos as $procedimiento): ?>
+								<div class="col-md-6">
+									<div class="accordion"
+										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+										<div class="accordion-item">
+											<h2 class="accordion-header">
+												<button class="accordion-button collapsed" type="button"
+													data-bs-toggle="collapse"
+													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+													aria-expanded="false"
+													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+													<?= $procedimiento["nombre"] ?>
+												</button>
+											</h2>
+											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+												class="accordion-collapse collapse"
+												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+												<div class="accordion-body">
+													<?= $procedimiento["contenido"] ?>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							<?php endforeach; ?>
+
+						</div>
+					</div>
+				</div>
+
+				<?php require_once('links-neurologia.php'); ?>
+
+
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -168,53 +216,6 @@ $json_procedimientos = json_encode($procedimientos);
 					?>
 
 				</div>
-
-
-				<p>La Neurología es la especialidad médica que se enfoca en el diagnóstico, tratamiento y prevención de
-					enfermedades del sistema nervioso, que incluye el cerebro, la médula espinal, los nervios y los
-					músculos.</p>
-				<p>Los neurólogos tratan una amplia variedad de trastornos, como accidentes cerebrovasculares,
-					epilepsia, enfermedades neurodegenerativas (como el Alzheimer y el Parkinson), esclerosis múltiple,
-					migrañas y neuropatías. Además, utilizan pruebas diagnósticas, como resonancias magnéticas y
-					electroencefalogramas, para evaluar el funcionamiento del sistema nervioso.</p>
-
-
-				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">Procedimientos de <b>NEUROLOGÍA</b></p>
-					<div class="container">
-						<div class="row">
-
-							<?php foreach ($procedimientos as $procedimiento): ?>
-								<div class="col-md-6">
-									<div class="accordion"
-										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-										<div class="accordion-item">
-											<h2 class="accordion-header">
-												<button class="accordion-button collapsed" type="button"
-													data-bs-toggle="collapse"
-													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-													aria-expanded="false"
-													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-													<?= $procedimiento["nombre"] ?>
-												</button>
-											</h2>
-											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-												class="accordion-collapse collapse"
-												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body">
-													<?= $procedimiento["contenido"] ?>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							<?php endforeach; ?>
-
-						</div>
-					</div>
-				</div>
-
-				<?php require_once('links-neurologia.php'); ?>
 
 			</div>
 		</div>

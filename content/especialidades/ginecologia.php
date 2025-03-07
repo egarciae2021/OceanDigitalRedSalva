@@ -182,6 +182,59 @@ $json_procedimientos = json_encode($procedimientos);
         <div class="row">
             <div class="col-md-10 offset-lg-1">
 
+                <p>La Ginecología es la especialidad médica que se ocupa de la salud del sistema reproductivo femenino,
+                    incluyendo el diagnóstico, tratamiento y prevención de enfermedades en los órganos reproductivos,
+                    como el útero, ovarios y vagina.</p>
+                <p>Los ginecólogos realizan exámenes rutinarios, gestionan problemas como infecciones, trastornos
+                    menstruales, y enfermedades como el cáncer ginecológico, además de brindar atención en temas de
+                    fertilidad, anticoncepción y salud sexual.</p>
+
+
+                <div style="margin:20px 0px !important">
+                    <p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
+                    <div class="container">
+                        <div class="row">
+
+                            <?php foreach ($procedimientos as $procedimiento): ?>
+                                <div class="col-md-6">
+
+                                    <div class="accordion"
+                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                        <div class="accordion-item">
+                                            <h2 class="accordion-header">
+                                                <button class="accordion-button collapsed"
+                                                    style="padding: 15px 32px !important" type="button"
+                                                    data-bs-toggle="collapse"
+                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                    aria-expanded="false"
+                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                    <i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
+                                                </button>
+                                            </h2>
+                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+                                                class="accordion-collapse collapse"
+                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+                                                <div class="accordion-body" style="padding-top:5px !important">
+                                                    <p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
+                                                        href="">
+                                                        <?= $procedimiento['contenido'] ?>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                </div>
+                            <?php endforeach; ?>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <?php require_once('links-ginecologia.php'); ?>
+
                 <div class="container py-4">
                     <?php
                     // Variable para saber si encontramos la especialidad con paquetes
@@ -239,60 +292,6 @@ $json_procedimientos = json_encode($procedimientos);
                     ?>
 
                 </div>
-
-                <p>La Ginecología es la especialidad médica que se ocupa de la salud del sistema reproductivo femenino,
-                    incluyendo el diagnóstico, tratamiento y prevención de enfermedades en los órganos reproductivos,
-                    como el útero, ovarios y vagina.</p>
-                <p>Los ginecólogos realizan exámenes rutinarios, gestionan problemas como infecciones, trastornos
-                    menstruales, y enfermedades como el cáncer ginecológico, además de brindar atención en temas de
-                    fertilidad, anticoncepción y salud sexual.</p>
-
-
-                <div style="margin:20px 0px !important">
-                    <p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
-                    <div class="container">
-                        <div class="row">
-
-                            <?php foreach ($procedimientos as $procedimiento): ?>
-                                <div class="col-md-6">
-
-                                    <div class="accordion"
-                                        id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                        <div class="accordion-item">
-                                            <h2 class="accordion-header">
-                                                <button class="accordion-button collapsed"
-                                                    style="padding: 15px 32px !important" type="button"
-                                                    data-bs-toggle="collapse"
-                                                    data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                    aria-expanded="false"
-                                                    aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                    <i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
-                                                </button>
-                                            </h2>
-                                            <div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-                                                class="accordion-collapse collapse"
-                                                data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-                                                <div class="accordion-body" style="padding-top:5px !important">
-                                                    <p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
-                                                        href="">
-                                                        <?= $procedimiento['contenido'] ?>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                </div>
-                            <?php endforeach; ?>
-
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <?php require_once('links-ginecologia.php'); ?>
 
             </div>
         </div>

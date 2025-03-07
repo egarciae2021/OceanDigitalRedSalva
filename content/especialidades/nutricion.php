@@ -1,5 +1,5 @@
 <?php
-$procedimientos = [ 
+$procedimientos = [
 ];
 
 
@@ -68,20 +68,29 @@ $json_procedimientos = json_encode($procedimientos);
     <div class="container">
         <div class="row">
             <div class="col-md-10 offset-lg-1">
-            <p>La nutrición es una pieza clave en la prevención y tratamiento de múltiples enfermedades. Nuestro equipo de especialistas trabaja contigo para desarrollar un plan de alimentación adaptado a tus necesidades individuales, mejorando tu calidad de vida y promoviendo hábitos saludables.</p>
+                <p>La nutrición es una pieza clave en la prevención y tratamiento de múltiples enfermedades. Nuestro
+                    equipo de especialistas trabaja contigo para desarrollar un plan de alimentación adaptado a tus
+                    necesidades individuales, mejorando tu calidad de vida y promoviendo hábitos saludables.</p>
 
-<p>¿Por qué es importante la nutrición? Una alimentación balanceada no solo ayuda a mantener un peso saludable, sino que también es fundamental para prevenir enfermedades crónicas como diabetes, hipertensión y problemas cardiovasculares. Además, influye en la salud digestiva, el sistema inmunológico y el bienestar emocional.</p>
+                <p>¿Por qué es importante la nutrición? Una alimentación balanceada no solo ayuda a mantener un peso
+                    saludable, sino que también es fundamental para prevenir enfermedades crónicas como diabetes,
+                    hipertensión y problemas cardiovasculares. Además, influye en la salud digestiva, el sistema
+                    inmunológico y el bienestar emocional.</p>
 
-<ul>
-    <li>Nuestros servicios incluyen:</li>
-    <li>Evaluación nutricional personalizada: Analizamos tu estado de salud, hábitos alimenticios y objetivos.</li>
-    <li>Planes de alimentación especializados: Diseñamos dietas para el control de peso, enfermedades crónicas, alergias e intolerancias alimentarias.</li>
-    <li>Asesoría en nutrición clínica: Apoyo para pacientes con condiciones médicas específicas como diabetes, hipertensión o enfermedades gastrointestinales.</li>
-</ul>
+                <ul>
+                    <li>Nuestros servicios incluyen:</li>
+                    <li>Evaluación nutricional personalizada: Analizamos tu estado de salud, hábitos alimenticios y
+                        objetivos.</li>
+                    <li>Planes de alimentación especializados: Diseñamos dietas para el control de peso, enfermedades
+                        crónicas, alergias e intolerancias alimentarias.</li>
+                    <li>Asesoría en nutrición clínica: Apoyo para pacientes con condiciones médicas específicas como
+                        diabetes, hipertensión o enfermedades gastrointestinales.</li>
+                </ul>
 
-<p>En Red Salva al Paciente, creemos que una buena alimentación es la base para una vida plena y saludable. Agenda tu consulta y comienza tu camino hacia el bienestar.</p>
+                <p>En Red Salva al Paciente, creemos que una buena alimentación es la base para una vida plena y
+                    saludable. Agenda tu consulta y comienza tu camino hacia el bienestar.</p>
 
-                
+
 
                 <div class="container py-4">
                     <?php

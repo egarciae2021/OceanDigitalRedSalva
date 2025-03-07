@@ -1,6 +1,3 @@
-
-
-
 <section class="fondo-azul content-space-3  d-block d-md-none">
 	<div class="container pt-3 mb-n5">
 		<div class="row">
@@ -63,6 +60,60 @@
 		<div class="row">
 			<div class="col-md-10 offset-lg-1">
 
+				<p>La Cardiología es la especialidad médica que se dedica al diagnóstico, tratamiento y prevención de
+					las enfermedades del corazón y los vasos sanguíneos.</p>
+				<p>Los cardiólogos manejan una amplia variedad de condiciones, como hipertensión, insuficiencia
+					cardíaca, arritmias, enfermedades coronarias y problemas de las válvulas cardíacas.</p>
+				<p>Además, se especializan en la realización de pruebas diagnósticas, como electrocardiogramas,
+					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p>
+
+				<!-- PROCEDIMIENTOS -->
+				<div style="margin:20px 0px !important">
+					<p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
+					<div class="container">
+						<div class="row">
+
+							<?php foreach ($procedimientos_cardiologia as $procedimiento): ?>
+								<div class="col-md-6">
+
+									<div class="accordion"
+										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+										<div class="accordion-item">
+											<h2 class="accordion-header">
+												<button class="accordion-button collapsed"
+													style="padding: 15px 32px !important" type="button"
+													data-bs-toggle="collapse"
+													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+													aria-expanded="false"
+													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+													<i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
+												</button>
+											</h2>
+											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
+												class="accordion-collapse collapse"
+												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
+												<div class="accordion-body" style="padding-top:5px !important">
+													<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
+														href="">
+														<?= $procedimiento['contenido'] ?>
+													</p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+
+								</div>
+							<?php endforeach; ?>
+
+						</div>
+					</div>
+				</div>
+
+				<!-- FIN DE PROCEDIMIENTOS -->
+
+				<?php require_once('links-cardiologia.php'); ?>
+
 				<div class="container py-4">
 					<?php
 					// Variable para saber si encontramos la especialidad con paquetes
@@ -120,62 +171,6 @@
 					?>
 
 				</div>
-
-
-				<p>La Cardiología es la especialidad médica que se dedica al diagnóstico, tratamiento y prevención de
-					las enfermedades del corazón y los vasos sanguíneos.</p>
-				<p>Los cardiólogos manejan una amplia variedad de condiciones, como hipertensión, insuficiencia
-					cardíaca, arritmias, enfermedades coronarias y problemas de las válvulas cardíacas.</p>
-				<p>Además, se especializan en la realización de pruebas diagnósticas, como electrocardiogramas,
-					ecocardiogramas y pruebas de esfuerzo, para evaluar la función cardíaca.</p>
-
-				<!-- PROCEDIMIENTOS -->
-				<div style="margin:20px 0px !important">
-					<p class="color-azul h5">Procedimientos de <b><?php echo strtoupper($h1); ?></b></p>
-					<div class="container">
-						<div class="row">
-
-							<?php foreach ($procedimientos_cardiologia as $procedimiento): ?>
-								<div class="col-md-6">
-
-									<div class="accordion"
-										id="accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-										<div class="accordion-item">
-											<h2 class="accordion-header">
-												<button class="accordion-button collapsed"
-													style="padding: 15px 32px !important" type="button"
-													data-bs-toggle="collapse"
-													data-bs-target="#collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-													aria-expanded="false"
-													aria-controls="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-													<i class="bi-house list-group-icon"></i> <?= $procedimiento["nombre"] ?>
-												</button>
-											</h2>
-											<div id="collapse<?= str_replace(' ', '', $procedimiento['nombre']) ?>"
-												class="accordion-collapse collapse"
-												data-bs-parent="#accordion<?= str_replace(' ', '', $procedimiento['nombre']) ?>">
-												<div class="accordion-body" style="padding-top:5px !important">
-													<p class="list-group-item list-group-item-action link-pointer color-azul color-naranja-hover"
-														href="">
-														<?= $procedimiento['contenido'] ?>
-													</p>
-												</div>
-											</div>
-										</div>
-									</div>
-
-
-								</div>
-							<?php endforeach; ?>
-
-						</div>
-					</div>
-				</div>
-
-				<!-- FIN DE PROCEDIMIENTOS -->
-
-				<?php require_once('links-cardiologia.php'); ?>
-
 
 
 			</div>

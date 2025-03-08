@@ -98,7 +98,7 @@ if ($paquetes === null) {
     <!-- Carrusel único que muestra un paquete por slide -->
 
 
-    <div id="paquetesCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="22500">
+    <div id="paquetesCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="2500">
         <div class="carousel-inner">
             <?php foreach ($paquetes as $index => $paquete): ?>
                 <div class="carousel-item <?php echo $index === 0 ? 'active' : ''; ?>">

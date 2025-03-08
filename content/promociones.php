@@ -1,156 +1,199 @@
 <?php
-$especialidades = json_decode($jsonData, true);
-if ($especialidades === null) {
+$jsonData2 = '[
+  {
+    "especialidad": "Ginecologia",
+    "imagen": "images/paquetes/gineco_paquete_integral.png",
+    "nombre": "Paquete Integral",
+    "precio": 180,
+    "servicios": [
+      "CONSULTA GINECOLÓGICA",
+      "ECOGRAFÍA TRANSVAGINAL",
+      "ECOGRAFÍA DE MAMA",
+      "PAPANICOLAOU",
+      "COLPOSCOPIA",
+      "CONSULTA DE RE EVALUACIÓN"
+    ]
+  },
+  {
+    "especialidad": "Ginecologia",
+    "imagen": "images/paquetes/gineco_paquete_basico.png",
+    "nombre": "Paquete Básico",
+    "precio": 120,
+    "servicios": [
+      "CONSULTA GINECOLÓGICA",
+      "ECOGRAFÍA DE MAMA",
+      "PAPANICOLAOU",
+      "COLPOSCOPIA O ECOGRAFÍA TRANSVAGINAL",
+      "CONSULTA DE RE EVALUACIÓN"
+    ]
+  },
+  {
+    "especialidad": "Ginecologia",
+    "imagen": "images/paquetes/gineco_paquete_preventivo.png",
+    "nombre": "Paquete Preventivo",
+    "precio": 90,
+    "servicios": [
+      "CONSULTA GINECOLÓGICA",
+      "PAPANICOLAOU",
+      "ECOGRAFÍA TRANSVAGINAL"
+    ]
+  },
+  {
+    "especialidad": "Pediatría",
+    "imagen": "images/paquetes/pediatria_nino_sano.png",
+    "nombre": "Paquete  Niño Sano",
+    "precio": 90,
+    "servicios": [
+      "HEMOGRAMA",
+      "GRUPO SANGUINEO Y FACTOR",
+      "PARASITOLOGICO",
+      "TEST DE GRAHAM",
+      "EXAMEN DE ORINA COMPLETA",
+      "CONSULTA MÉDICA"
+    ]
+  },
+  {
+    "especialidad": "Endocrinología",
+    "imagen": "images/paquetes/endocrino_paquete_basico.png",
+    "nombre": "Paquete Básico",
+    "precio": 100,
+    "servicios": [
+      "ECOGRAFIA ABDOMINAL",
+      "CONSULTA MÉDICA"
+    ]
+  },
+  {
+    "especialidad": "Endocrinología",
+    "imagen": "images/paquetes/endocrino_paquete_completo.png",
+    "nombre": "Paquete Completo",
+    "precio": 120,
+    "servicios": [
+      "ECOGRAFIA ABDOMINAL",
+      "TRIGLICERIDOS",
+      "COLESTEROL",
+      "HDL",
+      "VLDL",
+      "GLUCOSA",
+      "CONSULTA MÉDICA"
+    ]
+  }
+]';
+
+$paquetes = json_decode($jsonData2, true);
+if ($paquetes === null) {
     die("Error al decodificar JSON: " . json_last_error_msg());
 }
-
-// Convertir el array a JSON para usarlo en JavaScript
-$jsonEspecialidades = json_encode($especialidades, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 ?>
-
 <script>
-    console.log(<?php echo $jsonEspecialidades; ?>);
+    console.log(<?php echo json_encode($paquetes, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE); ?>);
 </script>
 
 <div class="container py-4" style="margin-top: 200px !important;">
-
-    <p style="font-size: 26px !important;" class="mb-5">Tu bienestar es nuestra prioridad. Aquí encontrarás paquetes
-        diseñados para cuidar tu salud de manera integral,
+    <p style="font-size: 26px !important;" class="mb-5">
+        Tu bienestar es nuestra prioridad. Aquí encontrarás paquetes diseñados para cuidar tu salud de manera integral,
         con evaluaciones preventivas y controles médicos adaptados a tus necesidades. Explora nuestras opciones y da el
-        primer paso hacia una vida más saludable.
+        primer paso hacia una vida más saludable. ¡Tu salud en buenas manos!
+    </p>
 
-        ¡Tu salud en buenas manos!</p>
-
-    <?php foreach ($especialidades as $item): ?>
-        <?php if (!empty($item['paquetes'])): ?>
-            <div class="mb-4">
-                <?php
-                $numPaquetes = count($item['paquetes']);
-                if ($numPaquetes > 3):
-                    $chunks = array_chunk($item['paquetes'], 3);
-                    $carouselId = 'carousel_' . preg_replace('/\s+/', '_', strtolower($item['especialidad']));
-                    $interval = 3000;
-                    ?>
-                    <div id="<?php echo $carouselId; ?>" class="carousel slide" data-bs-ride="carousel"
-                        data-bs-interval="<?php echo $interval; ?>">
-                        <div class="carousel-inner">
-                            <?php foreach ($chunks as $index => $chunk): ?>
-                                <div class="carousel-item <?php echo $index === 0 ? 'active' : ''; ?>">
-                                    <div class="row card-group">
-                                        <?php foreach ($chunk as $paquete): ?>
-                                            <div class="col-md-4 mb-3">
-                                                <div class="card same-height-card" 
-                                                    style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;height :500px !important">
-                                                    <div class="paquete-header"
-                                                        style="background-color: #00b59c; text-align: center; color: white; padding: 10px;">
-                                                        <h5 class="mb-0" style="color:white !important; padding: 10px !important;">
-                                                            <?php echo $item['especialidad']; ?>
-                                                        </h5>
-                                                    </div>
-                                                    <div class="p-3">
-                                                        <?php if (!empty($paquete['imagen'])): ?>
-                                                            <img src="<?php echo $paquete['imagen']; ?>" class="img-fluid"
-                                                                alt="<?php echo $paquete['nombre']; ?>">
-                                                        <?php endif; ?>
-                                                        <h4 class="text-center my-3"><b><?php echo $paquete['nombre']; ?></b> </h4>
-                                                        <ul class="list-unstyled text-center servicio-lista" style="margin-bottom: 1rem;">
-                                                            <?php foreach ($paquete['servicios'] as $i => $servicio): ?>
-                                                                <li class="servicio-item"><?php echo $servicio; ?></li>
-                                                                <?php if ($i < count($paquete['servicios']) - 1): ?>
-                                                                    <li class="servicio-mas">+</li>
-                                                                <?php endif; ?>
-                                                            <?php endforeach; ?>
-                                                        </ul>
-                                                        <h5 class="text-center precio-total">S/
-                                                            <?php echo number_format($paquete['precio'], 2); ?>
-                                                        </h5>
-                                                        <div class="text-center mb-3">
-                                                            <a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20más%20información"
-                                                                class="btn btn-reservar">Reservar</a>
-                                                        </div>
+    <!-- Carrusel único que muestra un paquete por slide -->
 
 
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        <?php endforeach; ?>
-                                    </div>
+    <div id="paquetesCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="22500">
+        <div class="carousel-inner">
+            <?php foreach ($paquetes as $index => $paquete): ?>
+                <div class="carousel-item <?php echo $index === 0 ? 'active' : ''; ?>">
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+                            <div class="card same-height-card"
+                                style="border: 2px solid #00b59c; border-radius: 15px; overflow: hidden; ">
+                                <div class="paquete-header"
+                                    style="background-color: #00b59c; text-align: center; color: white; padding: 10px;">
+                                    <h5 class="mb-0"
+                                        style="padding: 10px !important; font-size: 26px !important; color: white !important;">
+                                        <?php echo $paquete['especialidad']; ?>
+                                    </h5>
                                 </div>
-                            <?php endforeach; ?>
-                        </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#<?php echo $carouselId; ?>"
-                            data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Anterior</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#<?php echo $carouselId; ?>"
-                            data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Siguiente</span>
-                        </button>
-                    </div>
-                <?php else: ?>
-                    <div class="row card-group">
-                        <?php foreach ($item['paquetes'] as $paquete): ?>
-                            <div class="col-md-4 mb-3">
-                                <div class="card same-height-card"
-                                    style="position: relative; border: 2px solid #00b59c; border-radius: 15px; overflow: hidden;">
-                                    <div class="paquete-header"
-                                        style="background-color: #00b59c; text-align: center; color: white; padding: 10px;">
-                                        <h5 class="mb-0" style="color:white !important; padding: 10px !important;">
-                                            <?php echo $item['especialidad']; ?>
-                                        </h5>
+                                <div class="p-0">
+                                    <?php if (!empty($paquete['imagen'])): ?>
+                                        <img src="<?php echo $paquete['imagen']; ?>" class="img-fluid"
+                                            alt="<?php echo $paquete['nombre']; ?>">
+                                    <?php endif; ?>
+                                    <h4 class="text-center my-3"><b><?php echo $paquete['nombre']; ?></b></h4>
+                                    <ul class="list-unstyled text-center servicio-lista" style="margin-bottom: 1rem;">
+                                        <?php foreach ($paquete['servicios'] as $i => $servicio): ?>
+                                            <li class="servicio-item"><?php echo $servicio; ?></li>
+                                            <?php if ($i < count($paquete['servicios']) - 1): ?>
+                                                <li class="servicio-mas">+</li>
+                                            <?php endif; ?>
+                                        <?php endforeach; ?>
+                                    </ul>
+                                    <h5 class="text-center precio-total">S/
+                                        <?php echo number_format($paquete['precio'], 2); ?>
+                                    </h5>
+
+                                    <div style="text-align: center; margin: 25px;">
+                                        <a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20más%20información"
+                                            class="btn btn-reservar">Reservar</a>
                                     </div>
-                                    <div class="p-0">
-                                        <?php if (!empty($paquete['imagen'])): ?>
-                                            <img src="<?php echo $paquete['imagen']; ?>" class="img-fluid"
-                                                alt="<?php echo $paquete['nombre']; ?>">
-                                        <?php endif; ?>
-                                        <h4 class="text-center my-3"><b><?php echo $paquete['nombre']; ?></b> </h4>
-                                        <ul class="list-unstyled text-center servicio-lista" style="margin-bottom: 1rem;">
-                                            <?php foreach ($paquete['servicios'] as $i => $servicio): ?>
-                                                <li class="servicio-item"><?php echo $servicio; ?></li>
-                                                <?php if ($i < count($paquete['servicios']) - 1): ?>
-                                                    <li class="servicio-mas">+</li>
-                                                <?php endif; ?>
-                                            <?php endforeach; ?>
-                                        </ul>
-                                        <h5 class="text-center precio-total"
-                                            style="position: absolute; bottom: 70px; left: 50%; transform: translateX(-50%);">S/
-                                            <?php echo number_format($paquete['precio'], 2); ?>
-                                        </h5>
-                                        <div class="text-center mb-3"
-                                            style="position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%);">
-                                            <a href="https://api.whatsapp.com/send?phone=51921883459&text=Deseo%20más%20información"
-                                                class="btn btn-reservar">Reservar</a>
-                                        </div>
-                                    </div>
+
                                 </div>
                             </div>
-                        <?php endforeach; ?>
+                        </div>
                     </div>
-                <?php endif; ?>
-            </div>
-        <?php endif; ?>
-    <?php endforeach; ?>
+                </div>
+            <?php endforeach; ?>
+        </div>
+
+
+
+        <!-- Controles del carrusel -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#paquetesCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#paquetesCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Siguiente</span>
+        </button>
+    </div>
+    <a class="btn btn-primary mt-3 w-100 paquete-header" style="font-size:36px !important;cursor: pointer !important" href="/especialidades">Ver
+        Todos los Paquetes</a>
 </div>
 
-
-
 <style>
-    .card {
-        display: flex;
-        flex-direction: column;
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 5%;
+        /* Ajusta el ancho de las flechas */
     }
 
-    .card .p-3 {
-        flex-grow: 1;
+    .carousel-control-prev-icon,
+    .carousel-control-next-icon {
+        background-color: rgba(0, 0, 0, 0.5);
+        /* Color de fondo de las flechas */
+        border-radius: 50%;
+        /* Hace las flechas circulares */
+        padding: 10px;
+        /* Espacio alrededor del icono */
+    }
+
+    .btn-reservar {
+        display: inline-block;
+    }
+
+    .carousel-inner {
+        height: 1100px !important;
+    }
+
+    .paquetesCarousel {
+        height: 1100px !important;
+    }
+
+    .same-height-card {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        padding: 0;
-        /* Elimina el padding del .p-3 */
+        position: relative;
+        height: 1100px !important;
     }
 
     .paquete-header {
@@ -168,49 +211,34 @@ $jsonEspecialidades = json_encode($especialidades, JSON_PRETTY_PRINT | JSON_UNES
         object-fit: cover;
     }
 
-    .card .p-3 img {
-        margin-bottom: 0;
-    }
-
-    html {
+    html,
+    body {
         overflow-anchor: none !important;
     }
 </style>
 
-
-
 <script>
-    function setEqualHeight(groupSelector, cardSelector) {
-        const currentScroll = window.scrollY;
-
-        const groups = document.querySelectorAll(groupSelector);
-        groups.forEach(group => {
-            const cards = group.querySelectorAll(cardSelector);
-            let maxHeight = 0;
-            cards.forEach(card => {
-                card.style.height = 'auto';
-                maxHeight = Math.max(maxHeight, card.offsetHeight);
-            });
-            cards.forEach(card => {
-                card.style.height = (maxHeight + 140) + 'px';
-            });
+    function setEqualHeight(selector) {
+        var elements = document.querySelectorAll(selector);
+        var maxHeight = 0;
+        // Resetear alturas y calcular el máximo
+        elements.forEach(function (el) {
+            el.style.height = 'auto';
+            if (el.offsetHeight > maxHeight) {
+                maxHeight = el.offsetHeight;
+            }
         });
-
-        window.scrollTo(0, currentScroll);
+        // Asignar el mismo alto a cada tarjeta
+        elements.forEach(function (el) {
+            el.style.height = maxHeight + 'px';
+        });
     }
 
-
     document.addEventListener('DOMContentLoaded', function () {
-        setEqualHeight('.card-group', '.same-height-card');
-
-        document.querySelectorAll('.carousel').forEach(carousel => {
-            carousel.addEventListener('slide.bs.carousel', function () {
-                setEqualHeight('.card-group', '.same-height-card');
-            });
-        });
+        setEqualHeight('.same-height-card');
     });
 
     window.addEventListener('resize', function () {
-        setEqualHeight('.card-group', '.same-height-card');
+        setEqualHeight('.same-height-card');
     });
 </script>

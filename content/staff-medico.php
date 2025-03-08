@@ -15,7 +15,7 @@
  
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
-	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
+	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;margin-top:70px">
 
 	<div class="container pt-3 mb-n5 h-100 position-relative d-flex">
 		<div class="row h-100 w-100">
@@ -30,7 +30,7 @@
 			</div>
 
 			<div class="col-md-5 d-flex align-items-center ps-5"
-				style="position: relative; left: 60%; transform: translateX(-250%);">
+				style="position: relative; left: 60%; transform: translateX(-290%);">
 				<div class="fondo-celeste-bajo rounded-3 zi-1 p-4 shadow-lg d-flex flex-column justify-content-center align-items-start"
 					style="width: auto; height: auto; max-width: 320px;">
 

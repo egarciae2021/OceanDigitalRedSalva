@@ -16,7 +16,7 @@ $servicios = json_decode($jsonData, true);
 
 
 <div class="fondo-azul"
-	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
+	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;margin-top:70px">
 	<div class="container content-space-t-lg-4 content-space-b-1">
 		<h1 class="display-5 color-white">Servicios</h1>
 		<div class="mb-3">

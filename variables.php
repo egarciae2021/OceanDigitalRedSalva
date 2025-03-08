@@ -741,3 +741,10 @@ $procedimientos_endocrinologia = [
 $json_procedimientos = json_encode($procedimientos_endocrinologia);
 
 ?>
+
+
+
+
+
+
+

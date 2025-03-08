@@ -17,7 +17,7 @@
 
 
 <section class="fondo-azul content-space-1 d-none d-md-block"
-	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;">
+	style="background: linear-gradient(90deg, rgba(4,147,167,1) 29%, rgba(41,83,160,1) 68%) !important; max-height: 65vh !important; position: relative;margin-top:70px">
 
 	<div class="container pt-3 mb-n5 h-100 position-relative d-flex">
 		<div class="row h-100 w-100">

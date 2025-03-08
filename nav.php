@@ -11,7 +11,7 @@
     <nav class="js-mega-menu navbar-nav-wrap" style="margin-left:15% !important">
       <a class="navbar-brand" href="/" aria-label="Red Salva"
         style="margin-top:-10px !important;margin-right:5% !important">
-        <img class="navbar-brand-logo" src="/images/logo2.png" alt="Red Salva">
+        <img class="navbar-brand-logo" src="/images/logo2.png" alt="Red Salva" style="margin-top:-20px !important">
       </a>
       <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

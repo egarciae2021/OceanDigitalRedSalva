@@ -241,7 +241,7 @@ if ($paquetes === null) {
         primer paso hacia una vida más saludable. ¡Tu salud en buenas manos!
     </p>
 
-    <div id="paquetesCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000"
+    <div id="paquetesCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000"
         >
         <div class="carousel-inner">
             <?php

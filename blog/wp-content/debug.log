@@ -9308,3 +9308,809 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:52:47 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:52:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:54:51 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:54:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:55:17 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 13:55:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:00:13 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:00:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:00:41 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:00:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:01:10 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:01:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:05:11 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:05:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:05:26 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:05:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:07:23 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:10:03 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:10:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:14:39 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:14:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:15:24 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:15:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:16:23 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:16:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:16:27 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:16:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:50 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:17:52 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:17:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:18 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:20 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:31 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:32 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:46 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:18:48 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:18:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:04 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:05 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:10 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:12 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:39 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:19:40 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:19:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:15 UTC] PHP Warning:  Undefined variable $servicioIndex in C:\xampp\htdocs\content\promociones.php on line 269
+[08-Mar-2025 14:21:16 UTC] PHP Warning:  require_once(content//assets/css/font-awesome.css.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\index.php on line 1194
+[08-Mar-2025 14:21:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'content//assets/css/font-awesome.css.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\index.php:1194
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\index.php on line 1194
